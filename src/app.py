@@ -27,11 +27,11 @@ def get_h2h(home_id, away_id):
         return 0.5, 0
 
     row = match.iloc[0]
-    rate = row["h2h_home_win_rate"]
-    if row["home_team_id"] != home_id:
+    rate = row["team_a_win_rate"]
+    if home_id != a:
         rate = 1 - rate
 
-    return rate, row["h2h_matches_played"]
+    return rate, row["matches_played"]
 
 def build_features(home_id, away_id):
     home_elo = elo.loc[home_id, "elo"] if home_id in elo.index else 1500
