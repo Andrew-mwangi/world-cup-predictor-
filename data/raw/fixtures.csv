@@ -1,0 +1,1655 @@
+fixture_id,date,league,season,home_team,away_team,home_team_id,away_team_id,home_goals,away_goals,status,result
+855736,2022-11-20T16:00:00+00:00,World Cup,2022,Qatar,Ecuador,1569,2382,0.0,2.0,FT,away_win
+855735,2022-11-21T13:00:00+00:00,World Cup,2022,England,Iran,10,22,6.0,2.0,FT,home_win
+855734,2022-11-21T16:00:00+00:00,World Cup,2022,Senegal,Netherlands,13,1118,0.0,2.0,FT,away_win
+866681,2022-11-21T19:00:00+00:00,World Cup,2022,USA,Wales,2384,767,1.0,1.0,FT,draw
+855737,2022-11-22T10:00:00+00:00,World Cup,2022,Argentina,Saudi Arabia,26,23,1.0,2.0,FT,away_win
+855738,2022-11-22T13:00:00+00:00,World Cup,2022,Denmark,Tunisia,21,28,0.0,0.0,FT,draw
+855739,2022-11-22T16:00:00+00:00,World Cup,2022,Mexico,Poland,16,24,0.0,0.0,FT,draw
+871850,2022-11-22T19:00:00+00:00,World Cup,2022,France,Australia,2,20,4.0,1.0,FT,home_win
+855740,2022-11-23T10:00:00+00:00,World Cup,2022,Morocco,Croatia,31,3,0.0,0.0,FT,draw
+855741,2022-11-23T13:00:00+00:00,World Cup,2022,Germany,Japan,25,12,1.0,2.0,FT,away_win
+871851,2022-11-23T16:00:00+00:00,World Cup,2022,Spain,Costa Rica,9,29,7.0,0.0,FT,home_win
+855742,2022-11-23T19:00:00+00:00,World Cup,2022,Belgium,Canada,1,5529,1.0,0.0,FT,home_win
+855743,2022-11-24T10:00:00+00:00,World Cup,2022,Switzerland,Cameroon,15,1530,1.0,0.0,FT,home_win
+855744,2022-11-24T13:00:00+00:00,World Cup,2022,Uruguay,South Korea,7,17,0.0,0.0,FT,draw
+855745,2022-11-24T16:00:00+00:00,World Cup,2022,Portugal,Ghana,27,1504,3.0,2.0,FT,home_win
+855746,2022-11-24T19:00:00+00:00,World Cup,2022,Brazil,Serbia,6,14,2.0,0.0,FT,home_win
+866682,2022-11-25T10:00:00+00:00,World Cup,2022,Wales,Iran,767,22,0.0,2.0,FT,away_win
+855747,2022-11-25T13:00:00+00:00,World Cup,2022,Qatar,Senegal,1569,13,1.0,3.0,FT,away_win
+855748,2022-11-25T16:00:00+00:00,World Cup,2022,Netherlands,Ecuador,1118,2382,1.0,1.0,FT,draw
+855749,2022-11-25T19:00:00+00:00,World Cup,2022,England,USA,10,2384,0.0,0.0,FT,draw
+871852,2022-11-26T10:00:00+00:00,World Cup,2022,Tunisia,Australia,28,20,0.0,1.0,FT,away_win
+855750,2022-11-26T13:00:00+00:00,World Cup,2022,Poland,Saudi Arabia,24,23,2.0,0.0,FT,home_win
+855751,2022-11-26T16:00:00+00:00,World Cup,2022,France,Denmark,2,21,2.0,1.0,FT,home_win
+855752,2022-11-26T19:00:00+00:00,World Cup,2022,Argentina,Mexico,26,16,2.0,0.0,FT,home_win
+871853,2022-11-27T10:00:00+00:00,World Cup,2022,Japan,Costa Rica,12,29,0.0,1.0,FT,away_win
+855753,2022-11-27T13:00:00+00:00,World Cup,2022,Belgium,Morocco,1,31,0.0,2.0,FT,away_win
+855754,2022-11-27T16:00:00+00:00,World Cup,2022,Croatia,Canada,3,5529,4.0,1.0,FT,home_win
+855755,2022-11-27T19:00:00+00:00,World Cup,2022,Spain,Germany,9,25,1.0,1.0,FT,draw
+855756,2022-11-28T10:00:00+00:00,World Cup,2022,Cameroon,Serbia,1530,14,3.0,3.0,FT,draw
+855757,2022-11-28T13:00:00+00:00,World Cup,2022,South Korea,Ghana,17,1504,2.0,3.0,FT,away_win
+855758,2022-11-28T16:00:00+00:00,World Cup,2022,Brazil,Switzerland,6,15,1.0,0.0,FT,home_win
+855759,2022-11-28T19:00:00+00:00,World Cup,2022,Portugal,Uruguay,27,7,2.0,0.0,FT,home_win
+855760,2022-11-29T15:00:00+00:00,World Cup,2022,Netherlands,Qatar,1118,1569,2.0,0.0,FT,home_win
+855761,2022-11-29T15:00:00+00:00,World Cup,2022,Ecuador,Senegal,2382,13,1.0,2.0,FT,away_win
+855762,2022-11-29T19:00:00+00:00,World Cup,2022,Iran,USA,22,2384,0.0,1.0,FT,away_win
+866683,2022-11-29T19:00:00+00:00,World Cup,2022,Wales,England,767,10,0.0,3.0,FT,away_win
+871854,2022-11-30T15:00:00+00:00,World Cup,2022,Australia,Denmark,20,21,1.0,0.0,FT,home_win
+855763,2022-11-30T15:00:00+00:00,World Cup,2022,Tunisia,France,28,2,1.0,0.0,FT,home_win
+855765,2022-11-30T19:00:00+00:00,World Cup,2022,Saudi Arabia,Mexico,23,16,1.0,2.0,FT,away_win
+855764,2022-11-30T19:00:00+00:00,World Cup,2022,Poland,Argentina,24,26,0.0,2.0,FT,away_win
+855766,2022-12-01T15:00:00+00:00,World Cup,2022,Croatia,Belgium,3,1,0.0,0.0,FT,draw
+855767,2022-12-01T15:00:00+00:00,World Cup,2022,Canada,Morocco,5529,31,1.0,2.0,FT,away_win
+855768,2022-12-01T19:00:00+00:00,World Cup,2022,Japan,Spain,12,9,2.0,1.0,FT,home_win
+871855,2022-12-01T19:00:00+00:00,World Cup,2022,Costa Rica,Germany,29,25,2.0,4.0,FT,away_win
+855769,2022-12-02T15:00:00+00:00,World Cup,2022,South Korea,Portugal,17,27,2.0,1.0,FT,home_win
+855770,2022-12-02T15:00:00+00:00,World Cup,2022,Ghana,Uruguay,1504,7,0.0,2.0,FT,away_win
+855772,2022-12-02T19:00:00+00:00,World Cup,2022,Serbia,Switzerland,14,15,2.0,3.0,FT,away_win
+855771,2022-12-02T19:00:00+00:00,World Cup,2022,Cameroon,Brazil,1530,6,1.0,0.0,FT,home_win
+976533,2022-12-03T15:00:00+00:00,World Cup,2022,Netherlands,USA,1118,2384,3.0,1.0,FT,home_win
+976642,2022-12-03T19:00:00+00:00,World Cup,2022,Argentina,Australia,26,20,2.0,1.0,FT,home_win
+976643,2022-12-04T15:00:00+00:00,World Cup,2022,France,Poland,2,24,3.0,1.0,FT,home_win
+976534,2022-12-04T19:00:00+00:00,World Cup,2022,England,Senegal,10,13,3.0,0.0,FT,home_win
+977705,2022-12-05T19:00:00+00:00,World Cup,2022,Brazil,South Korea,6,17,4.0,1.0,FT,home_win
+977706,2022-12-06T19:00:00+00:00,World Cup,2022,Portugal,Switzerland,27,15,6.0,1.0,FT,home_win
+978088,2022-12-10T15:00:00+00:00,World Cup,2022,Morocco,Portugal,31,27,1.0,0.0,FT,home_win
+978036,2022-12-10T19:00:00+00:00,World Cup,2022,England,France,10,2,1.0,2.0,FT,away_win
+978279,2022-12-13T19:00:00+00:00,World Cup,2022,Argentina,Croatia,26,3,3.0,0.0,FT,home_win
+978488,2022-12-14T19:00:00+00:00,World Cup,2022,France,Morocco,2,31,2.0,0.0,FT,home_win
+979138,2022-12-17T15:00:00+00:00,World Cup,2022,Croatia,Morocco,3,31,2.0,1.0,FT,home_win
+1323239,2025-03-21T17:00:00+00:00,World Cup - Qualification Europe,2024,Cyprus,San Marino,1106,1115,2.0,0.0,FT,home_win
+1323242,2025-03-21T19:45:00+00:00,World Cup - Qualification Europe,2024,England,Albania,10,778,2.0,0.0,FT,home_win
+1323238,2025-03-21T19:45:00+00:00,World Cup - Qualification Europe,2024,Poland,Lithuania,24,1097,1.0,0.0,FT,home_win
+1323240,2025-03-21T19:45:00+00:00,World Cup - Qualification Europe,2024,Romania,Bosnia & Herzegovina,774,1113,0.0,1.0,FT,away_win
+1323241,2025-03-21T19:45:00+00:00,World Cup - Qualification Europe,2024,Andorra,Latvia,1110,1092,0.0,1.0,FT,away_win
+1323237,2025-03-21T19:45:00+00:00,World Cup - Qualification Europe,2024,Malta,Finland,1112,1099,0.0,1.0,FT,away_win
+1323243,2025-03-22T14:00:00+00:00,World Cup - Qualification Europe,2024,Liechtenstein,FYR Macedonia,1107,1105,0.0,3.0,FT,away_win
+1323245,2025-03-22T17:00:00+00:00,World Cup - Qualification Europe,2024,Montenegro,Gibraltar,1109,1093,3.0,1.0,FT,home_win
+1323244,2025-03-22T17:00:00+00:00,World Cup - Qualification Europe,2024,Moldova,Norway,1114,1090,0.0,5.0,FT,away_win
+1323247,2025-03-22T19:45:00+00:00,World Cup - Qualification Europe,2024,Wales,Kazakhstan,767,1095,3.0,1.0,FT,home_win
+1323248,2025-03-22T19:45:00+00:00,World Cup - Qualification Europe,2024,Czechia,Faroe Islands,770,1098,2.0,1.0,FT,home_win
+1323246,2025-03-22T19:45:00+00:00,World Cup - Qualification Europe,2024,Israel,Estonia,1116,1101,2.0,1.0,FT,home_win
+1323249,2025-03-24T17:00:00+00:00,World Cup - Qualification Europe,2024,Lithuania,Finland,1097,1099,2.0,2.0,FT,draw
+1323254,2025-03-24T19:45:00+00:00,World Cup - Qualification Europe,2024,England,Latvia,10,1092,3.0,0.0,FT,home_win
+1323250,2025-03-24T19:45:00+00:00,World Cup - Qualification Europe,2024,Poland,Malta,24,1112,2.0,0.0,FT,home_win
+1323253,2025-03-24T19:45:00+00:00,World Cup - Qualification Europe,2024,Albania,Andorra,778,1110,3.0,0.0,FT,home_win
+1323251,2025-03-24T19:45:00+00:00,World Cup - Qualification Europe,2024,Bosnia & Herzegovina,Cyprus,1113,1106,2.0,1.0,FT,home_win
+1323252,2025-03-24T19:45:00+00:00,World Cup - Qualification Europe,2024,San Marino,Romania,1115,774,1.0,5.0,FT,away_win
+1323256,2025-03-25T17:00:00+00:00,World Cup - Qualification Europe,2024,Moldova,Estonia,1114,1101,2.0,3.0,FT,away_win
+1323259,2025-03-25T19:45:00+00:00,World Cup - Qualification Europe,2024,Gibraltar,Czechia,1093,770,0.0,4.0,FT,away_win
+1323258,2025-03-25T19:45:00+00:00,World Cup - Qualification Europe,2024,FYR Macedonia,Wales,1105,767,1.0,1.0,FT,draw
+1323257,2025-03-25T19:45:00+00:00,World Cup - Qualification Europe,2024,Liechtenstein,Kazakhstan,1107,1095,0.0,2.0,FT,away_win
+1323260,2025-03-25T19:45:00+00:00,World Cup - Qualification Europe,2024,Montenegro,Faroe Islands,1109,1098,1.0,0.0,FT,home_win
+1323255,2025-03-25T19:45:00+00:00,World Cup - Qualification Europe,2024,Israel,Norway,1116,1090,2.0,4.0,FT,away_win
+1323263,2025-06-06T18:45:00+00:00,World Cup - Qualification Europe,2024,Wales,Liechtenstein,767,1107,3.0,0.0,FT,home_win
+1323264,2025-06-06T18:45:00+00:00,World Cup - Qualification Europe,2024,Czechia,Montenegro,770,1109,2.0,0.0,FT,home_win
+1366273,2025-06-06T18:45:00+00:00,World Cup - Qualification Europe,2024,Norway,Italy,1090,768,3.0,0.0,FT,home_win
+1366274,2025-06-06T18:45:00+00:00,World Cup - Qualification Europe,2024,Gibraltar,Croatia,1093,3,0.0,7.0,FT,away_win
+1323261,2025-06-06T18:45:00+00:00,World Cup - Qualification Europe,2024,Estonia,Israel,1101,1116,1.0,3.0,FT,away_win
+1323262,2025-06-06T18:45:00+00:00,World Cup - Qualification Europe,2024,FYR Macedonia,Belgium,1105,1,1.0,1.0,FT,draw
+1323265,2025-06-07T13:00:00+00:00,World Cup - Qualification Europe,2024,Bosnia & Herzegovina,San Marino,1113,1115,1.0,0.0,FT,home_win
+1323267,2025-06-07T16:00:00+00:00,World Cup - Qualification Europe,2024,Andorra,England,1110,10,0.0,1.0,FT,away_win
+1323266,2025-06-07T16:00:00+00:00,World Cup - Qualification Europe,2024,Malta,Lithuania,1112,1097,0.0,0.0,FT,draw
+1323268,2025-06-07T18:45:00+00:00,World Cup - Qualification Europe,2024,Austria,Romania,775,774,2.0,1.0,FT,home_win
+1323269,2025-06-07T18:45:00+00:00,World Cup - Qualification Europe,2024,Albania,Serbia,778,14,0.0,0.0,FT,draw
+1366275,2025-06-07T18:45:00+00:00,World Cup - Qualification Europe,2024,Finland,Netherlands,1099,1118,0.0,2.0,FT,away_win
+1323270,2025-06-09T14:00:00+00:00,World Cup - Qualification Europe,2024,Kazakhstan,FYR Macedonia,1095,1105,0.0,1.0,FT,away_win
+1323272,2025-06-09T18:45:00+00:00,World Cup - Qualification Europe,2024,Belgium,Wales,1,767,4.0,3.0,FT,home_win
+1366277,2025-06-09T18:45:00+00:00,World Cup - Qualification Europe,2024,Croatia,Czechia,3,770,5.0,1.0,FT,home_win
+1366276,2025-06-09T18:45:00+00:00,World Cup - Qualification Europe,2024,Italy,Moldova,768,1114,2.0,0.0,FT,home_win
+1323273,2025-06-09T18:45:00+00:00,World Cup - Qualification Europe,2024,Faroe Islands,Gibraltar,1098,1093,2.0,1.0,FT,home_win
+1323271,2025-06-09T18:45:00+00:00,World Cup - Qualification Europe,2024,Estonia,Norway,1101,1090,0.0,1.0,FT,away_win
+1323278,2025-06-10T18:45:00+00:00,World Cup - Qualification Europe,2024,Serbia,Andorra,14,1110,3.0,0.0,FT,home_win
+1323275,2025-06-10T18:45:00+00:00,World Cup - Qualification Europe,2024,Romania,Cyprus,774,1106,2.0,0.0,FT,home_win
+1323277,2025-06-10T18:45:00+00:00,World Cup - Qualification Europe,2024,Latvia,Albania,1092,778,1.0,1.0,FT,draw
+1323274,2025-06-10T18:45:00+00:00,World Cup - Qualification Europe,2024,Finland,Poland,1099,24,2.0,1.0,FT,home_win
+1323276,2025-06-10T18:45:00+00:00,World Cup - Qualification Europe,2024,San Marino,Austria,1115,775,0.0,4.0,FT,away_win
+1366278,2025-06-10T18:45:00+00:00,World Cup - Qualification Europe,2024,Netherlands,Malta,1118,1112,8.0,0.0,FT,home_win
+1323279,2025-09-04T14:00:00+00:00,World Cup - Qualification Europe,2024,Kazakhstan,Wales,1095,767,0.0,1.0,FT,away_win
+1323282,2025-09-04T16:00:00+00:00,World Cup - Qualification Europe,2024,Lithuania,Malta,1097,1112,1.0,1.0,FT,draw
+1323280,2025-09-04T16:00:00+00:00,World Cup - Qualification Europe,2024,Georgia,Türkiye,1104,777,2.0,3.0,FT,away_win
+1366279,2025-09-04T18:45:00+00:00,World Cup - Qualification Europe,2024,Slovakia,Germany,773,25,2.0,0.0,FT,home_win
+1323281,2025-09-04T18:45:00+00:00,World Cup - Qualification Europe,2024,Luxembourg,Northern Ireland,1102,771,1.0,3.0,FT,away_win
+1366280,2025-09-04T18:45:00+00:00,World Cup - Qualification Europe,2024,Bulgaria,Spain,1103,9,0.0,3.0,FT,away_win
+1323283,2025-09-04T18:45:00+00:00,World Cup - Qualification Europe,2024,Liechtenstein,Belgium,1107,1,0.0,6.0,FT,away_win
+1366281,2025-09-04T18:45:00+00:00,World Cup - Qualification Europe,2024,Netherlands,Poland,1118,24,1.0,1.0,FT,draw
+1323285,2025-09-05T18:45:00+00:00,World Cup - Qualification Europe,2024,Switzerland,Kosovo,15,1111,4.0,0.0,FT,home_win
+1323287,2025-09-05T18:45:00+00:00,World Cup - Qualification Europe,2024,Iceland,Azerbaijan,18,1096,5.0,0.0,FT,home_win
+1366282,2025-09-05T18:45:00+00:00,World Cup - Qualification Europe,2024,Denmark,Scotland,21,1108,0.0,0.0,FT,draw
+1366284,2025-09-05T18:45:00+00:00,World Cup - Qualification Europe,2024,Italy,Estonia,768,1101,5.0,0.0,FT,home_win
+1366283,2025-09-05T18:45:00+00:00,World Cup - Qualification Europe,2024,Ukraine,France,772,2,0.0,2.0,FT,away_win
+1323284,2025-09-05T18:45:00+00:00,World Cup - Qualification Europe,2024,Slovenia,Sweden,1091,5,2.0,2.0,FT,draw
+1366285,2025-09-05T18:45:00+00:00,World Cup - Qualification Europe,2024,Faroe Islands,Croatia,1098,3,0.0,1.0,FT,away_win
+1323289,2025-09-05T18:45:00+00:00,World Cup - Qualification Europe,2024,Montenegro,Czechia,1109,770,0.0,2.0,FT,away_win
+1323288,2025-09-05T18:45:00+00:00,World Cup - Qualification Europe,2024,Moldova,Israel,1114,1116,0.0,4.0,FT,away_win
+1323286,2025-09-05T18:45:00+00:00,World Cup - Qualification Europe,2024,Greece,Belarus,1117,1100,5.0,1.0,FT,home_win
+1323290,2025-09-06T13:00:00+00:00,World Cup - Qualification Europe,2024,Latvia,Serbia,1092,14,0.0,1.0,FT,away_win
+1323291,2025-09-06T16:00:00+00:00,World Cup - Qualification Europe,2024,England,Andorra,10,1110,2.0,0.0,FT,home_win
+1366286,2025-09-06T16:00:00+00:00,World Cup - Qualification Europe,2024,Armenia,Portugal,1094,27,0.0,5.0,FT,away_win
+1323293,2025-09-06T18:45:00+00:00,World Cup - Qualification Europe,2024,Austria,Cyprus,775,1106,1.0,0.0,FT,home_win
+1323292,2025-09-06T18:45:00+00:00,World Cup - Qualification Europe,2024,Rep. Of Ireland,Hungary,776,769,2.0,2.0,FT,draw
+1323294,2025-09-06T18:45:00+00:00,World Cup - Qualification Europe,2024,San Marino,Bosnia & Herzegovina,1115,1113,0.0,6.0,FT,away_win
+1323295,2025-09-07T13:00:00+00:00,World Cup - Qualification Europe,2024,Georgia,Bulgaria,1104,1103,3.0,0.0,FT,home_win
+1366287,2025-09-07T16:00:00+00:00,World Cup - Qualification Europe,2024,Lithuania,Netherlands,1097,1118,2.0,3.0,FT,away_win
+1323296,2025-09-07T16:00:00+00:00,World Cup - Qualification Europe,2024,FYR Macedonia,Liechtenstein,1105,1107,5.0,0.0,FT,home_win
+1323299,2025-09-07T18:45:00+00:00,World Cup - Qualification Europe,2024,Belgium,Kazakhstan,1,1095,6.0,0.0,FT,home_win
+1323298,2025-09-07T18:45:00+00:00,World Cup - Qualification Europe,2024,Poland,Finland,24,1099,3.0,1.0,FT,home_win
+1366288,2025-09-07T18:45:00+00:00,World Cup - Qualification Europe,2024,Germany,Northern Ireland,25,771,3.0,1.0,FT,home_win
+1366289,2025-09-07T18:45:00+00:00,World Cup - Qualification Europe,2024,Türkiye,Spain,777,9,0.0,6.0,FT,away_win
+1323297,2025-09-07T18:45:00+00:00,World Cup - Qualification Europe,2024,Luxembourg,Slovakia,1102,773,0.0,1.0,FT,away_win
+1366292,2025-09-08T18:45:00+00:00,World Cup - Qualification Europe,2024,Croatia,Montenegro,3,1109,4.0,0.0,FT,home_win
+1323301,2025-09-08T18:45:00+00:00,World Cup - Qualification Europe,2024,Switzerland,Slovenia,15,1091,3.0,0.0,FT,home_win
+1323304,2025-09-08T18:45:00+00:00,World Cup - Qualification Europe,2024,Gibraltar,Faroe Islands,1093,1098,0.0,1.0,FT,away_win
+1323302,2025-09-08T18:45:00+00:00,World Cup - Qualification Europe,2024,Belarus,Scotland,1100,1108,0.0,2.0,FT,away_win
+1323300,2025-09-08T18:45:00+00:00,World Cup - Qualification Europe,2024,Kosovo,Sweden,1111,5,2.0,0.0,FT,home_win
+1366291,2025-09-08T18:45:00+00:00,World Cup - Qualification Europe,2024,Israel,Italy,1116,768,4.0,5.0,FT,away_win
+1366290,2025-09-08T18:45:00+00:00,World Cup - Qualification Europe,2024,Greece,Denmark,1117,21,0.0,3.0,FT,away_win
+1323306,2025-09-09T16:00:00+00:00,World Cup - Qualification Europe,2024,Armenia,Rep. Of Ireland,1094,776,2.0,1.0,FT,home_win
+1323305,2025-09-09T16:00:00+00:00,World Cup - Qualification Europe,2024,Azerbaijan,Ukraine,1096,772,1.0,1.0,FT,draw
+1366293,2025-09-09T18:45:00+00:00,World Cup - Qualification Europe,2024,France,Iceland,2,18,2.0,1.0,FT,home_win
+1323310,2025-09-09T18:45:00+00:00,World Cup - Qualification Europe,2024,Serbia,England,14,10,0.0,5.0,FT,away_win
+1366294,2025-09-09T18:45:00+00:00,World Cup - Qualification Europe,2024,Hungary,Portugal,769,27,2.0,3.0,FT,away_win
+1323309,2025-09-09T18:45:00+00:00,World Cup - Qualification Europe,2024,Albania,Latvia,778,1092,1.0,0.0,FT,home_win
+1323303,2025-09-09T18:45:00+00:00,World Cup - Qualification Europe,2024,Norway,Moldova,1090,1114,11.0,1.0,FT,home_win
+1323308,2025-09-09T18:45:00+00:00,World Cup - Qualification Europe,2024,Cyprus,Romania,1106,774,2.0,2.0,FT,draw
+1323307,2025-09-09T18:45:00+00:00,World Cup - Qualification Europe,2024,Bosnia & Herzegovina,Austria,1113,775,1.0,2.0,FT,away_win
+1323312,2025-10-09T16:00:00+00:00,World Cup - Qualification Europe,2024,Finland,Lithuania,1099,1097,2.0,1.0,FT,home_win
+1366297,2025-10-09T18:45:00+00:00,World Cup - Qualification Europe,2024,Czechia,Croatia,770,3,0.0,0.0,FT,draw
+1323313,2025-10-09T18:45:00+00:00,World Cup - Qualification Europe,2024,Austria,San Marino,775,1115,10.0,0.0,FT,home_win
+1323315,2025-10-09T18:45:00+00:00,World Cup - Qualification Europe,2024,Faroe Islands,Montenegro,1098,1109,4.0,0.0,FT,home_win
+1366295,2025-10-09T18:45:00+00:00,World Cup - Qualification Europe,2024,Belarus,Denmark,1100,21,0.0,6.0,FT,away_win
+1323314,2025-10-09T18:45:00+00:00,World Cup - Qualification Europe,2024,Cyprus,Bosnia & Herzegovina,1106,1113,2.0,2.0,FT,draw
+1323311,2025-10-09T18:45:00+00:00,World Cup - Qualification Europe,2024,Scotland,Greece,1108,1117,3.0,1.0,FT,home_win
+1366296,2025-10-09T18:45:00+00:00,World Cup - Qualification Europe,2024,Malta,Netherlands,1112,1118,0.0,4.0,FT,away_win
+1323316,2025-10-10T14:00:00+00:00,World Cup - Qualification Europe,2024,Kazakhstan,Liechtenstein,1095,1107,4.0,0.0,FT,home_win
+1323321,2025-10-10T18:45:00+00:00,World Cup - Qualification Europe,2024,Belgium,FYR Macedonia,1,1105,0.0,0.0,FT,draw
+1366299,2025-10-10T18:45:00+00:00,World Cup - Qualification Europe,2024,France,Azerbaijan,2,1096,3.0,0.0,FT,home_win
+1323319,2025-10-10T18:45:00+00:00,World Cup - Qualification Europe,2024,Sweden,Switzerland,5,15,0.0,2.0,FT,away_win
+1323320,2025-10-10T18:45:00+00:00,World Cup - Qualification Europe,2024,Iceland,Ukraine,18,772,3.0,5.0,FT,away_win
+1366298,2025-10-10T18:45:00+00:00,World Cup - Qualification Europe,2024,Germany,Luxembourg,25,1102,4.0,0.0,FT,home_win
+1323317,2025-10-10T18:45:00+00:00,World Cup - Qualification Europe,2024,Northern Ireland,Slovakia,771,773,2.0,0.0,FT,home_win
+1323318,2025-10-10T18:45:00+00:00,World Cup - Qualification Europe,2024,Kosovo,Slovenia,1111,1091,0.0,0.0,FT,draw
+1323322,2025-10-11T13:00:00+00:00,World Cup - Qualification Europe,2024,Latvia,Andorra,1092,1110,2.0,2.0,FT,draw
+1323323,2025-10-11T16:00:00+00:00,World Cup - Qualification Europe,2024,Hungary,Armenia,769,1094,2.0,0.0,FT,home_win
+1323324,2025-10-11T16:00:00+00:00,World Cup - Qualification Europe,2024,Norway,Israel,1090,1116,5.0,0.0,FT,home_win
+1366300,2025-10-11T18:45:00+00:00,World Cup - Qualification Europe,2024,Spain,Georgia,9,1104,2.0,0.0,FT,home_win
+1323326,2025-10-11T18:45:00+00:00,World Cup - Qualification Europe,2024,Serbia,Albania,14,778,0.0,1.0,FT,away_win
+1366301,2025-10-11T18:45:00+00:00,World Cup - Qualification Europe,2024,Portugal,Rep. Of Ireland,27,776,1.0,0.0,FT,home_win
+1366302,2025-10-11T18:45:00+00:00,World Cup - Qualification Europe,2024,Estonia,Italy,1101,768,1.0,3.0,FT,away_win
+1323325,2025-10-11T18:45:00+00:00,World Cup - Qualification Europe,2024,Bulgaria,Türkiye,1103,777,1.0,6.0,FT,away_win
+1323327,2025-10-12T13:00:00+00:00,World Cup - Qualification Europe,2024,San Marino,Cyprus,1115,1106,0.0,4.0,FT,away_win
+1323329,2025-10-12T16:00:00+00:00,World Cup - Qualification Europe,2024,Faroe Islands,Czechia,1098,770,2.0,1.0,FT,home_win
+1323328,2025-10-12T16:00:00+00:00,World Cup - Qualification Europe,2024,Scotland,Belarus,1108,1100,2.0,1.0,FT,home_win
+1366303,2025-10-12T16:00:00+00:00,World Cup - Qualification Europe,2024,Netherlands,Finland,1118,1099,4.0,0.0,FT,home_win
+1366305,2025-10-12T18:45:00+00:00,World Cup - Qualification Europe,2024,Croatia,Gibraltar,3,1093,3.0,0.0,FT,home_win
+1366304,2025-10-12T18:45:00+00:00,World Cup - Qualification Europe,2024,Denmark,Greece,21,1117,3.0,1.0,FT,home_win
+1323331,2025-10-12T18:45:00+00:00,World Cup - Qualification Europe,2024,Romania,Austria,774,775,1.0,0.0,FT,home_win
+1323330,2025-10-12T18:45:00+00:00,World Cup - Qualification Europe,2024,Lithuania,Poland,1097,24,0.0,2.0,FT,away_win
+1323334,2025-10-13T18:45:00+00:00,World Cup - Qualification Europe,2024,Sweden,Kosovo,5,1111,0.0,1.0,FT,away_win
+1366307,2025-10-13T18:45:00+00:00,World Cup - Qualification Europe,2024,Iceland,France,18,2,2.0,2.0,FT,draw
+1323337,2025-10-13T18:45:00+00:00,World Cup - Qualification Europe,2024,Wales,Belgium,767,1,2.0,4.0,FT,away_win
+1366306,2025-10-13T18:45:00+00:00,World Cup - Qualification Europe,2024,Northern Ireland,Germany,771,25,0.0,1.0,FT,away_win
+1323335,2025-10-13T18:45:00+00:00,World Cup - Qualification Europe,2024,Ukraine,Azerbaijan,772,1096,2.0,1.0,FT,home_win
+1323332,2025-10-13T18:45:00+00:00,World Cup - Qualification Europe,2024,Slovakia,Luxembourg,773,1102,2.0,0.0,FT,home_win
+1323333,2025-10-13T18:45:00+00:00,World Cup - Qualification Europe,2024,Slovenia,Switzerland,1091,15,0.0,0.0,FT,draw
+1323336,2025-10-13T18:45:00+00:00,World Cup - Qualification Europe,2024,FYR Macedonia,Kazakhstan,1105,1095,1.0,1.0,FT,draw
+1323340,2025-10-14T16:00:00+00:00,World Cup - Qualification Europe,2024,Estonia,Moldova,1101,1114,1.0,1.0,FT,draw
+1366308,2025-10-14T18:45:00+00:00,World Cup - Qualification Europe,2024,Spain,Bulgaria,9,1103,4.0,0.0,FT,home_win
+1366309,2025-10-14T18:45:00+00:00,World Cup - Qualification Europe,2024,Portugal,Hungary,27,769,2.0,2.0,FT,draw
+1366310,2025-10-14T18:45:00+00:00,World Cup - Qualification Europe,2024,Italy,Israel,768,1116,3.0,0.0,FT,home_win
+1323339,2025-10-14T18:45:00+00:00,World Cup - Qualification Europe,2024,Rep. Of Ireland,Armenia,776,1094,1.0,0.0,FT,home_win
+1323338,2025-10-14T18:45:00+00:00,World Cup - Qualification Europe,2024,Türkiye,Georgia,777,1104,4.0,1.0,FT,home_win
+1323342,2025-10-14T18:45:00+00:00,World Cup - Qualification Europe,2024,Latvia,England,1092,10,0.0,5.0,FT,away_win
+1323341,2025-10-14T18:45:00+00:00,World Cup - Qualification Europe,2024,Andorra,Serbia,1110,14,1.0,3.0,FT,away_win
+1323345,2025-11-13T17:00:00+00:00,World Cup - Qualification Europe,2024,Norway,Estonia,1090,1101,4.0,1.0,FT,home_win
+1323344,2025-11-13T17:00:00+00:00,World Cup - Qualification Europe,2024,Armenia,Hungary,1094,769,0.0,1.0,FT,away_win
+1323343,2025-11-13T17:00:00+00:00,World Cup - Qualification Europe,2024,Azerbaijan,Iceland,1096,18,0.0,2.0,FT,away_win
+1366311,2025-11-13T19:45:00+00:00,World Cup - Qualification Europe,2024,France,Ukraine,2,772,4.0,0.0,FT,home_win
+1323347,2025-11-13T19:45:00+00:00,World Cup - Qualification Europe,2024,England,Serbia,10,14,2.0,0.0,FT,home_win
+1366312,2025-11-13T19:45:00+00:00,World Cup - Qualification Europe,2024,Rep. Of Ireland,Portugal,776,27,2.0,0.0,FT,home_win
+1323346,2025-11-13T19:45:00+00:00,World Cup - Qualification Europe,2024,Andorra,Albania,1110,778,0.0,1.0,FT,away_win
+1366313,2025-11-13T19:45:00+00:00,World Cup - Qualification Europe,2024,Moldova,Italy,1114,768,0.0,2.0,FT,away_win
+1323348,2025-11-14T17:00:00+00:00,World Cup - Qualification Europe,2024,Finland,Malta,1099,1112,0.0,1.0,FT,away_win
+1366316,2025-11-14T19:45:00+00:00,World Cup - Qualification Europe,2024,Croatia,Faroe Islands,3,1098,3.0,1.0,FT,home_win
+1366315,2025-11-14T19:45:00+00:00,World Cup - Qualification Europe,2024,Poland,Netherlands,24,1118,1.0,1.0,FT,draw
+1323349,2025-11-14T19:45:00+00:00,World Cup - Qualification Europe,2024,Slovakia,Northern Ireland,773,771,1.0,0.0,FT,home_win
+1323350,2025-11-14T19:45:00+00:00,World Cup - Qualification Europe,2024,Gibraltar,Montenegro,1093,1109,1.0,2.0,FT,away_win
+1366314,2025-11-14T19:45:00+00:00,World Cup - Qualification Europe,2024,Luxembourg,Germany,1102,25,0.0,2.0,FT,away_win
+1323351,2025-11-15T14:00:00+00:00,World Cup - Qualification Europe,2024,Kazakhstan,Belgium,1095,1,1.0,1.0,FT,draw
+1323352,2025-11-15T17:00:00+00:00,World Cup - Qualification Europe,2024,Türkiye,Bulgaria,777,1103,2.0,0.0,FT,home_win
+1366317,2025-11-15T17:00:00+00:00,World Cup - Qualification Europe,2024,Georgia,Spain,1104,9,0.0,4.0,FT,away_win
+1323353,2025-11-15T17:00:00+00:00,World Cup - Qualification Europe,2024,Cyprus,Austria,1106,775,0.0,2.0,FT,away_win
+1323354,2025-11-15T17:00:00+00:00,World Cup - Qualification Europe,2024,Liechtenstein,Wales,1107,767,0.0,1.0,FT,away_win
+1323356,2025-11-15T19:45:00+00:00,World Cup - Qualification Europe,2024,Switzerland,Sweden,15,5,4.0,1.0,FT,home_win
+1366318,2025-11-15T19:45:00+00:00,World Cup - Qualification Europe,2024,Denmark,Belarus,21,1100,2.0,2.0,FT,draw
+1323355,2025-11-15T19:45:00+00:00,World Cup - Qualification Europe,2024,Slovenia,Kosovo,1091,1111,0.0,2.0,FT,away_win
+1323358,2025-11-15T19:45:00+00:00,World Cup - Qualification Europe,2024,Bosnia & Herzegovina,Romania,1113,774,3.0,1.0,FT,home_win
+1323357,2025-11-15T19:45:00+00:00,World Cup - Qualification Europe,2024,Greece,Scotland,1117,1108,3.0,2.0,FT,home_win
+1366319,2025-11-16T14:00:00+00:00,World Cup - Qualification Europe,2024,Portugal,Armenia,27,1094,9.0,1.0,FT,home_win
+1323359,2025-11-16T14:00:00+00:00,World Cup - Qualification Europe,2024,Hungary,Rep. Of Ireland,769,776,2.0,3.0,FT,away_win
+1323362,2025-11-16T17:00:00+00:00,World Cup - Qualification Europe,2024,Serbia,Latvia,14,1092,2.0,1.0,FT,home_win
+1323360,2025-11-16T17:00:00+00:00,World Cup - Qualification Europe,2024,Ukraine,Iceland,772,18,2.0,0.0,FT,home_win
+1323361,2025-11-16T17:00:00+00:00,World Cup - Qualification Europe,2024,Albania,England,778,10,0.0,2.0,FT,away_win
+1366320,2025-11-16T17:00:00+00:00,World Cup - Qualification Europe,2024,Azerbaijan,France,1096,2,1.0,3.0,FT,away_win
+1366321,2025-11-16T19:45:00+00:00,World Cup - Qualification Europe,2024,Italy,Norway,768,1090,1.0,4.0,FT,away_win
+1323363,2025-11-16T19:45:00+00:00,World Cup - Qualification Europe,2024,Israel,Moldova,1116,1114,4.0,1.0,FT,home_win
+1366322,2025-11-17T19:45:00+00:00,World Cup - Qualification Europe,2024,Germany,Slovakia,25,773,6.0,0.0,FT,home_win
+1323366,2025-11-17T19:45:00+00:00,World Cup - Qualification Europe,2024,Czechia,Gibraltar,770,1093,6.0,0.0,FT,home_win
+1323364,2025-11-17T19:45:00+00:00,World Cup - Qualification Europe,2024,Northern Ireland,Luxembourg,771,1102,1.0,0.0,FT,home_win
+1366324,2025-11-17T19:45:00+00:00,World Cup - Qualification Europe,2024,Montenegro,Croatia,1109,3,2.0,3.0,FT,away_win
+1323365,2025-11-17T19:45:00+00:00,World Cup - Qualification Europe,2024,Malta,Poland,1112,24,2.0,3.0,FT,away_win
+1366323,2025-11-17T19:45:00+00:00,World Cup - Qualification Europe,2024,Netherlands,Lithuania,1118,1097,4.0,0.0,FT,home_win
+1323373,2025-11-18T19:45:00+00:00,World Cup - Qualification Europe,2024,Belgium,Liechtenstein,1,1107,7.0,0.0,FT,home_win
+1323368,2025-11-18T19:45:00+00:00,World Cup - Qualification Europe,2024,Sweden,Slovenia,5,1091,1.0,1.0,FT,draw
+1366326,2025-11-18T19:45:00+00:00,World Cup - Qualification Europe,2024,Spain,Türkiye,9,777,2.0,2.0,FT,draw
+1323374,2025-11-18T19:45:00+00:00,World Cup - Qualification Europe,2024,Wales,FYR Macedonia,767,1105,7.0,1.0,FT,home_win
+1323372,2025-11-18T19:45:00+00:00,World Cup - Qualification Europe,2024,Romania,San Marino,774,1115,7.0,1.0,FT,home_win
+1323371,2025-11-18T19:45:00+00:00,World Cup - Qualification Europe,2024,Austria,Bosnia & Herzegovina,775,1113,1.0,1.0,FT,draw
+1323369,2025-11-18T19:45:00+00:00,World Cup - Qualification Europe,2024,Belarus,Greece,1100,1117,0.0,0.0,FT,draw
+1323370,2025-11-18T19:45:00+00:00,World Cup - Qualification Europe,2024,Bulgaria,Georgia,1103,1104,2.0,1.0,FT,home_win
+1366325,2025-11-18T19:45:00+00:00,World Cup - Qualification Europe,2024,Scotland,Denmark,1108,21,4.0,2.0,FT,home_win
+1323367,2025-11-18T19:45:00+00:00,World Cup - Qualification Europe,2024,Kosovo,Switzerland,1111,15,1.0,1.0,FT,draw
+1487922,2026-03-26T17:00:00+00:00,World Cup - Qualification Europe,2024,Türkiye,Romania,777,774,1.0,0.0,FT,home_win
+1487924,2026-03-26T19:45:00+00:00,World Cup - Qualification Europe,2024,Denmark,FYR Macedonia,21,1105,4.0,0.0,FT,home_win
+1487926,2026-03-26T19:45:00+00:00,World Cup - Qualification Europe,2024,Poland,Albania,24,778,2.0,1.0,FT,home_win
+1487925,2026-03-26T19:45:00+00:00,World Cup - Qualification Europe,2024,Italy,Northern Ireland,768,771,2.0,0.0,FT,home_win
+1487928,2026-03-26T19:45:00+00:00,World Cup - Qualification Europe,2024,Ukraine,Sweden,772,5,1.0,3.0,FT,away_win
+1487927,2026-03-26T19:45:00+00:00,World Cup - Qualification Europe,2024,Slovakia,Kosovo,773,1111,3.0,4.0,FT,away_win
+1537581,2026-03-31T18:45:00+00:00,World Cup - Qualification Europe,2024,Sweden,Poland,5,24,3.0,2.0,FT,home_win
+1537580,2026-03-31T18:45:00+00:00,World Cup - Qualification Europe,2024,Kosovo,Türkiye,1111,777,0.0,1.0,FT,away_win
+293579,2020-10-08T22:30:00+00:00,World Cup - Qualification South America,2022,Paraguay,Peru,2380,30,2.0,2.0,FT,draw
+293576,2020-10-08T22:45:00+00:00,World Cup - Qualification South America,2022,Uruguay,Chile,7,2383,2.0,1.0,FT,home_win
+293580,2020-10-09T00:30:00+00:00,World Cup - Qualification South America,2022,Argentina,Ecuador,26,2382,1.0,0.0,FT,home_win
+293577,2020-10-09T23:30:00+00:00,World Cup - Qualification South America,2022,Colombia,Venezuela,8,2379,3.0,0.0,FT,home_win
+293578,2020-10-10T00:30:00+00:00,World Cup - Qualification South America,2022,Brazil,Bolivia,6,2381,5.0,0.0,FT,home_win
+293583,2020-10-13T20:00:00+00:00,World Cup - Qualification South America,2022,Bolivia,Argentina,2381,26,1.0,2.0,FT,away_win
+293585,2020-10-13T21:00:00+00:00,World Cup - Qualification South America,2022,Ecuador,Uruguay,2382,7,4.0,2.0,FT,home_win
+293581,2020-10-14T00:00:00+00:00,World Cup - Qualification South America,2022,Peru,Brazil,30,6,2.0,4.0,FT,away_win
+293582,2020-10-14T00:00:00+00:00,World Cup - Qualification South America,2022,Venezuela,Paraguay,2379,2380,0.0,1.0,FT,away_win
+293584,2020-10-14T00:30:00+00:00,World Cup - Qualification South America,2022,Chile,Colombia,2383,8,2.0,2.0,FT,draw
+293588,2020-11-12T20:00:00+00:00,World Cup - Qualification South America,2022,Bolivia,Ecuador,2381,2382,2.0,3.0,FT,away_win
+293589,2020-11-13T00:00:00+00:00,World Cup - Qualification South America,2022,Argentina,Paraguay,26,2380,1.0,1.0,FT,draw
+293586,2020-11-13T20:30:00+00:00,World Cup - Qualification South America,2022,Colombia,Uruguay,8,7,0.0,3.0,FT,away_win
+293590,2020-11-13T23:00:00+00:00,World Cup - Qualification South America,2022,Chile,Peru,2383,30,2.0,0.0,FT,home_win
+293587,2020-11-14T00:30:00+00:00,World Cup - Qualification South America,2022,Brazil,Venezuela,6,2379,1.0,0.0,FT,home_win
+293593,2020-11-17T21:00:00+00:00,World Cup - Qualification South America,2022,Venezuela,Chile,2379,2383,2.0,1.0,FT,home_win
+293595,2020-11-17T21:00:00+00:00,World Cup - Qualification South America,2022,Ecuador,Colombia,2382,8,6.0,1.0,FT,home_win
+293591,2020-11-17T23:00:00+00:00,World Cup - Qualification South America,2022,Uruguay,Brazil,7,6,0.0,2.0,FT,away_win
+293594,2020-11-17T23:00:00+00:00,World Cup - Qualification South America,2022,Paraguay,Bolivia,2380,2381,2.0,2.0,FT,draw
+293592,2020-11-18T00:30:00+00:00,World Cup - Qualification South America,2022,Peru,Argentina,30,26,0.0,2.0,FT,away_win
+293609,2021-06-03T20:00:00+00:00,World Cup - Qualification South America,2022,Bolivia,Venezuela,2381,2379,3.0,1.0,FT,home_win
+293606,2021-06-03T22:00:00+00:00,World Cup - Qualification South America,2022,Uruguay,Paraguay,7,2380,0.0,0.0,FT,draw
+293610,2021-06-04T00:00:00+00:00,World Cup - Qualification South America,2022,Argentina,Chile,26,2383,1.0,1.0,FT,draw
+293607,2021-06-04T02:00:00+00:00,World Cup - Qualification South America,2022,Peru,Colombia,30,8,0.0,3.0,FT,away_win
+293608,2021-06-05T00:30:00+00:00,World Cup - Qualification South America,2022,Brazil,Ecuador,6,2382,2.0,0.0,FT,home_win
+293615,2021-06-08T21:00:00+00:00,World Cup - Qualification South America,2022,Ecuador,Peru,2382,30,1.0,2.0,FT,away_win
+293612,2021-06-08T22:30:00+00:00,World Cup - Qualification South America,2022,Venezuela,Uruguay,2379,7,0.0,0.0,FT,draw
+293611,2021-06-08T23:00:00+00:00,World Cup - Qualification South America,2022,Colombia,Argentina,8,26,2.0,2.0,FT,draw
+293613,2021-06-09T00:30:00+00:00,World Cup - Qualification South America,2022,Paraguay,Brazil,2380,6,0.0,2.0,FT,away_win
+293614,2021-06-09T01:30:00+00:00,World Cup - Qualification South America,2022,Chile,Bolivia,2383,2381,1.0,1.0,FT,draw
+293618,2021-09-02T20:00:00+00:00,World Cup - Qualification South America,2022,Bolivia,Colombia,2381,8,1.0,1.0,FT,draw
+293620,2021-09-02T21:00:00+00:00,World Cup - Qualification South America,2022,Ecuador,Paraguay,2382,2380,2.0,0.0,FT,home_win
+293617,2021-09-03T00:00:00+00:00,World Cup - Qualification South America,2022,Venezuela,Argentina,2379,26,1.0,3.0,FT,away_win
+293616,2021-09-03T01:00:00+00:00,World Cup - Qualification South America,2022,Peru,Uruguay,30,7,1.0,1.0,FT,draw
+293619,2021-09-03T01:00:00+00:00,World Cup - Qualification South America,2022,Chile,Brazil,2383,6,0.0,1.0,FT,away_win
+293605,2021-09-05T21:00:00+00:00,World Cup - Qualification South America,2022,Ecuador,Chile,2382,2383,0.0,0.0,FT,draw
+293601,2021-09-05T22:00:00+00:00,World Cup - Qualification South America,2022,Uruguay,Bolivia,7,2381,4.0,2.0,FT,home_win
+293604,2021-09-05T22:00:00+00:00,World Cup - Qualification South America,2022,Paraguay,Colombia,2380,8,1.0,1.0,FT,draw
+293602,2021-09-06T01:00:00+00:00,World Cup - Qualification South America,2022,Peru,Venezuela,30,2379,1.0,0.0,FT,home_win
+293621,2021-09-09T22:30:00+00:00,World Cup - Qualification South America,2022,Uruguay,Ecuador,7,2382,1.0,0.0,FT,home_win
+293624,2021-09-09T22:30:00+00:00,World Cup - Qualification South America,2022,Paraguay,Venezuela,2380,2379,2.0,1.0,FT,home_win
+293622,2021-09-09T23:00:00+00:00,World Cup - Qualification South America,2022,Colombia,Chile,8,2383,3.0,1.0,FT,home_win
+293625,2021-09-09T23:30:00+00:00,World Cup - Qualification South America,2022,Argentina,Bolivia,26,2381,3.0,0.0,FT,home_win
+293623,2021-09-10T00:30:00+00:00,World Cup - Qualification South America,2022,Brazil,Peru,6,30,2.0,0.0,FT,home_win
+293626,2021-10-07T23:00:00+00:00,World Cup - Qualification South America,2022,Uruguay,Colombia,7,8,0.0,0.0,FT,draw
+293629,2021-10-07T23:00:00+00:00,World Cup - Qualification South America,2022,Paraguay,Argentina,2380,26,0.0,0.0,FT,draw
+293628,2021-10-07T23:30:00+00:00,World Cup - Qualification South America,2022,Venezuela,Brazil,2379,6,1.0,3.0,FT,away_win
+293630,2021-10-08T00:30:00+00:00,World Cup - Qualification South America,2022,Ecuador,Bolivia,2382,2381,3.0,0.0,FT,home_win
+293627,2021-10-08T01:00:00+00:00,World Cup - Qualification South America,2022,Peru,Chile,30,2383,2.0,0.0,FT,home_win
+293598,2021-10-10T20:00:00+00:00,World Cup - Qualification South America,2022,Bolivia,Peru,2381,30,1.0,0.0,FT,home_win
+293597,2021-10-10T20:30:00+00:00,World Cup - Qualification South America,2022,Venezuela,Ecuador,2379,2382,2.0,1.0,FT,home_win
+293596,2021-10-10T21:00:00+00:00,World Cup - Qualification South America,2022,Colombia,Brazil,8,6,0.0,0.0,FT,draw
+293599,2021-10-10T23:30:00+00:00,World Cup - Qualification South America,2022,Argentina,Uruguay,26,7,3.0,0.0,FT,home_win
+293600,2021-10-11T00:00:00+00:00,World Cup - Qualification South America,2022,Chile,Paraguay,2383,2380,2.0,0.0,FT,home_win
+293633,2021-10-14T20:00:00+00:00,World Cup - Qualification South America,2022,Bolivia,Paraguay,2381,2380,4.0,0.0,FT,home_win
+293631,2021-10-14T21:00:00+00:00,World Cup - Qualification South America,2022,Colombia,Ecuador,8,2382,0.0,0.0,FT,draw
+293634,2021-10-14T23:30:00+00:00,World Cup - Qualification South America,2022,Argentina,Peru,26,30,1.0,0.0,FT,home_win
+293635,2021-10-15T00:00:00+00:00,World Cup - Qualification South America,2022,Chile,Venezuela,2383,2379,3.0,0.0,FT,home_win
+293632,2021-10-15T00:30:00+00:00,World Cup - Qualification South America,2022,Brazil,Uruguay,6,7,4.0,1.0,FT,home_win
+293640,2021-11-11T21:00:00+00:00,World Cup - Qualification South America,2022,Ecuador,Venezuela,2382,2379,1.0,0.0,FT,home_win
+293639,2021-11-11T23:00:00+00:00,World Cup - Qualification South America,2022,Paraguay,Chile,2380,2383,0.0,1.0,FT,away_win
+293638,2021-11-12T00:30:00+00:00,World Cup - Qualification South America,2022,Brazil,Colombia,6,8,1.0,0.0,FT,home_win
+293637,2021-11-12T02:00:00+00:00,World Cup - Qualification South America,2022,Peru,Bolivia,30,2381,3.0,0.0,FT,home_win
+293636,2021-11-12T23:00:00+00:00,World Cup - Qualification South America,2022,Uruguay,Argentina,7,26,0.0,1.0,FT,away_win
+293642,2021-11-16T20:00:00+00:00,World Cup - Qualification South America,2022,Bolivia,Uruguay,2381,7,3.0,0.0,FT,home_win
+293645,2021-11-16T21:00:00+00:00,World Cup - Qualification South America,2022,Venezuela,Peru,2379,30,1.0,2.0,FT,away_win
+293641,2021-11-16T23:00:00+00:00,World Cup - Qualification South America,2022,Colombia,Paraguay,8,2380,0.0,0.0,FT,draw
+293643,2021-11-16T23:30:00+00:00,World Cup - Qualification South America,2022,Argentina,Brazil,26,6,0.0,0.0,FT,draw
+293644,2021-11-17T00:15:00+00:00,World Cup - Qualification South America,2022,Chile,Ecuador,2383,2382,0.0,2.0,FT,away_win
+293646,2022-01-27T21:00:00+00:00,World Cup - Qualification South America,2022,Ecuador,Brazil,2382,6,1.0,1.0,FT,draw
+293647,2022-01-27T23:00:00+00:00,World Cup - Qualification South America,2022,Paraguay,Uruguay,2380,7,0.0,1.0,FT,away_win
+293648,2022-01-28T00:15:00+00:00,World Cup - Qualification South America,2022,Chile,Argentina,2383,26,1.0,2.0,FT,away_win
+293650,2022-01-28T21:00:00+00:00,World Cup - Qualification South America,2022,Colombia,Peru,8,30,0.0,1.0,FT,away_win
+293649,2022-01-28T22:00:00+00:00,World Cup - Qualification South America,2022,Venezuela,Bolivia,2379,2381,4.0,1.0,FT,home_win
+293651,2022-02-01T20:00:00+00:00,World Cup - Qualification South America,2022,Bolivia,Chile,2381,2383,2.0,3.0,FT,away_win
+293654,2022-02-01T23:00:00+00:00,World Cup - Qualification South America,2022,Uruguay,Venezuela,7,2379,4.0,1.0,FT,home_win
+293655,2022-02-01T23:30:00+00:00,World Cup - Qualification South America,2022,Argentina,Colombia,26,8,1.0,0.0,FT,home_win
+293653,2022-02-02T00:30:00+00:00,World Cup - Qualification South America,2022,Brazil,Paraguay,6,2380,4.0,0.0,FT,home_win
+293652,2022-02-02T02:00:00+00:00,World Cup - Qualification South America,2022,Peru,Ecuador,30,2382,1.0,1.0,FT,draw
+293658,2022-03-24T23:30:00+00:00,World Cup - Qualification South America,2022,Brazil,Chile,6,2383,4.0,0.0,FT,home_win
+293656,2022-03-24T23:30:00+00:00,World Cup - Qualification South America,2022,Uruguay,Peru,7,30,1.0,0.0,FT,home_win
+293657,2022-03-24T23:30:00+00:00,World Cup - Qualification South America,2022,Colombia,Bolivia,8,2381,3.0,0.0,FT,home_win
+293660,2022-03-24T23:30:00+00:00,World Cup - Qualification South America,2022,Paraguay,Ecuador,2380,2382,3.0,1.0,FT,home_win
+293659,2022-03-25T23:30:00+00:00,World Cup - Qualification South America,2022,Argentina,Venezuela,26,2379,3.0,0.0,FT,home_win
+293663,2022-03-30T23:30:00+00:00,World Cup - Qualification South America,2022,Peru,Paraguay,30,2380,2.0,0.0,FT,home_win
+293665,2022-03-30T23:30:00+00:00,World Cup - Qualification South America,2022,Venezuela,Colombia,2379,8,0.0,1.0,FT,away_win
+293661,2022-03-30T23:30:00+00:00,World Cup - Qualification South America,2022,Bolivia,Brazil,2381,6,0.0,4.0,FT,away_win
+293662,2022-03-30T23:30:00+00:00,World Cup - Qualification South America,2022,Ecuador,Argentina,2382,26,1.0,1.0,FT,draw
+293664,2022-03-30T23:30:00+00:00,World Cup - Qualification South America,2022,Chile,Uruguay,2383,7,0.0,2.0,FT,away_win
+1125854,2023-11-15T13:00:00+00:00,World Cup - Qualification Africa,2023,Rwanda,Zimbabwe,1514,1522,0.0,0.0,FT,draw
+1125849,2023-11-15T16:00:00+00:00,World Cup - Qualification Africa,2023,Congo DR,Mauritania,1508,1491,2.0,0.0,FT,home_win
+1125848,2023-11-15T19:00:00+00:00,World Cup - Qualification Africa,2023,Ethiopia,Sierra Leone,1506,1499,0.0,0.0,FT,draw
+1125866,2023-11-16T13:00:00+00:00,World Cup - Qualification Africa,2023,Botswana,Mozambique,1520,1512,2.0,3.0,FT,away_win
+1125863,2023-11-16T13:00:00+00:00,World Cup - Qualification Africa,2023,Burundi,Gambia,1528,1492,3.0,2.0,FT,home_win
+1125853,2023-11-16T16:00:00+00:00,World Cup - Qualification Africa,2023,Nigeria,Lesotho,19,1518,1.0,1.0,FT,draw
+1125847,2023-11-16T16:00:00+00:00,World Cup - Qualification Africa,2023,Egypt,Djibouti,32,1535,6.0,0.0,FT,home_win
+1125861,2023-11-16T16:00:00+00:00,World Cup - Qualification Africa,2023,Gabon,Kenya,1503,1511,2.0,1.0,FT,home_win
+1125851,2023-11-16T16:00:00+00:00,World Cup - Qualification Africa,2023,Sudan,Togo,1510,1534,1.0,1.0,FT,draw
+1125865,2023-11-16T16:00:00+00:00,World Cup - Qualification Africa,2023,Algeria,Somalia,1532,8050,3.0,1.0,FT,home_win
+1125855,2023-11-16T19:00:00+00:00,World Cup - Qualification Africa,2023,Cape Verde Islands,Angola,1533,1529,0.0,0.0,FT,draw
+1125864,2023-11-17T13:00:00+00:00,World Cup - Qualification Africa,2023,Guinea,Uganda,1509,1519,2.0,1.0,FT,home_win
+1125872,2023-11-17T13:00:00+00:00,World Cup - Qualification Africa,2023,Comoros,Central African Republic,1524,1527,4.0,2.0,FT,home_win
+1125857,2023-11-17T13:00:00+00:00,World Cup - Qualification Africa,2023,Eswatini,Libya,2995,1526,0.0,1.0,FT,away_win
+1125870,2023-11-17T16:00:00+00:00,World Cup - Qualification Africa,2023,Ghana,Madagascar,1504,1490,1.0,0.0,FT,home_win
+1125858,2023-11-17T16:00:00+00:00,World Cup - Qualification Africa,2023,Zambia,Congo,1507,1517,4.0,2.0,FT,home_win
+1125869,2023-11-17T16:00:00+00:00,World Cup - Qualification Africa,2023,Liberia,Malawi,1525,1495,0.0,1.0,FT,away_win
+1125868,2023-11-17T19:00:00+00:00,World Cup - Qualification Africa,2023,Tunisia,Sao Tome and Principe,28,1494,4.0,0.0,FT,home_win
+1125871,2023-11-17T19:00:00+00:00,World Cup - Qualification Africa,2023,Mali,Chad,1500,1523,3.0,1.0,FT,home_win
+1125862,2023-11-17T19:00:00+00:00,World Cup - Qualification Africa,2023,Ivory Coast,Seychelles,1501,1515,9.0,0.0,FT,home_win
+1125846,2023-11-17T19:00:00+00:00,World Cup - Qualification Africa,2023,Burkina Faso,Guinea-Bissau,1502,1513,1.0,1.0,FT,draw
+1125856,2023-11-17T19:00:00+00:00,World Cup - Qualification Africa,2023,Cameroon,Mauritius,1530,1497,3.0,0.0,FT,home_win
+1125852,2023-11-18T13:00:00+00:00,World Cup - Qualification Africa,2023,South Africa,Benin,1531,1516,2.0,1.0,FT,home_win
+1125860,2023-11-18T16:00:00+00:00,World Cup - Qualification Africa,2023,Niger,Tanzania,1505,1489,0.0,1.0,FT,away_win
+1125850,2023-11-18T19:00:00+00:00,World Cup - Qualification Africa,2023,Senegal,South Sudan,13,1496,4.0,0.0,FT,home_win
+1125892,2023-11-19T13:00:00+00:00,World Cup - Qualification Africa,2023,Mozambique,Algeria,1512,1532,0.0,2.0,FT,away_win
+1125880,2023-11-19T13:00:00+00:00,World Cup - Qualification Africa,2023,Zimbabwe,Nigeria,1522,19,1.0,1.0,FT,draw
+1125890,2023-11-19T13:00:00+00:00,World Cup - Qualification Africa,2023,Burundi,Gabon,1528,1503,1.0,2.0,FT,away_win
+1125874,2023-11-19T16:00:00+00:00,World Cup - Qualification Africa,2023,Sierra Leone,Egypt,1499,32,0.0,2.0,FT,away_win
+1125878,2023-11-19T16:00:00+00:00,World Cup - Qualification Africa,2023,Sudan,Congo DR,1510,1508,1.0,0.0,FT,home_win
+1125873,2023-11-20T13:00:00+00:00,World Cup - Qualification Africa,2023,Djibouti,Guinea-Bissau,1535,1513,0.0,1.0,FT,away_win
+1125889,2023-11-20T16:00:00+00:00,World Cup - Qualification Africa,2023,Gambia,Ivory Coast,1492,1501,0.0,2.0,FT,away_win
+1126006,2023-11-20T19:00:00+00:00,World Cup - Qualification Africa,2023,Mali,Central African Republic,1500,1527,1.0,1.0,FT,draw
+1125888,2023-11-20T19:00:00+00:00,World Cup - Qualification Africa,2023,Seychelles,Kenya,1515,1511,0.0,5.0,FT,away_win
+1125897,2023-11-20T19:00:00+00:00,World Cup - Qualification Africa,2023,Chad,Madagascar,1523,1490,0.0,3.0,FT,away_win
+1125895,2023-11-21T13:00:00+00:00,World Cup - Qualification Africa,2023,Malawi,Tunisia,1495,28,0.0,1.0,FT,away_win
+1125875,2023-11-21T13:00:00+00:00,World Cup - Qualification Africa,2023,Ethiopia,Burkina Faso,1506,1502,0.0,3.0,FT,away_win
+1125881,2023-11-21T13:00:00+00:00,World Cup - Qualification Africa,2023,Rwanda,South Africa,1514,1531,2.0,0.0,FT,home_win
+1125879,2023-11-21T13:00:00+00:00,World Cup - Qualification Africa,2023,Lesotho,Benin,1518,1516,0.0,0.0,FT,draw
+1125893,2023-11-21T13:00:00+00:00,World Cup - Qualification Africa,2023,Botswana,Guinea,1520,1509,1.0,0.0,FT,home_win
+1125884,2023-11-21T13:00:00+00:00,World Cup - Qualification Africa,2023,Eswatini,Cape Verde Islands,2995,1533,0.0,2.0,FT,away_win
+1125891,2023-11-21T13:00:00+00:00,World Cup - Qualification Africa,2023,Somalia,Uganda,8050,1519,0.0,1.0,FT,away_win
+1125894,2023-11-21T16:00:00+00:00,World Cup - Qualification Africa,2023,Sao Tome and Principe,Namibia,1494,1493,0.0,2.0,FT,away_win
+1125876,2023-11-21T16:00:00+00:00,World Cup - Qualification Africa,2023,South Sudan,Mauritania,1496,1491,0.0,0.0,FT,draw
+1125882,2023-11-21T16:00:00+00:00,World Cup - Qualification Africa,2023,Mauritius,Angola,1497,1529,0.0,0.0,FT,draw
+1125899,2023-11-21T16:00:00+00:00,World Cup - Qualification Africa,2023,Comoros,Ghana,1524,1504,1.0,0.0,FT,home_win
+1125883,2023-11-21T16:00:00+00:00,World Cup - Qualification Africa,2023,Libya,Cameroon,1526,1530,1.0,1.0,FT,draw
+1125877,2023-11-21T16:00:00+00:00,World Cup - Qualification Africa,2023,Togo,Senegal,1534,13,0.0,0.0,FT,draw
+1125886,2023-11-21T19:00:00+00:00,World Cup - Qualification Africa,2023,Tanzania,Morocco,1489,31,0.0,2.0,FT,away_win
+1125887,2023-11-21T19:00:00+00:00,World Cup - Qualification Africa,2023,Niger,Zambia,1505,1507,2.0,1.0,FT,home_win
+1125922,2024-06-05T16:00:00+00:00,World Cup - Qualification Africa,2023,Namibia,Liberia,1493,1525,1.0,1.0,FT,draw
+1125900,2024-06-05T16:00:00+00:00,World Cup - Qualification Africa,2023,Sierra Leone,Djibouti,1499,1535,2.0,1.0,FT,home_win
+1125924,2024-06-05T16:00:00+00:00,World Cup - Qualification Africa,2023,Central African Republic,Chad,1527,1523,1.0,0.0,FT,home_win
+1125903,2024-06-05T16:00:00+00:00,World Cup - Qualification Africa,2023,Togo,South Sudan,1534,1496,1.0,1.0,FT,draw
+1125923,2024-06-05T19:00:00+00:00,World Cup - Qualification Africa,2023,Tunisia,Equatorial Guinea,28,1521,1.0,0.0,FT,home_win
+1125921,2024-06-06T13:00:00+00:00,World Cup - Qualification Africa,2023,Malawi,Sao Tome and Principe,1495,1494,3.0,1.0,FT,home_win
+1125904,2024-06-06T16:00:00+00:00,World Cup - Qualification Africa,2023,Mauritania,Sudan,1491,1510,0.0,2.0,FT,away_win
+1125901,2024-06-06T16:00:00+00:00,World Cup - Qualification Africa,2023,Guinea-Bissau,Ethiopia,1513,1506,0.0,0.0,FT,draw
+1125909,2024-06-06T16:00:00+00:00,World Cup - Qualification Africa,2023,Libya,Mauritius,1526,1497,2.0,1.0,FT,home_win
+1125905,2024-06-06T19:00:00+00:00,World Cup - Qualification Africa,2023,Senegal,Congo DR,13,1508,1.0,1.0,FT,draw
+1125902,2024-06-06T19:00:00+00:00,World Cup - Qualification Africa,2023,Egypt,Burkina Faso,32,1502,2.0,1.0,FT,home_win
+1125926,2024-06-06T19:00:00+00:00,World Cup - Qualification Africa,2023,Mali,Ghana,1500,1504,1.0,2.0,FT,away_win
+1125907,2024-06-06T19:00:00+00:00,World Cup - Qualification Africa,2023,Benin,Rwanda,1516,1514,1.0,0.0,FT,home_win
+1125920,2024-06-06T19:00:00+00:00,World Cup - Qualification Africa,2023,Algeria,Guinea,1532,1509,1.0,2.0,FT,away_win
+1125916,2024-06-07T13:00:00+00:00,World Cup - Qualification Africa,2023,Kenya,Burundi,1511,1528,1.0,1.0,FT,draw
+1125918,2024-06-07T13:00:00+00:00,World Cup - Qualification Africa,2023,Mozambique,Somalia,1512,8050,2.0,1.0,FT,home_win
+1125906,2024-06-07T13:00:00+00:00,World Cup - Qualification Africa,2023,Zimbabwe,Lesotho,1522,1518,0.0,2.0,FT,away_win
+1125925,2024-06-07T16:00:00+00:00,World Cup - Qualification Africa,2023,Madagascar,Comoros,1490,1524,2.0,1.0,FT,home_win
+1125919,2024-06-07T16:00:00+00:00,World Cup - Qualification Africa,2023,Uganda,Botswana,1519,1520,1.0,0.0,FT,home_win
+1125910,2024-06-07T16:00:00+00:00,World Cup - Qualification Africa,2023,Angola,Eswatini,1529,2995,1.0,0.0,FT,home_win
+1125908,2024-06-07T19:00:00+00:00,World Cup - Qualification Africa,2023,Nigeria,South Africa,19,1531,1.0,1.0,FT,draw
+1125914,2024-06-07T19:00:00+00:00,World Cup - Qualification Africa,2023,Morocco,Zambia,31,1507,2.0,1.0,FT,home_win
+1125917,2024-06-07T19:00:00+00:00,World Cup - Qualification Africa,2023,Ivory Coast,Gabon,1501,1503,1.0,0.0,FT,home_win
+1125911,2024-06-08T13:00:00+00:00,World Cup - Qualification Africa,2023,Cameroon,Cape Verde Islands,1530,1533,4.0,1.0,FT,home_win
+1125915,2024-06-08T16:00:00+00:00,World Cup - Qualification Africa,2023,Gambia,Seychelles,1492,1515,5.0,1.0,FT,home_win
+1125950,2024-06-09T13:00:00+00:00,World Cup - Qualification Africa,2023,Sao Tome and Principe,Liberia,1494,1525,0.0,1.0,FT,away_win
+1125931,2024-06-09T16:00:00+00:00,World Cup - Qualification Africa,2023,Mauritania,Senegal,1491,13,0.0,1.0,FT,away_win
+1125949,2024-06-09T16:00:00+00:00,World Cup - Qualification Africa,2023,Namibia,Tunisia,1493,28,0.0,0.0,FT,draw
+1125930,2024-06-09T16:00:00+00:00,World Cup - Qualification Africa,2023,Congo DR,Togo,1508,1534,1.0,0.0,FT,home_win
+1125929,2024-06-09T16:00:00+00:00,World Cup - Qualification Africa,2023,Djibouti,Ethiopia,1535,1506,1.0,1.0,FT,draw
+1125948,2024-06-10T13:00:00+00:00,World Cup - Qualification Africa,2023,Equatorial Guinea,Malawi,1521,1495,1.0,0.0,FT,home_win
+1125947,2024-06-10T13:00:00+00:00,World Cup - Qualification Africa,2023,Somalia,Botswana,8050,1520,1.0,3.0,FT,away_win
+1125928,2024-06-10T16:00:00+00:00,World Cup - Qualification Africa,2023,Guinea-Bissau,Egypt,1513,32,1.0,1.0,FT,draw
+1125934,2024-06-10T16:00:00+00:00,World Cup - Qualification Africa,2023,Benin,Nigeria,1516,19,2.0,1.0,FT,home_win
+1125946,2024-06-10T16:00:00+00:00,World Cup - Qualification Africa,2023,Uganda,Algeria,1519,1532,1.0,2.0,FT,away_win
+1125927,2024-06-10T19:00:00+00:00,World Cup - Qualification Africa,2023,Burkina Faso,Sierra Leone,1502,1499,2.0,2.0,FT,draw
+1125951,2024-06-10T19:00:00+00:00,World Cup - Qualification Africa,2023,Ghana,Central African Republic,1504,1527,4.0,3.0,FT,home_win
+1125945,2024-06-10T19:00:00+00:00,World Cup - Qualification Africa,2023,Guinea,Mozambique,1509,1512,0.0,1.0,FT,away_win
+1125952,2024-06-11T13:00:00+00:00,World Cup - Qualification Africa,2023,Madagascar,Mali,1490,1500,0.0,0.0,FT,draw
+1125932,2024-06-11T13:00:00+00:00,World Cup - Qualification Africa,2023,South Sudan,Sudan,1496,1510,0.0,3.0,FT,away_win
+1125938,2024-06-11T13:00:00+00:00,World Cup - Qualification Africa,2023,Mauritius,Eswatini,1497,2995,2.0,1.0,FT,home_win
+1125943,2024-06-11T13:00:00+00:00,World Cup - Qualification Africa,2023,Kenya,Ivory Coast,1511,1501,0.0,0.0,FT,draw
+1125939,2024-06-11T16:00:00+00:00,World Cup - Qualification Africa,2023,Zambia,Tanzania,1507,1489,0.0,1.0,FT,away_win
+1125935,2024-06-11T16:00:00+00:00,World Cup - Qualification Africa,2023,Lesotho,Rwanda,1518,1514,0.0,1.0,FT,away_win
+1125953,2024-06-11T16:00:00+00:00,World Cup - Qualification Africa,2023,Chad,Comoros,1523,1524,0.0,2.0,FT,away_win
+1125933,2024-06-11T16:00:00+00:00,World Cup - Qualification Africa,2023,South Africa,Zimbabwe,1531,1522,3.0,1.0,FT,home_win
+1125936,2024-06-11T16:00:00+00:00,World Cup - Qualification Africa,2023,Cape Verde Islands,Libya,1533,1526,1.0,0.0,FT,home_win
+1125942,2024-06-11T19:00:00+00:00,World Cup - Qualification Africa,2023,Gabon,Gambia,1503,1492,3.0,2.0,FT,home_win
+1125944,2024-06-11T19:00:00+00:00,World Cup - Qualification Africa,2023,Seychelles,Burundi,1515,1528,1.0,3.0,FT,away_win
+1125940,2024-06-11T19:00:00+00:00,World Cup - Qualification Africa,2023,Congo,Morocco,1517,31,0.0,6.0,FT,away_win
+1125937,2024-06-11T19:00:00+00:00,World Cup - Qualification Africa,2023,Angola,Cameroon,1529,1530,1.0,1.0,FT,draw
+1125977,2025-03-19T16:00:00+00:00,World Cup - Qualification Africa,2023,Liberia,Tunisia,1525,28,0.0,1.0,FT,away_win
+1125979,2025-03-19T16:00:00+00:00,World Cup - Qualification Africa,2023,Central African Republic,Madagascar,1527,1490,1.0,4.0,FT,away_win
+1125965,2025-03-19T16:00:00+00:00,World Cup - Qualification Africa,2023,Eswatini,Cameroon,2995,1530,0.0,0.0,FT,draw
+1125973,2025-03-20T13:00:00+00:00,World Cup - Qualification Africa,2023,Mozambique,Uganda,1512,1519,3.0,1.0,FT,home_win
+1125976,2025-03-20T16:00:00+00:00,World Cup - Qualification Africa,2023,Malawi,Namibia,1495,1493,0.0,1.0,FT,away_win
+1125955,2025-03-20T16:00:00+00:00,World Cup - Qualification Africa,2023,Sierra Leone,Guinea-Bissau,1499,1513,3.0,1.0,FT,home_win
+1125961,2025-03-20T16:00:00+00:00,World Cup - Qualification Africa,2023,Zimbabwe,Benin,1522,1516,2.0,2.0,FT,draw
+1125963,2025-03-20T16:00:00+00:00,World Cup - Qualification Africa,2023,Cape Verde Islands,Mauritius,1533,1497,1.0,0.0,FT,home_win
+1125970,2025-03-20T19:00:00+00:00,World Cup - Qualification Africa,2023,Gambia,Kenya,1492,1511,3.0,3.0,FT,draw
+1125969,2025-03-20T19:00:00+00:00,World Cup - Qualification Africa,2023,Gabon,Seychelles,1503,1515,3.0,0.0,FT,home_win
+1125964,2025-03-20T19:00:00+00:00,World Cup - Qualification Africa,2023,Libya,Angola,1526,1529,1.0,1.0,FT,draw
+1125980,2025-03-20T21:00:00+00:00,World Cup - Qualification Africa,2023,Comoros,Mali,1524,1500,0.0,3.0,FT,away_win
+1125974,2025-03-21T13:00:00+00:00,World Cup - Qualification Africa,2023,Botswana,Algeria,1520,1532,1.0,3.0,FT,away_win
+1125975,2025-03-21T13:00:00+00:00,World Cup - Qualification Africa,2023,Equatorial Guinea,Sao Tome and Principe,1521,1494,2.0,0.0,FT,home_win
+1125954,2025-03-21T16:00:00+00:00,World Cup - Qualification Africa,2023,Burkina Faso,Djibouti,1502,1535,4.0,1.0,FT,home_win
+1125957,2025-03-21T16:00:00+00:00,World Cup - Qualification Africa,2023,Congo DR,South Sudan,1508,1496,1.0,0.0,FT,home_win
+1125962,2025-03-21T16:00:00+00:00,World Cup - Qualification Africa,2023,Rwanda,Nigeria,1514,19,0.0,2.0,FT,away_win
+1125978,2025-03-21T19:00:00+00:00,World Cup - Qualification Africa,2023,Ghana,Chad,1504,1523,5.0,0.0,FT,home_win
+1125971,2025-03-21T19:00:00+00:00,World Cup - Qualification Africa,2023,Burundi,Ivory Coast,1528,1501,0.0,1.0,FT,away_win
+1125956,2025-03-21T21:00:00+00:00,World Cup - Qualification Africa,2023,Ethiopia,Egypt,1506,32,0.0,2.0,FT,away_win
+1125972,2025-03-21T21:00:00+00:00,World Cup - Qualification Africa,2023,Guinea,Somalia,1509,8050,0.0,0.0,FT,draw
+1125968,2025-03-21T21:30:00+00:00,World Cup - Qualification Africa,2023,Niger,Morocco,1505,31,1.0,2.0,FT,away_win
+1125958,2025-03-22T16:00:00+00:00,World Cup - Qualification Africa,2023,Togo,Mauritania,1534,1491,2.0,2.0,FT,draw
+1125959,2025-03-22T19:00:00+00:00,World Cup - Qualification Africa,2023,Sudan,Senegal,1510,13,0.0,0.0,FT,draw
+1125996,2025-03-23T13:00:00+00:00,World Cup - Qualification Africa,2023,Kenya,Gabon,1511,1503,1.0,2.0,FT,away_win
+1125992,2025-03-23T13:00:00+00:00,World Cup - Qualification Africa,2023,Eswatini,Mauritius,2995,1497,3.0,3.0,FT,draw
+1126002,2025-03-24T12:00:00+00:00,World Cup - Qualification Africa,2023,Namibia,Equatorial Guinea,1493,1521,1.0,1.0,FT,draw
+1125981,2025-03-24T16:00:00+00:00,World Cup - Qualification Africa,2023,Guinea-Bissau,Burkina Faso,1513,1502,1.0,2.0,FT,away_win
+1126004,2025-03-24T16:00:00+00:00,World Cup - Qualification Africa,2023,Liberia,Sao Tome and Principe,1525,1494,2.0,1.0,FT,home_win
+1125898,2025-03-24T16:00:00+00:00,World Cup - Qualification Africa,2023,Central African Republic,Mali,1527,1500,0.0,0.0,FT,draw
+1126005,2025-03-24T19:00:00+00:00,World Cup - Qualification Africa,2023,Madagascar,Ghana,1490,1504,0.0,3.0,FT,away_win
+1125997,2025-03-24T19:00:00+00:00,World Cup - Qualification Africa,2023,Ivory Coast,Gambia,1501,1492,1.0,0.0,FT,home_win
+1126003,2025-03-24T21:00:00+00:00,World Cup - Qualification Africa,2023,Tunisia,Malawi,28,1495,2.0,0.0,FT,home_win
+1125983,2025-03-24T21:00:00+00:00,World Cup - Qualification Africa,2023,Ethiopia,Djibouti,1506,1535,6.0,1.0,FT,home_win
+1125988,2025-03-25T16:00:00+00:00,World Cup - Qualification Africa,2023,Nigeria,Zimbabwe,19,1522,1.0,1.0,FT,draw
+1125989,2025-03-25T16:00:00+00:00,World Cup - Qualification Africa,2023,Rwanda,Lesotho,1514,1518,1.0,1.0,FT,draw
+1125987,2025-03-25T16:00:00+00:00,World Cup - Qualification Africa,2023,Benin,South Africa,1516,1531,0.0,2.0,FT,away_win
+1125999,2025-03-25T16:00:00+00:00,World Cup - Qualification Africa,2023,Uganda,Guinea,1519,1509,1.0,0.0,FT,home_win
+1125990,2025-03-25T16:00:00+00:00,World Cup - Qualification Africa,2023,Angola,Cape Verde Islands,1529,1533,1.0,2.0,FT,away_win
+1125982,2025-03-25T19:00:00+00:00,World Cup - Qualification Africa,2023,Egypt,Sierra Leone,32,1499,1.0,0.0,FT,home_win
+1125986,2025-03-25T19:00:00+00:00,World Cup - Qualification Africa,2023,Sudan,South Sudan,1510,1496,1.0,1.0,FT,draw
+1126001,2025-03-25T19:00:00+00:00,World Cup - Qualification Africa,2023,Botswana,Somalia,1520,8050,2.0,0.0,FT,home_win
+1125998,2025-03-25T19:00:00+00:00,World Cup - Qualification Africa,2023,Burundi,Seychelles,1528,1515,5.0,0.0,FT,home_win
+1125991,2025-03-25T19:00:00+00:00,World Cup - Qualification Africa,2023,Cameroon,Libya,1530,1526,3.0,1.0,FT,home_win
+1125985,2025-03-25T21:00:00+00:00,World Cup - Qualification Africa,2023,Senegal,Togo,13,1534,2.0,0.0,FT,home_win
+1125984,2025-03-25T21:00:00+00:00,World Cup - Qualification Africa,2023,Mauritania,Congo DR,1491,1508,0.0,2.0,FT,away_win
+1126007,2025-03-25T21:00:00+00:00,World Cup - Qualification Africa,2023,Comoros,Chad,1524,1523,1.0,0.0,FT,home_win
+1126000,2025-03-25T21:00:00+00:00,World Cup - Qualification Africa,2023,Algeria,Mozambique,1532,1512,5.0,1.0,FT,home_win
+1125994,2025-03-25T21:30:00+00:00,World Cup - Qualification Africa,2023,Morocco,Tanzania,31,1489,2.0,0.0,FT,home_win
+1126024,2025-09-03T13:00:00+00:00,World Cup - Qualification Africa,2023,Seychelles,Gabon,1515,1503,0.0,4.0,FT,away_win
+1126033,2025-09-04T13:00:00+00:00,World Cup - Qualification Africa,2023,Chad,Ghana,1523,1504,1.0,1.0,FT,draw
+1126032,2025-09-04T16:00:00+00:00,World Cup - Qualification Africa,2023,Madagascar,Central African Republic,1490,1527,2.0,0.0,FT,home_win
+1126030,2025-09-04T16:00:00+00:00,World Cup - Qualification Africa,2023,Sao Tome and Principe,Equatorial Guinea,1494,1521,2.0,3.0,FT,away_win
+1126018,2025-09-04T16:00:00+00:00,World Cup - Qualification Africa,2023,Mauritius,Cape Verde Islands,1497,1533,0.0,2.0,FT,away_win
+1126008,2025-09-04T16:00:00+00:00,World Cup - Qualification Africa,2023,Guinea-Bissau,Sierra Leone,1513,1499,1.0,1.0,FT,draw
+1126017,2025-09-04T16:00:00+00:00,World Cup - Qualification Africa,2023,Angola,Libya,1529,1526,0.0,1.0,FT,away_win
+1126031,2025-09-04T19:00:00+00:00,World Cup - Qualification Africa,2023,Tunisia,Liberia,28,1525,3.0,0.0,FT,home_win
+1126034,2025-09-04T19:00:00+00:00,World Cup - Qualification Africa,2023,Mali,Comoros,1500,1524,3.0,0.0,FT,home_win
+1126019,2025-09-04T19:00:00+00:00,World Cup - Qualification Africa,2023,Cameroon,Eswatini,1530,2995,3.0,0.0,FT,home_win
+1126028,2025-09-04T19:00:00+00:00,World Cup - Qualification Africa,2023,Algeria,Botswana,1532,1520,3.0,1.0,FT,home_win
+1126027,2025-09-05T12:00:00+00:00,World Cup - Qualification Africa,2023,Somalia,Guinea,8050,1509,0.0,3.0,FT,away_win
+1126029,2025-09-05T13:00:00+00:00,World Cup - Qualification Africa,2023,Namibia,Malawi,1493,1495,1.0,2.0,FT,away_win
+1126012,2025-09-05T13:00:00+00:00,World Cup - Qualification Africa,2023,South Sudan,Congo DR,1496,1508,1.0,4.0,FT,away_win
+1126023,2025-09-05T13:00:00+00:00,World Cup - Qualification Africa,2023,Kenya,Gambia,1511,1492,1.0,3.0,FT,away_win
+1126014,2025-09-05T16:00:00+00:00,World Cup - Qualification Africa,2023,Benin,Zimbabwe,1516,1522,1.0,0.0,FT,home_win
+1126020,2025-09-05T16:00:00+00:00,World Cup - Qualification Africa,2023,Congo,Tanzania,1517,1489,1.0,1.0,FT,draw
+1126015,2025-09-05T16:00:00+00:00,World Cup - Qualification Africa,2023,Lesotho,South Africa,1518,1531,0.0,3.0,FT,away_win
+1126026,2025-09-05T16:00:00+00:00,World Cup - Qualification Africa,2023,Uganda,Mozambique,1519,1512,4.0,0.0,FT,home_win
+1126009,2025-09-05T16:00:00+00:00,World Cup - Qualification Africa,2023,Djibouti,Burkina Faso,1535,1502,0.0,6.0,FT,away_win
+1126013,2025-09-05T19:00:00+00:00,World Cup - Qualification Africa,2023,Senegal,Sudan,13,1510,2.0,0.0,FT,home_win
+1126022,2025-09-05T19:00:00+00:00,World Cup - Qualification Africa,2023,Morocco,Niger,31,1505,5.0,0.0,FT,home_win
+1126010,2025-09-05T19:00:00+00:00,World Cup - Qualification Africa,2023,Egypt,Ethiopia,32,1506,2.0,0.0,FT,home_win
+1126011,2025-09-05T19:00:00+00:00,World Cup - Qualification Africa,2023,Mauritania,Togo,1491,1534,2.0,0.0,FT,home_win
+1126025,2025-09-05T19:00:00+00:00,World Cup - Qualification Africa,2023,Ivory Coast,Burundi,1501,1528,1.0,0.0,FT,home_win
+1126016,2025-09-06T16:00:00+00:00,World Cup - Qualification Africa,2023,Nigeria,Rwanda,19,1514,1.0,0.0,FT,home_win
+1126061,2025-09-07T16:00:00+00:00,World Cup - Qualification Africa,2023,Central African Republic,Comoros,1527,1524,0.0,2.0,FT,away_win
+1126047,2025-09-08T13:00:00+00:00,World Cup - Qualification Africa,2023,Zambia,Morocco,1507,31,0.0,2.0,FT,away_win
+1126055,2025-09-08T13:00:00+00:00,World Cup - Qualification Africa,2023,Mozambique,Botswana,1512,1520,2.0,0.0,FT,home_win
+1126056,2025-09-08T13:00:00+00:00,World Cup - Qualification Africa,2023,Equatorial Guinea,Tunisia,1521,28,0.0,1.0,FT,away_win
+1126060,2025-09-08T16:00:00+00:00,World Cup - Qualification Africa,2023,Madagascar,Chad,1490,1523,3.0,1.0,FT,home_win
+1126058,2025-09-08T16:00:00+00:00,World Cup - Qualification Africa,2023,Malawi,Liberia,1495,1525,2.0,2.0,FT,draw
+1126053,2025-09-08T16:00:00+00:00,World Cup - Qualification Africa,2023,Guinea,Algeria,1509,1532,0.0,0.0,FT,draw
+1126036,2025-09-08T16:00:00+00:00,World Cup - Qualification Africa,2023,Guinea-Bissau,Djibouti,1513,1535,2.0,0.0,FT,home_win
+1126054,2025-09-08T16:00:00+00:00,World Cup - Qualification Africa,2023,Uganda,Somalia,1519,8050,2.0,0.0,FT,home_win
+1126059,2025-09-08T19:00:00+00:00,World Cup - Qualification Africa,2023,Ghana,Mali,1504,1500,1.0,0.0,FT,home_win
+1126046,2025-09-08T19:00:00+00:00,World Cup - Qualification Africa,2023,Libya,Eswatini,1526,2995,2.0,0.0,FT,home_win
+1126049,2025-09-09T13:00:00+00:00,World Cup - Qualification Africa,2023,Tanzania,Niger,1489,1505,0.0,1.0,FT,away_win
+1126057,2025-09-09T13:00:00+00:00,World Cup - Qualification Africa,2023,Namibia,Sao Tome and Principe,1493,1494,3.0,0.0,FT,home_win
+1126037,2025-09-09T13:00:00+00:00,World Cup - Qualification Africa,2023,Sierra Leone,Ethiopia,1499,1506,2.0,0.0,FT,home_win
+1126051,2025-09-09T13:00:00+00:00,World Cup - Qualification Africa,2023,Kenya,Seychelles,1511,1515,5.0,0.0,FT,home_win
+1126043,2025-09-09T13:00:00+00:00,World Cup - Qualification Africa,2023,Zimbabwe,Rwanda,1522,1514,0.0,1.0,FT,away_win
+1126035,2025-09-09T16:00:00+00:00,World Cup - Qualification Africa,2023,Burkina Faso,Egypt,1502,32,0.0,0.0,FT,draw
+1126038,2025-09-09T16:00:00+00:00,World Cup - Qualification Africa,2023,Congo DR,Senegal,1508,13,2.0,3.0,FT,away_win
+1126041,2025-09-09T16:00:00+00:00,World Cup - Qualification Africa,2023,South Africa,Nigeria,1531,19,1.0,1.0,FT,draw
+1126044,2025-09-09T16:00:00+00:00,World Cup - Qualification Africa,2023,Cape Verde Islands,Cameroon,1533,1530,1.0,0.0,FT,home_win
+1126040,2025-09-09T16:00:00+00:00,World Cup - Qualification Africa,2023,Togo,Sudan,1534,1510,1.0,0.0,FT,home_win
+1126039,2025-09-09T19:00:00+00:00,World Cup - Qualification Africa,2023,Mauritania,South Sudan,1491,1496,0.0,0.0,FT,draw
+1126052,2025-09-09T19:00:00+00:00,World Cup - Qualification Africa,2023,Gambia,Burundi,1492,1528,2.0,0.0,FT,home_win
+1126050,2025-09-09T19:00:00+00:00,World Cup - Qualification Africa,2023,Gabon,Ivory Coast,1503,1501,0.0,0.0,FT,draw
+1126042,2025-09-09T19:00:00+00:00,World Cup - Qualification Africa,2023,Benin,Lesotho,1516,1518,4.0,0.0,FT,home_win
+1126045,2025-09-09T19:00:00+00:00,World Cup - Qualification Africa,2023,Angola,Mauritius,1529,1497,3.0,1.0,FT,home_win
+1126071,2025-10-08T13:00:00+00:00,World Cup - Qualification Africa,2023,Mauritius,Cameroon,1497,1530,0.0,2.0,FT,away_win
+1126064,2025-10-08T13:00:00+00:00,World Cup - Qualification Africa,2023,Ethiopia,Guinea-Bissau,1506,1513,1.0,0.0,FT,home_win
+1126072,2025-10-08T13:00:00+00:00,World Cup - Qualification Africa,2023,Libya,Cape Verde Islands,1526,1533,3.0,3.0,FT,draw
+1126073,2025-10-08T13:00:00+00:00,World Cup - Qualification Africa,2023,Eswatini,Angola,2995,1529,2.0,2.0,FT,draw
+1126063,2025-10-08T16:00:00+00:00,World Cup - Qualification Africa,2023,Sierra Leone,Burkina Faso,1499,1502,0.0,1.0,FT,away_win
+1126086,2025-10-08T16:00:00+00:00,World Cup - Qualification Africa,2023,Chad,Mali,1523,1500,0.0,2.0,FT,away_win
+1126088,2025-10-08T16:00:00+00:00,World Cup - Qualification Africa,2023,Comoros,Madagascar,1524,1490,1.0,2.0,FT,away_win
+1126087,2025-10-08T16:00:00+00:00,World Cup - Qualification Africa,2023,Central African Republic,Ghana,1527,1504,0.0,5.0,FT,away_win
+1126062,2025-10-08T16:00:00+00:00,World Cup - Qualification Africa,2023,Djibouti,Egypt,1535,32,0.0,3.0,FT,away_win
+1126075,2025-10-08T19:00:00+00:00,World Cup - Qualification Africa,2023,Tanzania,Zambia,1489,1507,0.0,1.0,FT,away_win
+1126076,2025-10-08T19:00:00+00:00,World Cup - Qualification Africa,2023,Niger,Congo,1505,1517,3.0,1.0,FT,home_win
+1126079,2025-10-09T13:00:00+00:00,World Cup - Qualification Africa,2023,Burundi,Kenya,1528,1511,0.0,1.0,FT,away_win
+1126081,2025-10-09T16:00:00+00:00,World Cup - Qualification Africa,2023,Mozambique,Guinea,1512,1509,1.0,2.0,FT,away_win
+1126082,2025-10-09T16:00:00+00:00,World Cup - Qualification Africa,2023,Botswana,Uganda,1520,1519,0.0,1.0,FT,away_win
+1126085,2025-10-09T16:00:00+00:00,World Cup - Qualification Africa,2023,Liberia,Namibia,1525,1493,3.0,1.0,FT,home_win
+1126080,2025-10-09T16:00:00+00:00,World Cup - Qualification Africa,2023,Somalia,Algeria,8050,1532,0.0,3.0,FT,away_win
+1126078,2025-10-10T13:00:00+00:00,World Cup - Qualification Africa,2023,Gambia,Gabon,1492,1503,3.0,4.0,FT,away_win
+1126065,2025-10-10T13:00:00+00:00,World Cup - Qualification Africa,2023,South Sudan,Senegal,1496,13,0.0,5.0,FT,away_win
+1126067,2025-10-10T13:00:00+00:00,World Cup - Qualification Africa,2023,Sudan,Mauritania,1510,1491,0.0,0.0,FT,draw
+1126077,2025-10-10T13:00:00+00:00,World Cup - Qualification Africa,2023,Seychelles,Ivory Coast,1515,1501,0.0,7.0,FT,away_win
+1126066,2025-10-10T13:00:00+00:00,World Cup - Qualification Africa,2023,Togo,Congo DR,1534,1508,0.0,1.0,FT,away_win
+1126083,2025-10-10T16:00:00+00:00,World Cup - Qualification Africa,2023,Sao Tome and Principe,Tunisia,1494,28,0.0,6.0,FT,away_win
+1126070,2025-10-10T16:00:00+00:00,World Cup - Qualification Africa,2023,Rwanda,Benin,1514,1516,0.0,1.0,FT,away_win
+1126068,2025-10-10T16:00:00+00:00,World Cup - Qualification Africa,2023,Lesotho,Nigeria,1518,19,1.0,2.0,FT,away_win
+1126069,2025-10-10T16:00:00+00:00,World Cup - Qualification Africa,2023,Zimbabwe,South Africa,1522,1531,0.0,0.0,FT,draw
+1126101,2025-10-12T13:00:00+00:00,World Cup - Qualification Africa,2023,Zambia,Niger,1507,1505,0.0,1.0,FT,away_win
+1126114,2025-10-12T16:00:00+00:00,World Cup - Qualification Africa,2023,Chad,Central African Republic,1523,1527,2.0,3.0,FT,away_win
+1126091,2025-10-12T19:00:00+00:00,World Cup - Qualification Africa,2023,Egypt,Guinea-Bissau,32,1513,1.0,0.0,FT,home_win
+1126115,2025-10-12T19:00:00+00:00,World Cup - Qualification Africa,2023,Mali,Madagascar,1500,1490,4.0,1.0,FT,home_win
+1126089,2025-10-12T19:00:00+00:00,World Cup - Qualification Africa,2023,Burkina Faso,Ethiopia,1502,1506,3.0,1.0,FT,home_win
+1126113,2025-10-12T19:00:00+00:00,World Cup - Qualification Africa,2023,Ghana,Comoros,1504,1524,1.0,0.0,FT,home_win
+1126090,2025-10-12T19:00:00+00:00,World Cup - Qualification Africa,2023,Djibouti,Sierra Leone,1535,1499,1.0,2.0,FT,away_win
+1126112,2025-10-13T13:00:00+00:00,World Cup - Qualification Africa,2023,Tunisia,Namibia,28,1493,3.0,0.0,FT,home_win
+1126111,2025-10-13T13:00:00+00:00,World Cup - Qualification Africa,2023,Sao Tome and Principe,Malawi,1494,1495,1.0,0.0,FT,home_win
+1126093,2025-10-13T13:00:00+00:00,World Cup - Qualification Africa,2023,South Sudan,Togo,1496,1534,0.0,0.0,FT,draw
+1126110,2025-10-13T13:00:00+00:00,World Cup - Qualification Africa,2023,Equatorial Guinea,Liberia,1521,1525,1.0,1.0,FT,draw
+1126099,2025-10-13T16:00:00+00:00,World Cup - Qualification Africa,2023,Mauritius,Libya,1497,1526,0.0,0.0,FT,draw
+1126096,2025-10-13T16:00:00+00:00,World Cup - Qualification Africa,2023,Lesotho,Zimbabwe,1518,1522,1.0,0.0,FT,home_win
+1126100,2025-10-13T16:00:00+00:00,World Cup - Qualification Africa,2023,Cameroon,Angola,1530,1529,0.0,0.0,FT,draw
+1126098,2025-10-13T16:00:00+00:00,World Cup - Qualification Africa,2023,Cape Verde Islands,Eswatini,1533,2995,3.0,0.0,FT,home_win
+1126105,2025-10-14T13:00:00+00:00,World Cup - Qualification Africa,2023,Seychelles,Gambia,1515,1492,0.0,7.0,FT,away_win
+1126097,2025-10-14T16:00:00+00:00,World Cup - Qualification Africa,2023,Nigeria,Benin,19,1516,4.0,0.0,FT,home_win
+1126107,2025-10-14T16:00:00+00:00,World Cup - Qualification Africa,2023,Guinea,Botswana,1509,1520,2.0,2.0,FT,draw
+1126095,2025-10-14T16:00:00+00:00,World Cup - Qualification Africa,2023,South Africa,Rwanda,1531,1514,3.0,0.0,FT,home_win
+1126109,2025-10-14T16:00:00+00:00,World Cup - Qualification Africa,2023,Algeria,Uganda,1532,1519,2.0,1.0,FT,home_win
+1126108,2025-10-14T16:00:00+00:00,World Cup - Qualification Africa,2023,Somalia,Mozambique,8050,1512,0.0,1.0,FT,away_win
+1126094,2025-10-14T19:00:00+00:00,World Cup - Qualification Africa,2023,Senegal,Mauritania,13,1491,4.0,0.0,FT,home_win
+1126103,2025-10-14T19:00:00+00:00,World Cup - Qualification Africa,2023,Morocco,Congo,31,1517,1.0,0.0,FT,home_win
+1126106,2025-10-14T19:00:00+00:00,World Cup - Qualification Africa,2023,Ivory Coast,Kenya,1501,1511,3.0,0.0,FT,home_win
+1126104,2025-10-14T19:00:00+00:00,World Cup - Qualification Africa,2023,Gabon,Burundi,1503,1528,2.0,0.0,FT,home_win
+1126092,2025-10-14T19:00:00+00:00,World Cup - Qualification Africa,2023,Congo DR,Sudan,1508,1510,1.0,0.0,FT,home_win
+1483272,2025-11-13T19:00:00+00:00,World Cup - Qualification Africa,2023,Cameroon,Congo DR,1530,1508,0.0,1.0,FT,away_win
+1145509,2024-06-14T19:00:00+00:00,Euro Championship,2024,Germany,Scotland,25,1108,5.0,1.0,FT,home_win
+1145510,2024-06-15T13:00:00+00:00,Euro Championship,2024,Hungary,Switzerland,769,15,1.0,3.0,FT,away_win
+1145511,2024-06-15T16:00:00+00:00,Euro Championship,2024,Spain,Croatia,9,3,3.0,0.0,FT,home_win
+1145512,2024-06-15T19:00:00+00:00,Euro Championship,2024,Italy,Albania,768,778,2.0,1.0,FT,home_win
+1189846,2024-06-16T13:00:00+00:00,Euro Championship,2024,Poland,Netherlands,24,1118,1.0,2.0,FT,away_win
+1145513,2024-06-16T16:00:00+00:00,Euro Championship,2024,Slovenia,Denmark,1091,21,1.0,1.0,FT,draw
+1145514,2024-06-16T19:00:00+00:00,Euro Championship,2024,Serbia,England,14,10,0.0,1.0,FT,away_win
+1189847,2024-06-17T13:00:00+00:00,Euro Championship,2024,Romania,Ukraine,774,772,3.0,0.0,FT,home_win
+1145516,2024-06-17T16:00:00+00:00,Euro Championship,2024,Belgium,Slovakia,1,773,0.0,1.0,FT,away_win
+1145515,2024-06-17T19:00:00+00:00,Euro Championship,2024,Austria,France,775,2,0.0,1.0,FT,away_win
+1189848,2024-06-18T16:00:00+00:00,Euro Championship,2024,Türkiye,Georgia,777,1104,3.0,1.0,FT,home_win
+1145517,2024-06-18T19:00:00+00:00,Euro Championship,2024,Portugal,Czechia,27,770,2.0,1.0,FT,home_win
+1145520,2024-06-19T13:00:00+00:00,Euro Championship,2024,Croatia,Albania,3,778,2.0,2.0,FT,draw
+1145519,2024-06-19T16:00:00+00:00,Euro Championship,2024,Germany,Hungary,25,769,2.0,0.0,FT,home_win
+1145518,2024-06-19T19:00:00+00:00,Euro Championship,2024,Scotland,Switzerland,1108,15,1.0,1.0,FT,draw
+1145523,2024-06-20T13:00:00+00:00,Euro Championship,2024,Slovenia,Serbia,1091,14,1.0,1.0,FT,draw
+1145522,2024-06-20T16:00:00+00:00,Euro Championship,2024,Denmark,England,21,10,1.0,1.0,FT,draw
+1145521,2024-06-20T19:00:00+00:00,Euro Championship,2024,Spain,Italy,9,768,1.0,0.0,FT,home_win
+1189849,2024-06-21T13:00:00+00:00,Euro Championship,2024,Slovakia,Ukraine,773,772,1.0,2.0,FT,away_win
+1189850,2024-06-21T16:00:00+00:00,Euro Championship,2024,Poland,Austria,24,775,1.0,3.0,FT,away_win
+1145524,2024-06-21T19:00:00+00:00,Euro Championship,2024,Netherlands,France,1118,2,0.0,0.0,FT,draw
+1189851,2024-06-22T13:00:00+00:00,Euro Championship,2024,Georgia,Czechia,1104,770,1.0,1.0,FT,draw
+1145526,2024-06-22T16:00:00+00:00,Euro Championship,2024,Türkiye,Portugal,777,27,0.0,3.0,FT,away_win
+1145525,2024-06-22T19:00:00+00:00,Euro Championship,2024,Belgium,Romania,1,774,2.0,0.0,FT,home_win
+1145527,2024-06-23T19:00:00+00:00,Euro Championship,2024,Switzerland,Germany,15,25,1.0,1.0,FT,draw
+1145528,2024-06-23T19:00:00+00:00,Euro Championship,2024,Scotland,Hungary,1108,769,0.0,1.0,FT,away_win
+1145529,2024-06-24T19:00:00+00:00,Euro Championship,2024,Croatia,Italy,3,768,1.0,1.0,FT,draw
+1145530,2024-06-24T19:00:00+00:00,Euro Championship,2024,Albania,Spain,778,9,0.0,1.0,FT,away_win
+1189852,2024-06-25T16:00:00+00:00,Euro Championship,2024,France,Poland,2,24,1.0,1.0,FT,draw
+1145533,2024-06-25T16:00:00+00:00,Euro Championship,2024,Netherlands,Austria,1118,775,2.0,3.0,FT,away_win
+1145531,2024-06-25T19:00:00+00:00,Euro Championship,2024,England,Slovenia,10,1091,0.0,0.0,FT,draw
+1145532,2024-06-25T19:00:00+00:00,Euro Championship,2024,Denmark,Serbia,21,14,0.0,0.0,FT,draw
+1189853,2024-06-26T16:00:00+00:00,Euro Championship,2024,Ukraine,Belgium,772,1,0.0,0.0,FT,draw
+1145534,2024-06-26T16:00:00+00:00,Euro Championship,2024,Slovakia,Romania,773,774,1.0,1.0,FT,draw
+1145535,2024-06-26T19:00:00+00:00,Euro Championship,2024,Czechia,Türkiye,770,777,1.0,2.0,FT,away_win
+1189854,2024-06-26T19:00:00+00:00,Euro Championship,2024,Georgia,Portugal,1104,27,2.0,0.0,FT,home_win
+1212958,2024-06-29T16:00:00+00:00,Euro Championship,2024,Switzerland,Italy,15,768,2.0,0.0,FT,home_win
+1214156,2024-06-29T19:00:00+00:00,Euro Championship,2024,Germany,Denmark,25,21,2.0,0.0,FT,home_win
+1215075,2024-06-30T19:00:00+00:00,Euro Championship,2024,Spain,Georgia,9,1104,4.0,1.0,FT,home_win
+1215073,2024-07-01T16:00:00+00:00,Euro Championship,2024,France,Belgium,2,1,1.0,0.0,FT,home_win
+1215077,2024-07-02T16:00:00+00:00,Euro Championship,2024,Romania,Netherlands,774,1118,0.0,3.0,FT,away_win
+1215078,2024-07-02T19:00:00+00:00,Euro Championship,2024,Austria,Türkiye,775,777,1.0,2.0,FT,away_win
+1220308,2024-07-06T19:00:00+00:00,Euro Championship,2024,Netherlands,Türkiye,1118,777,2.0,1.0,FT,home_win
+1225853,2024-07-09T19:00:00+00:00,Euro Championship,2024,Spain,France,9,2,2.0,1.0,FT,home_win
+1227539,2024-07-10T19:00:00+00:00,Euro Championship,2024,Netherlands,England,1118,10,1.0,2.0,FT,away_win
+1232551,2024-07-14T19:00:00+00:00,Euro Championship,2024,Spain,England,9,10,2.0,1.0,FT,home_win
+1138697,2024-01-13T20:00:00+00:00,Africa Cup of Nations,2023,Ivory Coast,Guinea-Bissau,1501,1513,2.0,0.0,FT,home_win
+1138698,2024-01-14T14:00:00+00:00,Africa Cup of Nations,2023,Nigeria,Equatorial Guinea,19,1521,1.0,1.0,FT,draw
+1138699,2024-01-14T17:00:00+00:00,Africa Cup of Nations,2023,Egypt,Mozambique,32,1512,2.0,2.0,FT,draw
+1138700,2024-01-14T20:00:00+00:00,Africa Cup of Nations,2023,Ghana,Cape Verde Islands,1504,1533,1.0,2.0,FT,away_win
+1138701,2024-01-15T14:00:00+00:00,Africa Cup of Nations,2023,Senegal,Gambia,13,1492,3.0,0.0,FT,home_win
+1138702,2024-01-15T17:00:00+00:00,Africa Cup of Nations,2023,Cameroon,Guinea,1530,1509,1.0,1.0,FT,draw
+1138703,2024-01-15T20:00:00+00:00,Africa Cup of Nations,2023,Algeria,Angola,1532,1529,1.0,1.0,FT,draw
+1138704,2024-01-16T14:00:00+00:00,Africa Cup of Nations,2023,Burkina Faso,Mauritania,1502,1491,1.0,0.0,FT,home_win
+1138705,2024-01-16T17:00:00+00:00,Africa Cup of Nations,2023,Tunisia,Namibia,28,1493,0.0,1.0,FT,away_win
+1138706,2024-01-16T20:00:00+00:00,Africa Cup of Nations,2023,Mali,South Africa,1500,1531,2.0,0.0,FT,home_win
+1138707,2024-01-17T17:00:00+00:00,Africa Cup of Nations,2023,Morocco,Tanzania,31,1489,3.0,0.0,FT,home_win
+1138708,2024-01-17T20:00:00+00:00,Africa Cup of Nations,2023,Congo DR,Zambia,1508,1507,1.0,1.0,FT,draw
+1138709,2024-01-18T14:00:00+00:00,Africa Cup of Nations,2023,Equatorial Guinea,Guinea-Bissau,1521,1513,4.0,2.0,FT,home_win
+1138710,2024-01-18T17:00:00+00:00,Africa Cup of Nations,2023,Ivory Coast,Nigeria,1501,19,0.0,1.0,FT,away_win
+1138712,2024-01-18T20:00:00+00:00,Africa Cup of Nations,2023,Egypt,Ghana,32,1504,2.0,2.0,FT,draw
+1138714,2024-01-19T14:00:00+00:00,Africa Cup of Nations,2023,Cape Verde Islands,Mozambique,1533,1512,3.0,0.0,FT,home_win
+1138711,2024-01-19T17:00:00+00:00,Africa Cup of Nations,2023,Senegal,Cameroon,13,1530,3.0,1.0,FT,home_win
+1138713,2024-01-19T20:00:00+00:00,Africa Cup of Nations,2023,Guinea,Gambia,1509,1492,1.0,0.0,FT,home_win
+1138715,2024-01-20T14:00:00+00:00,Africa Cup of Nations,2023,Algeria,Burkina Faso,1532,1502,2.0,2.0,FT,draw
+1138716,2024-01-20T17:00:00+00:00,Africa Cup of Nations,2023,Mauritania,Angola,1491,1529,2.0,3.0,FT,away_win
+1138717,2024-01-20T20:00:00+00:00,Africa Cup of Nations,2023,Tunisia,Mali,28,1500,1.0,1.0,FT,draw
+1138718,2024-01-21T14:00:00+00:00,Africa Cup of Nations,2023,Morocco,Congo DR,31,1508,1.0,1.0,FT,draw
+1138719,2024-01-21T17:00:00+00:00,Africa Cup of Nations,2023,Zambia,Tanzania,1507,1489,1.0,1.0,FT,draw
+1138720,2024-01-21T20:00:00+00:00,Africa Cup of Nations,2023,South Africa,Namibia,1531,1493,4.0,0.0,FT,home_win
+1138722,2024-01-22T17:00:00+00:00,Africa Cup of Nations,2023,Guinea-Bissau,Nigeria,1513,19,0.0,1.0,FT,away_win
+1138721,2024-01-22T17:00:00+00:00,Africa Cup of Nations,2023,Equatorial Guinea,Ivory Coast,1521,1501,4.0,0.0,FT,home_win
+1138723,2024-01-22T20:00:00+00:00,Africa Cup of Nations,2023,Mozambique,Ghana,1512,1504,2.0,2.0,FT,draw
+1138724,2024-01-22T20:00:00+00:00,Africa Cup of Nations,2023,Cape Verde Islands,Egypt,1533,32,2.0,2.0,FT,draw
+1138726,2024-01-23T17:00:00+00:00,Africa Cup of Nations,2023,Gambia,Cameroon,1492,1530,2.0,3.0,FT,away_win
+1138725,2024-01-23T17:00:00+00:00,Africa Cup of Nations,2023,Guinea,Senegal,1509,13,0.0,2.0,FT,away_win
+1138728,2024-01-23T20:00:00+00:00,Africa Cup of Nations,2023,Mauritania,Algeria,1491,1532,1.0,0.0,FT,home_win
+1138727,2024-01-23T20:00:00+00:00,Africa Cup of Nations,2023,Angola,Burkina Faso,1529,1502,2.0,0.0,FT,home_win
+1138730,2024-01-24T17:00:00+00:00,Africa Cup of Nations,2023,Namibia,Mali,1493,1500,0.0,0.0,FT,draw
+1138729,2024-01-24T17:00:00+00:00,Africa Cup of Nations,2023,South Africa,Tunisia,1531,28,0.0,0.0,FT,draw
+1138731,2024-01-24T20:00:00+00:00,Africa Cup of Nations,2023,Tanzania,Congo DR,1489,1508,0.0,0.0,FT,draw
+1138732,2024-01-24T20:00:00+00:00,Africa Cup of Nations,2023,Zambia,Morocco,1507,31,0.0,1.0,FT,away_win
+1166106,2024-01-27T17:00:00+00:00,Africa Cup of Nations,2023,Angola,Namibia,1529,1493,3.0,0.0,FT,home_win
+1166107,2024-01-27T20:00:00+00:00,Africa Cup of Nations,2023,Nigeria,Cameroon,19,1530,2.0,0.0,FT,home_win
+1166108,2024-01-28T17:00:00+00:00,Africa Cup of Nations,2023,Equatorial Guinea,Guinea,1521,1509,0.0,1.0,FT,away_win
+1166110,2024-01-29T17:00:00+00:00,Africa Cup of Nations,2023,Cape Verde Islands,Mauritania,1533,1491,1.0,0.0,FT,home_win
+1166112,2024-01-30T17:00:00+00:00,Africa Cup of Nations,2023,Mali,Burkina Faso,1500,1502,2.0,1.0,FT,home_win
+1166113,2024-01-30T20:00:00+00:00,Africa Cup of Nations,2023,Morocco,South Africa,31,1531,0.0,2.0,FT,away_win
+1169130,2024-02-02T17:00:00+00:00,Africa Cup of Nations,2023,Nigeria,Angola,19,1529,1.0,0.0,FT,home_win
+1169262,2024-02-02T20:00:00+00:00,Africa Cup of Nations,2023,Congo DR,Guinea,1508,1509,3.0,1.0,FT,home_win
+1171549,2024-02-07T20:00:00+00:00,Africa Cup of Nations,2023,Ivory Coast,Congo DR,1501,1508,1.0,0.0,FT,home_win
+1172283,2024-02-11T20:00:00+00:00,Africa Cup of Nations,2023,Nigeria,Ivory Coast,19,1501,1.0,2.0,FT,away_win
+1189120,2024-06-21T00:00:00+00:00,Copa America,2024,Argentina,Canada,26,5529,2.0,0.0,FT,home_win
+1146301,2024-06-22T00:00:00+00:00,Copa America,2024,Peru,Chile,30,2383,0.0,0.0,FT,draw
+1146302,2024-06-22T22:00:00+00:00,Copa America,2024,Ecuador,Venezuela,2382,2379,1.0,2.0,FT,away_win
+1146303,2024-06-23T01:00:00+00:00,Copa America,2024,Mexico,Jamaica,16,2385,1.0,0.0,FT,home_win
+1146304,2024-06-23T22:00:00+00:00,Copa America,2024,USA,Bolivia,2384,2381,2.0,0.0,FT,home_win
+1146305,2024-06-24T01:00:00+00:00,Copa America,2024,Uruguay,Panama,7,11,3.0,1.0,FT,home_win
+1146306,2024-06-24T22:00:00+00:00,Copa America,2024,Colombia,Paraguay,8,2380,2.0,1.0,FT,home_win
+1189121,2024-06-25T01:00:00+00:00,Copa America,2024,Brazil,Costa Rica,6,29,0.0,0.0,FT,draw
+1146307,2024-06-26T01:00:00+00:00,Copa America,2024,Chile,Argentina,2383,26,0.0,1.0,FT,away_win
+1189122,2024-06-26T22:00:00+00:00,Copa America,2024,Peru,Canada,30,5529,0.0,1.0,FT,away_win
+1146309,2024-06-27T01:00:00+00:00,Copa America,2024,Venezuela,Mexico,2379,16,1.0,0.0,FT,home_win
+1146308,2024-06-27T22:00:00+00:00,Copa America,2024,Ecuador,Jamaica,2382,2385,3.0,1.0,FT,home_win
+1146311,2024-06-28T01:00:00+00:00,Copa America,2024,Uruguay,Bolivia,7,2381,5.0,0.0,FT,home_win
+1146310,2024-06-28T22:00:00+00:00,Copa America,2024,Panama,USA,11,2384,2.0,1.0,FT,home_win
+1146312,2024-06-29T01:00:00+00:00,Copa America,2024,Paraguay,Brazil,2380,6,1.0,4.0,FT,away_win
+1189123,2024-06-29T22:00:00+00:00,Copa America,2024,Colombia,Costa Rica,8,29,3.0,0.0,FT,home_win
+1146313,2024-06-30T00:00:00+00:00,Copa America,2024,Argentina,Peru,26,30,2.0,0.0,FT,home_win
+1189124,2024-06-30T00:00:00+00:00,Copa America,2024,Canada,Chile,5529,2383,0.0,0.0,FT,draw
+1146315,2024-07-01T00:00:00+00:00,Copa America,2024,Mexico,Ecuador,16,2382,0.0,0.0,FT,draw
+1146314,2024-07-01T00:00:00+00:00,Copa America,2024,Jamaica,Venezuela,2385,2379,0.0,3.0,FT,away_win
+1146316,2024-07-02T01:00:00+00:00,Copa America,2024,Bolivia,Panama,2381,11,1.0,3.0,FT,away_win
+1146317,2024-07-02T01:00:00+00:00,Copa America,2024,USA,Uruguay,2384,7,0.0,1.0,FT,away_win
+1146318,2024-07-03T01:00:00+00:00,Copa America,2024,Brazil,Colombia,6,8,1.0,1.0,FT,draw
+1189125,2024-07-03T01:00:00+00:00,Copa America,2024,Costa Rica,Paraguay,29,2380,2.0,1.0,FT,home_win
+1222459,2024-07-06T22:00:00+00:00,Copa America,2024,Colombia,Panama,8,11,5.0,0.0,FT,home_win
+1227537,2024-07-10T00:00:00+00:00,Copa America,2024,Argentina,Canada,26,5529,2.0,0.0,FT,home_win
+1227538,2024-07-11T00:00:00+00:00,Copa America,2024,Uruguay,Colombia,7,8,0.0,1.0,FT,away_win
+1172987,2024-09-05T16:00:00+00:00,UEFA Nations League,2024,Azerbaijan,Sweden,1096,5,1.0,3.0,FT,away_win
+1172942,2024-09-05T18:45:00+00:00,UEFA Nations League,2024,Serbia,Spain,14,9,0.0,0.0,FT,draw
+1172941,2024-09-05T18:45:00+00:00,UEFA Nations League,2024,Denmark,Switzerland,21,15,2.0,0.0,FT,home_win
+1172939,2024-09-05T18:45:00+00:00,UEFA Nations League,2024,Portugal,Croatia,27,3,2.0,1.0,FT,home_win
+1172990,2024-09-05T18:45:00+00:00,UEFA Nations League,2024,Northern Ireland,Luxembourg,771,1102,2.0,0.0,FT,home_win
+1172989,2024-09-05T18:45:00+00:00,UEFA Nations League,2024,Belarus,Bulgaria,1100,1103,0.0,0.0,FT,draw
+1172988,2024-09-05T18:45:00+00:00,UEFA Nations League,2024,Estonia,Slovakia,1101,773,0.0,1.0,FT,away_win
+1172940,2024-09-05T18:45:00+00:00,UEFA Nations League,2024,Scotland,Poland,1108,24,2.0,3.0,FT,away_win
+1173029,2024-09-05T18:45:00+00:00,UEFA Nations League,2024,San Marino,Liechtenstein,1115,1107,1.0,0.0,FT,home_win
+1172891,2024-09-06T14:00:00+00:00,UEFA Nations League,2024,Kazakhstan,Norway,1095,1090,0.0,0.0,FT,draw
+1189855,2024-09-06T16:00:00+00:00,UEFA Nations League,2024,Lithuania,Cyprus,1097,1106,0.0,1.0,FT,away_win
+1172943,2024-09-06T18:45:00+00:00,UEFA Nations League,2024,Belgium,Israel,1,1116,3.0,1.0,FT,home_win
+1172944,2024-09-06T18:45:00+00:00,UEFA Nations League,2024,France,Italy,2,768,1.0,3.0,FT,away_win
+1172893,2024-09-06T18:45:00+00:00,UEFA Nations League,2024,Iceland,Montenegro,18,1109,2.0,0.0,FT,home_win
+1172894,2024-09-06T18:45:00+00:00,UEFA Nations League,2024,Wales,Türkiye,767,777,0.0,0.0,FT,draw
+1172892,2024-09-06T18:45:00+00:00,UEFA Nations League,2024,Slovenia,Austria,1091,775,1.0,1.0,FT,draw
+1172991,2024-09-06T18:45:00+00:00,UEFA Nations League,2024,Kosovo,Romania,1111,774,0.0,3.0,FT,away_win
+1172992,2024-09-07T13:00:00+00:00,UEFA Nations League,2024,Faroe Islands,FYR Macedonia,1098,1105,1.0,1.0,FT,draw
+1172896,2024-09-07T16:00:00+00:00,UEFA Nations League,2024,Rep. Of Ireland,England,776,10,0.0,2.0,FT,away_win
+1172993,2024-09-07T16:00:00+00:00,UEFA Nations League,2024,Armenia,Latvia,1094,1092,4.0,1.0,FT,home_win
+1172895,2024-09-07T16:00:00+00:00,UEFA Nations League,2024,Georgia,Czechia,1104,770,4.0,1.0,FT,home_win
+1173030,2024-09-07T16:00:00+00:00,UEFA Nations League,2024,Moldova,Malta,1114,1112,2.0,0.0,FT,home_win
+1172945,2024-09-07T18:45:00+00:00,UEFA Nations League,2024,Germany,Hungary,25,769,5.0,0.0,FT,home_win
+1172897,2024-09-07T18:45:00+00:00,UEFA Nations League,2024,Ukraine,Albania,772,778,1.0,2.0,FT,away_win
+1172898,2024-09-07T18:45:00+00:00,UEFA Nations League,2024,Greece,Finland,1117,1099,3.0,0.0,FT,home_win
+1172946,2024-09-07T18:45:00+00:00,UEFA Nations League,2024,Netherlands,Bosnia & Herzegovina,1118,1113,5.0,2.0,FT,home_win
+1172994,2024-09-08T13:00:00+00:00,UEFA Nations League,2024,Luxembourg,Belarus,1102,1100,0.0,1.0,FT,away_win
+1172947,2024-09-08T16:00:00+00:00,UEFA Nations League,2024,Denmark,Serbia,21,14,2.0,0.0,FT,home_win
+1172995,2024-09-08T16:00:00+00:00,UEFA Nations League,2024,Slovakia,Azerbaijan,773,1096,2.0,0.0,FT,home_win
+1189861,2024-09-08T16:00:00+00:00,UEFA Nations League,2024,Gibraltar,Liechtenstein,1093,1107,2.0,2.0,FT,draw
+1172996,2024-09-08T16:00:00+00:00,UEFA Nations League,2024,Bulgaria,Northern Ireland,1103,771,1.0,0.0,FT,home_win
+1172948,2024-09-08T18:45:00+00:00,UEFA Nations League,2024,Croatia,Poland,3,24,1.0,0.0,FT,home_win
+1172997,2024-09-08T18:45:00+00:00,UEFA Nations League,2024,Sweden,Estonia,5,1101,3.0,0.0,FT,home_win
+1172950,2024-09-08T18:45:00+00:00,UEFA Nations League,2024,Switzerland,Spain,15,9,1.0,4.0,FT,away_win
+1172949,2024-09-08T18:45:00+00:00,UEFA Nations League,2024,Portugal,Scotland,27,1108,2.0,1.0,FT,home_win
+1172998,2024-09-09T16:00:00+00:00,UEFA Nations League,2024,Cyprus,Kosovo,1106,1111,0.0,4.0,FT,away_win
+1172951,2024-09-09T18:45:00+00:00,UEFA Nations League,2024,France,Belgium,2,1,2.0,0.0,FT,home_win
+1189856,2024-09-09T18:45:00+00:00,UEFA Nations League,2024,Romania,Lithuania,774,1097,3.0,1.0,FT,home_win
+1172902,2024-09-09T18:45:00+00:00,UEFA Nations League,2024,Türkiye,Iceland,777,18,3.0,1.0,FT,home_win
+1172899,2024-09-09T18:45:00+00:00,UEFA Nations League,2024,Norway,Austria,1090,775,2.0,1.0,FT,home_win
+1172900,2024-09-09T18:45:00+00:00,UEFA Nations League,2024,Slovenia,Kazakhstan,1091,1095,3.0,0.0,FT,home_win
+1172901,2024-09-09T18:45:00+00:00,UEFA Nations League,2024,Montenegro,Wales,1109,767,1.0,2.0,FT,away_win
+1172952,2024-09-09T18:45:00+00:00,UEFA Nations League,2024,Israel,Italy,1116,768,1.0,2.0,FT,away_win
+1172999,2024-09-10T16:00:00+00:00,UEFA Nations League,2024,Latvia,Faroe Islands,1092,1098,1.0,0.0,FT,home_win
+1172905,2024-09-10T18:45:00+00:00,UEFA Nations League,2024,England,Finland,10,1099,2.0,0.0,FT,home_win
+1172953,2024-09-10T18:45:00+00:00,UEFA Nations League,2024,Hungary,Bosnia & Herzegovina,769,1113,0.0,0.0,FT,draw
+1172904,2024-09-10T18:45:00+00:00,UEFA Nations League,2024,Czechia,Ukraine,770,772,3.0,2.0,FT,home_win
+1172906,2024-09-10T18:45:00+00:00,UEFA Nations League,2024,Rep. Of Ireland,Greece,776,1117,0.0,2.0,FT,away_win
+1172903,2024-09-10T18:45:00+00:00,UEFA Nations League,2024,Albania,Georgia,778,1104,0.0,1.0,FT,away_win
+1173000,2024-09-10T18:45:00+00:00,UEFA Nations League,2024,FYR Macedonia,Armenia,1105,1094,2.0,0.0,FT,home_win
+1173031,2024-09-10T18:45:00+00:00,UEFA Nations League,2024,Andorra,Malta,1110,1112,0.0,1.0,FT,away_win
+1172954,2024-09-10T18:45:00+00:00,UEFA Nations League,2024,Netherlands,Germany,1118,25,2.0,2.0,FT,draw
+1173002,2024-10-10T16:00:00+00:00,UEFA Nations League,2024,Latvia,FYR Macedonia,1092,1105,0.0,3.0,FT,away_win
+1173032,2024-10-10T16:00:00+00:00,UEFA Nations League,2024,Moldova,Andorra,1114,1110,2.0,0.0,FT,home_win
+1172907,2024-10-10T18:45:00+00:00,UEFA Nations League,2024,England,Greece,10,1117,1.0,2.0,FT,away_win
+1172956,2024-10-10T18:45:00+00:00,UEFA Nations League,2024,Italy,Belgium,768,1,2.0,2.0,FT,draw
+1172909,2024-10-10T18:45:00+00:00,UEFA Nations League,2024,Austria,Kazakhstan,775,1095,4.0,0.0,FT,home_win
+1172910,2024-10-10T18:45:00+00:00,UEFA Nations League,2024,Norway,Slovenia,1090,1091,3.0,0.0,FT,home_win
+1189862,2024-10-10T18:45:00+00:00,UEFA Nations League,2024,Gibraltar,San Marino,1093,1115,1.0,0.0,FT,home_win
+1173001,2024-10-10T18:45:00+00:00,UEFA Nations League,2024,Faroe Islands,Armenia,1098,1094,2.0,2.0,FT,draw
+1172908,2024-10-10T18:45:00+00:00,UEFA Nations League,2024,Finland,Rep. Of Ireland,1099,776,1.0,2.0,FT,away_win
+1172955,2024-10-10T18:45:00+00:00,UEFA Nations League,2024,Israel,France,1116,2,1.0,4.0,FT,away_win
+1173003,2024-10-11T16:00:00+00:00,UEFA Nations League,2024,Estonia,Azerbaijan,1101,1096,3.0,1.0,FT,home_win
+1172913,2024-10-11T18:45:00+00:00,UEFA Nations League,2024,Iceland,Wales,18,767,2.0,2.0,FT,draw
+1172958,2024-10-11T18:45:00+00:00,UEFA Nations League,2024,Hungary,Netherlands,769,1118,1.0,1.0,FT,draw
+1172911,2024-10-11T18:45:00+00:00,UEFA Nations League,2024,Czechia,Albania,770,778,2.0,0.0,FT,home_win
+1172912,2024-10-11T18:45:00+00:00,UEFA Nations League,2024,Ukraine,Georgia,772,1104,1.0,0.0,FT,home_win
+1173004,2024-10-11T18:45:00+00:00,UEFA Nations League,2024,Slovakia,Sweden,773,5,2.0,2.0,FT,draw
+1172914,2024-10-11T18:45:00+00:00,UEFA Nations League,2024,Türkiye,Montenegro,777,1109,1.0,0.0,FT,home_win
+1172957,2024-10-11T18:45:00+00:00,UEFA Nations League,2024,Bosnia & Herzegovina,Germany,1113,25,1.0,2.0,FT,away_win
+1189857,2024-10-12T13:00:00+00:00,UEFA Nations League,2024,Lithuania,Kosovo,1097,1111,1.0,2.0,FT,away_win
+1172959,2024-10-12T16:00:00+00:00,UEFA Nations League,2024,Croatia,Scotland,3,1108,2.0,1.0,FT,home_win
+1173005,2024-10-12T16:00:00+00:00,UEFA Nations League,2024,Bulgaria,Luxembourg,1103,1102,0.0,0.0,FT,draw
+1172962,2024-10-12T18:45:00+00:00,UEFA Nations League,2024,Spain,Denmark,9,21,1.0,0.0,FT,home_win
+1172961,2024-10-12T18:45:00+00:00,UEFA Nations League,2024,Serbia,Switzerland,14,15,2.0,0.0,FT,home_win
+1172960,2024-10-12T18:45:00+00:00,UEFA Nations League,2024,Poland,Portugal,24,27,1.0,3.0,FT,away_win
+1173007,2024-10-12T18:45:00+00:00,UEFA Nations League,2024,Belarus,Northern Ireland,1100,771,0.0,0.0,FT,draw
+1173006,2024-10-12T18:45:00+00:00,UEFA Nations League,2024,Cyprus,Romania,1106,774,0.0,3.0,FT,away_win
+1172915,2024-10-13T13:00:00+00:00,UEFA Nations League,2024,Kazakhstan,Slovenia,1095,1091,0.0,1.0,FT,away_win
+1173008,2024-10-13T16:00:00+00:00,UEFA Nations League,2024,Armenia,FYR Macedonia,1094,1105,0.0,2.0,FT,away_win
+1172916,2024-10-13T16:00:00+00:00,UEFA Nations League,2024,Finland,England,1099,10,1.0,3.0,FT,away_win
+1189863,2024-10-13T16:00:00+00:00,UEFA Nations League,2024,Liechtenstein,Gibraltar,1107,1093,0.0,0.0,FT,draw
+1173033,2024-10-13T16:00:00+00:00,UEFA Nations League,2024,Malta,Moldova,1112,1114,1.0,0.0,FT,home_win
+1172918,2024-10-13T18:45:00+00:00,UEFA Nations League,2024,Austria,Norway,775,1090,5.0,1.0,FT,home_win
+1173009,2024-10-13T18:45:00+00:00,UEFA Nations League,2024,Faroe Islands,Latvia,1098,1092,1.0,1.0,FT,draw
+1172917,2024-10-13T18:45:00+00:00,UEFA Nations League,2024,Greece,Rep. Of Ireland,1117,776,2.0,0.0,FT,home_win
+1173010,2024-10-14T16:00:00+00:00,UEFA Nations League,2024,Azerbaijan,Slovakia,1096,773,1.0,3.0,FT,away_win
+1172919,2024-10-14T16:00:00+00:00,UEFA Nations League,2024,Georgia,Albania,1104,778,0.0,1.0,FT,away_win
+1172963,2024-10-14T18:45:00+00:00,UEFA Nations League,2024,Belgium,France,1,2,1.0,2.0,FT,away_win
+1172921,2024-10-14T18:45:00+00:00,UEFA Nations League,2024,Iceland,Türkiye,18,777,2.0,4.0,FT,away_win
+1172966,2024-10-14T18:45:00+00:00,UEFA Nations League,2024,Germany,Netherlands,25,1118,1.0,0.0,FT,home_win
+1172922,2024-10-14T18:45:00+00:00,UEFA Nations League,2024,Wales,Montenegro,767,1109,1.0,0.0,FT,home_win
+1172964,2024-10-14T18:45:00+00:00,UEFA Nations League,2024,Italy,Israel,768,1116,4.0,1.0,FT,home_win
+1172920,2024-10-14T18:45:00+00:00,UEFA Nations League,2024,Ukraine,Czechia,772,770,1.0,1.0,FT,draw
+1173011,2024-10-14T18:45:00+00:00,UEFA Nations League,2024,Estonia,Sweden,1101,5,0.0,3.0,FT,away_win
+1172965,2024-10-14T18:45:00+00:00,UEFA Nations League,2024,Bosnia & Herzegovina,Hungary,1113,769,0.0,2.0,FT,away_win
+1172969,2024-10-15T18:45:00+00:00,UEFA Nations League,2024,Spain,Serbia,9,14,3.0,0.0,FT,home_win
+1172970,2024-10-15T18:45:00+00:00,UEFA Nations League,2024,Switzerland,Denmark,15,21,2.0,2.0,FT,draw
+1172967,2024-10-15T18:45:00+00:00,UEFA Nations League,2024,Poland,Croatia,24,3,3.0,3.0,FT,draw
+1173014,2024-10-15T18:45:00+00:00,UEFA Nations League,2024,Northern Ireland,Bulgaria,771,1103,5.0,0.0,FT,home_win
+1189858,2024-10-15T18:45:00+00:00,UEFA Nations League,2024,Lithuania,Romania,1097,774,1.0,2.0,FT,away_win
+1173013,2024-10-15T18:45:00+00:00,UEFA Nations League,2024,Belarus,Luxembourg,1100,1102,1.0,1.0,FT,draw
+1172968,2024-10-15T18:45:00+00:00,UEFA Nations League,2024,Scotland,Portugal,1108,27,0.0,0.0,FT,draw
+1173012,2024-10-15T18:45:00+00:00,UEFA Nations League,2024,Kosovo,Cyprus,1111,1106,3.0,0.0,FT,home_win
+1172923,2024-11-14T15:00:00+00:00,UEFA Nations League,2024,Kazakhstan,Austria,1095,775,0.0,2.0,FT,away_win
+1173015,2024-11-14T17:00:00+00:00,UEFA Nations League,2024,Armenia,Faroe Islands,1094,1098,0.0,1.0,FT,away_win
+1172971,2024-11-14T19:45:00+00:00,UEFA Nations League,2024,Belgium,Italy,1,768,0.0,1.0,FT,away_win
+1172972,2024-11-14T19:45:00+00:00,UEFA Nations League,2024,France,Israel,2,1116,0.0,0.0,FT,draw
+1172925,2024-11-14T19:45:00+00:00,UEFA Nations League,2024,Rep. Of Ireland,Finland,776,1099,1.0,0.0,FT,home_win
+1172926,2024-11-14T19:45:00+00:00,UEFA Nations League,2024,Slovenia,Norway,1091,1090,1.0,4.0,FT,away_win
+1173016,2024-11-14T19:45:00+00:00,UEFA Nations League,2024,FYR Macedonia,Latvia,1105,1092,1.0,0.0,FT,home_win
+1172924,2024-11-14T19:45:00+00:00,UEFA Nations League,2024,Greece,England,1117,10,0.0,3.0,FT,away_win
+1189859,2024-11-15T17:00:00+00:00,UEFA Nations League,2024,Cyprus,Lithuania,1106,1097,2.0,1.0,FT,home_win
+1172976,2024-11-15T19:45:00+00:00,UEFA Nations League,2024,Switzerland,Serbia,15,14,1.0,1.0,FT,draw
+1172975,2024-11-15T19:45:00+00:00,UEFA Nations League,2024,Denmark,Spain,21,9,1.0,2.0,FT,away_win
+1172973,2024-11-15T19:45:00+00:00,UEFA Nations League,2024,Portugal,Poland,27,24,5.0,1.0,FT,home_win
+1173019,2024-11-15T19:45:00+00:00,UEFA Nations League,2024,Northern Ireland,Belarus,771,1100,2.0,0.0,FT,home_win
+1173017,2024-11-15T19:45:00+00:00,UEFA Nations League,2024,Romania,Kosovo,774,1111,3.0,0.0,FT,home_win
+1173018,2024-11-15T19:45:00+00:00,UEFA Nations League,2024,Luxembourg,Bulgaria,1102,1103,0.0,1.0,FT,away_win
+1172974,2024-11-15T19:45:00+00:00,UEFA Nations League,2024,Scotland,Croatia,1108,3,1.0,0.0,FT,home_win
+1189864,2024-11-15T19:45:00+00:00,UEFA Nations League,2024,San Marino,Gibraltar,1115,1093,1.0,1.0,FT,draw
+1173020,2024-11-16T14:00:00+00:00,UEFA Nations League,2024,Azerbaijan,Estonia,1096,1101,0.0,0.0,FT,draw
+1172929,2024-11-16T17:00:00+00:00,UEFA Nations League,2024,Türkiye,Wales,777,767,0.0,0.0,FT,draw
+1172927,2024-11-16T17:00:00+00:00,UEFA Nations League,2024,Georgia,Ukraine,1104,772,1.0,1.0,FT,draw
+1172928,2024-11-16T17:00:00+00:00,UEFA Nations League,2024,Montenegro,Iceland,1109,18,0.0,2.0,FT,away_win
+1173034,2024-11-16T17:00:00+00:00,UEFA Nations League,2024,Andorra,Moldova,1110,1114,0.0,1.0,FT,away_win
+1173021,2024-11-16T19:45:00+00:00,UEFA Nations League,2024,Sweden,Slovakia,5,773,2.0,1.0,FT,home_win
+1172977,2024-11-16T19:45:00+00:00,UEFA Nations League,2024,Germany,Bosnia & Herzegovina,25,1113,7.0,0.0,FT,home_win
+1172930,2024-11-16T19:45:00+00:00,UEFA Nations League,2024,Albania,Czechia,778,770,0.0,0.0,FT,draw
+1172978,2024-11-16T19:45:00+00:00,UEFA Nations League,2024,Netherlands,Hungary,1118,769,4.0,0.0,FT,home_win
+1173022,2024-11-17T14:00:00+00:00,UEFA Nations League,2024,Latvia,Armenia,1092,1094,1.0,2.0,FT,away_win
+1173023,2024-11-17T14:00:00+00:00,UEFA Nations League,2024,FYR Macedonia,Faroe Islands,1105,1098,1.0,0.0,FT,home_win
+1172931,2024-11-17T17:00:00+00:00,UEFA Nations League,2024,England,Rep. Of Ireland,10,776,5.0,0.0,FT,home_win
+1172933,2024-11-17T17:00:00+00:00,UEFA Nations League,2024,Austria,Slovenia,775,1091,1.0,1.0,FT,draw
+1172934,2024-11-17T17:00:00+00:00,UEFA Nations League,2024,Norway,Kazakhstan,1090,1095,5.0,0.0,FT,home_win
+1172932,2024-11-17T17:00:00+00:00,UEFA Nations League,2024,Finland,Greece,1099,1117,0.0,2.0,FT,away_win
+1172980,2024-11-17T19:45:00+00:00,UEFA Nations League,2024,Italy,France,768,2,1.0,3.0,FT,away_win
+1172979,2024-11-17T19:45:00+00:00,UEFA Nations League,2024,Israel,Belgium,1116,1,1.0,0.0,FT,home_win
+1172981,2024-11-18T19:45:00+00:00,UEFA Nations League,2024,Croatia,Portugal,3,27,1.0,1.0,FT,draw
+1172984,2024-11-18T19:45:00+00:00,UEFA Nations League,2024,Spain,Switzerland,9,15,3.0,2.0,FT,home_win
+1172983,2024-11-18T19:45:00+00:00,UEFA Nations League,2024,Serbia,Denmark,14,21,0.0,0.0,FT,draw
+1172982,2024-11-18T19:45:00+00:00,UEFA Nations League,2024,Poland,Scotland,24,1108,1.0,2.0,FT,away_win
+1173024,2024-11-18T19:45:00+00:00,UEFA Nations League,2024,Romania,Cyprus,774,1106,4.0,1.0,FT,home_win
+1173026,2024-11-18T19:45:00+00:00,UEFA Nations League,2024,Luxembourg,Northern Ireland,1102,771,2.0,2.0,FT,draw
+1173025,2024-11-18T19:45:00+00:00,UEFA Nations League,2024,Bulgaria,Belarus,1103,1100,1.0,1.0,FT,draw
+1173035,2024-11-18T19:45:00+00:00,UEFA Nations League,2024,Liechtenstein,San Marino,1107,1115,1.0,3.0,FT,away_win
+1189860,2024-11-18T19:45:00+00:00,UEFA Nations League,2024,Kosovo,Lithuania,1111,1097,1.0,0.0,FT,home_win
+1173028,2024-11-19T19:45:00+00:00,UEFA Nations League,2024,Sweden,Azerbaijan,5,1096,6.0,0.0,FT,home_win
+1172938,2024-11-19T19:45:00+00:00,UEFA Nations League,2024,Wales,Iceland,767,18,4.0,1.0,FT,home_win
+1172986,2024-11-19T19:45:00+00:00,UEFA Nations League,2024,Hungary,Germany,769,25,1.0,1.0,FT,draw
+1172936,2024-11-19T19:45:00+00:00,UEFA Nations League,2024,Czechia,Georgia,770,1104,2.0,1.0,FT,home_win
+1173027,2024-11-19T19:45:00+00:00,UEFA Nations League,2024,Slovakia,Estonia,773,1101,1.0,0.0,FT,home_win
+1172935,2024-11-19T19:45:00+00:00,UEFA Nations League,2024,Albania,Ukraine,778,772,1.0,2.0,FT,away_win
+1172937,2024-11-19T19:45:00+00:00,UEFA Nations League,2024,Montenegro,Türkiye,1109,777,3.0,1.0,FT,home_win
+1173036,2024-11-19T19:45:00+00:00,UEFA Nations League,2024,Malta,Andorra,1112,1110,0.0,0.0,FT,draw
+1172985,2024-11-19T19:45:00+00:00,UEFA Nations League,2024,Bosnia & Herzegovina,Netherlands,1113,1118,1.0,1.0,FT,draw
+1316553,2025-03-20T17:00:00+00:00,UEFA Nations League,2024,Türkiye,Hungary,777,769,3.0,1.0,FT,home_win
+1316565,2025-03-20T17:00:00+00:00,UEFA Nations League,2024,Armenia,Georgia,1094,1104,0.0,3.0,FT,away_win
+1316547,2025-03-20T19:45:00+00:00,UEFA Nations League,2024,Croatia,France,3,2,2.0,0.0,FT,home_win
+1316549,2025-03-20T19:45:00+00:00,UEFA Nations League,2024,Denmark,Portugal,21,27,1.0,0.0,FT,home_win
+1316551,2025-03-20T19:45:00+00:00,UEFA Nations League,2024,Italy,Germany,768,25,1.0,2.0,FT,away_win
+1316555,2025-03-20T19:45:00+00:00,UEFA Nations League,2024,Ukraine,Belgium,772,1,3.0,1.0,FT,home_win
+1316567,2025-03-20T19:45:00+00:00,UEFA Nations League,2024,Slovakia,Slovenia,773,1091,0.0,0.0,FT,draw
+1316557,2025-03-20T19:45:00+00:00,UEFA Nations League,2024,Austria,Serbia,775,14,1.0,1.0,FT,draw
+1316563,2025-03-20T19:45:00+00:00,UEFA Nations League,2024,Bulgaria,Rep. Of Ireland,1103,776,1.0,2.0,FT,away_win
+1316561,2025-03-20T19:45:00+00:00,UEFA Nations League,2024,Kosovo,Iceland,1111,18,2.0,1.0,FT,home_win
+1316559,2025-03-20T19:45:00+00:00,UEFA Nations League,2024,Greece,Scotland,1117,1108,0.0,1.0,FT,away_win
+1316545,2025-03-20T19:45:00+00:00,UEFA Nations League,2024,Netherlands,Spain,1118,9,2.0,2.0,FT,draw
+1316566,2025-03-23T14:00:00+00:00,UEFA Nations League,2024,Georgia,Armenia,1104,1094,6.0,1.0,FT,home_win
+1316558,2025-03-23T17:00:00+00:00,UEFA Nations League,2024,Serbia,Austria,14,775,2.0,0.0,FT,home_win
+1316562,2025-03-23T17:00:00+00:00,UEFA Nations League,2024,Iceland,Kosovo,18,1111,1.0,3.0,FT,away_win
+1316554,2025-03-23T17:00:00+00:00,UEFA Nations League,2024,Hungary,Türkiye,769,777,0.0,3.0,FT,away_win
+1316560,2025-03-23T17:00:00+00:00,UEFA Nations League,2024,Scotland,Greece,1108,1117,0.0,3.0,FT,away_win
+1316556,2025-03-23T19:45:00+00:00,UEFA Nations League,2024,Belgium,Ukraine,1,772,3.0,0.0,FT,home_win
+1316552,2025-03-23T19:45:00+00:00,UEFA Nations League,2024,Germany,Italy,25,768,3.0,3.0,FT,draw
+1316564,2025-03-23T19:45:00+00:00,UEFA Nations League,2024,Rep. Of Ireland,Bulgaria,776,1103,2.0,1.0,FT,home_win
+1366136,2025-06-04T19:10:00+00:00,UEFA Nations League,2024,Germany,Portugal,25,27,1.0,2.0,FT,away_win
+1366137,2025-06-05T19:00:00+00:00,UEFA Nations League,2024,Spain,France,9,2,5.0,4.0,FT,home_win
+1377653,2025-06-08T13:00:00+00:00,UEFA Nations League,2024,Germany,France,25,2,0.0,2.0,FT,away_win
+1316569,2026-03-26T17:00:00+00:00,UEFA Nations League,2024,Gibraltar,Latvia,1093,1092,0.0,1.0,FT,away_win
+1316571,2026-03-26T17:00:00+00:00,UEFA Nations League,2024,Malta,Luxembourg,1112,1102,0.0,2.0,FT,away_win
+1316570,2026-03-31T16:00:00+00:00,UEFA Nations League,2024,Latvia,Gibraltar,1092,1093,1.0,0.0,FT,home_win
+1316572,2026-03-31T16:00:00+00:00,UEFA Nations League,2024,Luxembourg,Malta,1102,1112,3.0,0.0,FT,home_win
+984808,2023-01-03T00:00:00+00:00,Friendlies,2023,Uganda,Sudan,1519,1510,2.0,2.0,FT,draw
+984797,2023-01-08T17:00:00+00:00,Friendlies,2023,Iceland,Estonia,18,1101,1.0,1.0,FT,draw
+984798,2023-01-09T18:45:00+00:00,Friendlies,2023,Sweden,Finland,5,1099,2.0,0.0,FT,home_win
+984799,2023-01-12T16:00:00+00:00,Friendlies,2023,Finland,Estonia,1099,1101,0.0,1.0,FT,away_win
+984800,2023-01-12T18:00:00+00:00,Friendlies,2023,Sweden,Iceland,5,18,2.0,1.0,FT,home_win
+984801,2023-01-26T03:00:00+00:00,Friendlies,2023,USA,Serbia,2384,14,1.0,2.0,FT,away_win
+995739,2023-01-28T22:00:00+00:00,Friendlies,2023,Trinidad and Tobago,Saint Martin,5168,10984,2.0,0.0,FT,home_win
+984803,2023-01-29T00:30:00+00:00,Friendlies,2023,USA,Colombia,2384,8,0.0,0.0,FT,draw
+1012354,2023-02-22T23:00:00+00:00,Friendlies,2023,Grenada,Barbados,5533,5527,1.0,1.0,FT,draw
+1012355,2023-02-24T23:00:00+00:00,Friendlies,2023,Grenada,Barbados,5533,5527,2.0,2.0,FT,draw
+1012366,2023-02-25T13:00:00+00:00,Friendlies,2023,Malawi,Lesotho,1495,1518,1.0,1.0,FT,draw
+1012356,2023-02-26T23:00:00+00:00,Friendlies,2023,Grenada,Barbados,5533,5527,2.0,2.0,FT,draw
+1012358,2023-03-11T23:00:00+00:00,Friendlies,2023,Jamaica,Trinidad and Tobago,2385,5168,0.0,1.0,FT,away_win
+1012321,2023-03-13T00:00:00+00:00,Friendlies,2023,Guatemala,Panama,5161,11,1.0,1.0,FT,draw
+1012359,2023-03-15T00:00:00+00:00,Friendlies,2023,Jamaica,Trinidad and Tobago,2385,5168,0.0,0.0,FT,draw
+1014778,2023-03-15T13:30:00+00:00,Friendlies,2023,Bangladesh,Malawi,1560,1495,1.0,1.0,FT,draw
+1014506,2023-03-19T12:00:00+00:00,Friendlies,2023,Ethiopia,Rwanda,1506,1514,1.0,0.0,FT,home_win
+1014507,2023-03-20T05:00:00+00:00,Friendlies,2023,Fiji,Vanuatu,5160,5170,1.0,2.0,FT,away_win
+1013398,2023-03-21T06:00:00+00:00,Friendlies,2023,Tahiti,New Caledonia,5167,5163,0.0,2.0,FT,away_win
+1016624,2023-03-21T11:00:00+00:00,Friendlies,2023,Maldives,Pakistan,1549,5535,1.0,0.0,FT,home_win
+1012368,2023-03-22T12:15:00+00:00,Friendlies,2023,Bhutan,Laos,1540,1558,2.0,0.0,FT,home_win
+1012360,2023-03-22T12:30:00+00:00,Friendlies,2023,India,Myanmar,1537,1556,1.0,0.0,FT,home_win
+984804,2023-03-22T19:45:00+00:00,Friendlies,2023,Rep. Of Ireland,Latvia,776,1092,3.0,2.0,FT,home_win
+1012324,2023-03-23T03:00:00+00:00,Friendlies,2023,El Salvador,Honduras,5159,4672,0.0,1.0,FT,away_win
+1012325,2023-03-23T06:00:00+00:00,Friendlies,2023,New Zealand,China,4673,1566,0.0,0.0,FT,draw
+1014508,2023-03-23T07:00:00+00:00,Friendlies,2023,Solomon Islands,Vanuatu,5165,5170,2.0,0.0,FT,home_win
+1012370,2023-03-23T12:00:00+00:00,Friendlies,2023,Hong Kong,Singapore,4460,1546,1.0,1.0,FT,draw
+1012369,2023-03-23T14:00:00+00:00,Friendlies,2023,Malaysia,Turkmenistan,1538,1539,1.0,0.0,FT,home_win
+1014777,2023-03-23T17:00:00+00:00,Friendlies,2023,Iran,Russia,22,4,1.0,1.0,FT,draw
+984805,2023-03-23T18:30:00+00:00,Friendlies,2023,Hungary,Estonia,769,1101,1.0,0.0,FT,home_win
+1012323,2023-03-23T23:30:00+00:00,Friendlies,2023,Argentina,Panama,26,11,2.0,0.0,FT,home_win
+1013399,2023-03-24T06:00:00+00:00,Friendlies,2023,Tahiti,New Caledonia,5167,5163,2.0,1.0,FT,home_win
+1012326,2023-03-24T09:00:00+00:00,Friendlies,2023,Australia,Ecuador,20,2382,3.0,1.0,FT,home_win
+1012327,2023-03-24T10:30:00+00:00,Friendlies,2023,Japan,Uruguay,12,7,1.0,1.0,FT,draw
+1012328,2023-03-24T11:00:00+00:00,Friendlies,2023,South Korea,Colombia,17,8,2.0,2.0,FT,draw
+1012329,2023-03-24T18:00:00+00:00,Friendlies,2023,Uzbekistan,Bolivia,1568,2381,1.0,0.0,FT,home_win
+1012330,2023-03-24T19:00:00+00:00,Friendlies,2023,Saudi Arabia,Venezuela,23,2379,1.0,2.0,FT,away_win
+1012371,2023-03-24T19:00:00+00:00,Friendlies,2023,Kuwait,Philippines,1570,1555,2.0,0.0,FT,home_win
+1017024,2023-03-25T09:45:00+00:00,Friendlies,2023,Bangladesh,Seychelles,1560,1515,1.0,0.0,FT,home_win
+1012373,2023-03-25T12:15:00+00:00,Friendlies,2023,Nepal,Laos,1545,1558,2.0,1.0,FT,home_win
+1012367,2023-03-25T12:30:00+00:00,Friendlies,2023,Myanmar,Kyrgyzstan,1556,1554,1.0,1.0,FT,draw
+1014504,2023-03-25T13:30:00+00:00,Friendlies,2023,Indonesia,Burundi,1571,1528,3.0,1.0,FT,home_win
+1012362,2023-03-25T14:00:00+00:00,Friendlies,2023,Georgia,Mongolia,1104,5534,6.0,1.0,FT,home_win
+1012361,2023-03-25T18:00:00+00:00,Friendlies,2023,United Arab Emirates,Tajikistan,1563,1536,0.0,0.0,FT,draw
+1012332,2023-03-25T18:00:00+00:00,Friendlies,2023,Syria,Thailand,1565,1564,3.0,1.0,FT,home_win
+1012372,2023-03-25T18:30:00+00:00,Friendlies,2023,Bahrain,Palestine,1547,1562,1.0,2.0,FT,away_win
+1012333,2023-03-25T19:45:00+00:00,Friendlies,2023,Germany,Peru,25,30,2.0,0.0,FT,home_win
+1012334,2023-03-25T22:00:00+00:00,Friendlies,2023,Morocco,Brazil,31,6,2.0,1.0,FT,home_win
+1012335,2023-03-26T03:00:00+00:00,Friendlies,2023,New Zealand,China,4673,1566,2.0,1.0,FT,home_win
+1014509,2023-03-26T05:00:00+00:00,Friendlies,2023,Fiji,Solomon Islands,5160,5165,0.0,2.0,FT,away_win
+1016625,2023-03-26T11:30:00+00:00,Friendlies,2023,Mação,Singapore,4767,1546,0.0,1.0,FT,away_win
+1013397,2023-03-26T15:00:00+00:00,Friendlies,2023,Russia,Iraq,4,1567,2.0,0.0,FT,home_win
+991103,2023-03-27T16:00:00+00:00,Friendlies,2023,FYR Macedonia,Faroe Islands,1105,1098,1.0,0.0,FT,home_win
+988668,2023-03-27T16:00:00+00:00,Friendlies,2023,Greece,Lithuania,1117,1097,0.0,0.0,FT,draw
+1012374,2023-03-27T18:00:00+00:00,Friendlies,2023,Lebanon,Oman,1551,1552,0.0,2.0,FT,away_win
+1012340,2023-03-28T00:30:00+00:00,Friendlies,2023,Chile,Paraguay,2383,2380,3.0,2.0,FT,home_win
+1012341,2023-03-28T08:30:00+00:00,Friendlies,2023,Australia,Ecuador,20,2382,1.0,2.0,FT,away_win
+1017025,2023-03-28T09:45:00+00:00,Friendlies,2023,Bangladesh,Seychelles,1560,1515,0.0,1.0,FT,away_win
+1012342,2023-03-28T10:20:00+00:00,Friendlies,2023,Japan,Colombia,12,8,1.0,2.0,FT,away_win
+1012337,2023-03-28T11:00:00+00:00,Friendlies,2023,South Korea,Uruguay,17,7,1.0,2.0,FT,away_win
+1012378,2023-03-28T12:15:00+00:00,Friendlies,2023,Nepal,Bhutan,1545,1540,1.0,1.0,FT,draw
+1012363,2023-03-28T12:30:00+00:00,Friendlies,2023,India,Kyrgyzstan,1537,1554,2.0,0.0,FT,home_win
+1014505,2023-03-28T13:30:00+00:00,Friendlies,2023,Indonesia,Burundi,1571,1528,2.0,2.0,FT,draw
+1012377,2023-03-28T14:00:00+00:00,Friendlies,2023,Malaysia,Hong Kong,1538,4460,2.0,0.0,FT,home_win
+984807,2023-03-28T15:00:00+00:00,Friendlies,2023,Armenia,Cyprus,1094,1106,2.0,2.0,FT,draw
+1015106,2023-03-28T17:00:00+00:00,Friendlies,2023,Iran,Kenya,22,1511,2.0,1.0,FT,home_win
+1012338,2023-03-28T18:00:00+00:00,Friendlies,2023,United Arab Emirates,Thailand,1563,1564,2.0,0.0,FT,home_win
+1012343,2023-03-28T18:00:00+00:00,Friendlies,2023,Uzbekistan,Venezuela,1568,2379,1.0,1.0,FT,draw
+1012375,2023-03-28T18:30:00+00:00,Friendlies,2023,Bahrain,Palestine,1547,1562,1.0,0.0,FT,home_win
+1014510,2023-03-28T18:30:00+00:00,Friendlies,2023,Jordan,Philippines,1548,1555,4.0,0.0,FT,home_win
+1012344,2023-03-28T18:45:00+00:00,Friendlies,2023,Germany,Belgium,25,1,2.0,3.0,FT,away_win
+1012345,2023-03-28T19:00:00+00:00,Friendlies,2023,Saudi Arabia,Bolivia,23,2381,1.0,2.0,FT,away_win
+1012376,2023-03-28T19:00:00+00:00,Friendlies,2023,Kuwait,Tajikistan,1570,1536,2.0,1.0,FT,home_win
+1012346,2023-03-28T19:30:00+00:00,Friendlies,2023,Morocco,Peru,31,30,0.0,0.0,FT,draw
+1012339,2023-03-28T23:30:00+00:00,Friendlies,2023,Argentina,Curaçao,26,5530,7.0,0.0,FT,home_win
+1019897,2023-03-31T11:45:00+00:00,Friendlies,2023,Nepal,Laos,1545,1558,2.0,1.0,FT,home_win
+1015107,2023-04-20T02:00:00+00:00,Friendlies,2023,USA,Mexico,2384,16,1.0,1.0,FT,draw
+1028629,2023-06-08T02:00:00+00:00,Friendlies,2023,Mexico,Guatemala,16,5161,2.0,0.0,FT,home_win
+1035620,2023-06-09T09:00:00+00:00,Friendlies,2023,Slovakia U18,Czech Republic U18,21479,21465,2.0,3.0,FT,away_win
+1035621,2023-06-09T10:00:00+00:00,Friendlies,2023,Norway U18,England U18,21474,21466,2.0,2.0,FT,draw
+1035557,2023-06-09T11:00:00+00:00,Friendlies,2023,Lebanon,Vanuatu,1551,5170,3.0,1.0,FT,home_win
+1035558,2023-06-09T14:00:00+00:00,Friendlies,2023,India,Mongolia,1537,5534,2.0,0.0,FT,home_win
+1035622,2023-06-09T17:00:00+00:00,Friendlies,2023,Portugal U18,Australia U18,19073,21458,4.0,2.0,FT,home_win
+1020352,2023-06-09T18:15:00+00:00,Friendlies,2023,Luxembourg,Malta,1102,1112,0.0,1.0,FT,away_win
+1028632,2023-06-11T00:00:00+00:00,Friendlies,2023,Panama,Nicaragua,11,5164,3.0,2.0,FT,home_win
+1028633,2023-06-11T02:00:00+00:00,Friendlies,2023,Mexico,Cameroon,16,1530,2.0,2.0,FT,draw
+1035623,2023-06-11T10:00:00+00:00,Friendlies,2023,England U18,Australia U18,21466,21458,3.0,2.0,FT,home_win
+1028667,2023-06-11T11:30:00+00:00,Friendlies,2023,Mauritius,Pakistan,1497,5535,3.0,0.0,FT,home_win
+1035559,2023-06-11T14:00:00+00:00,Friendlies,2023,Uzbekistan U23,Kyrgyz Republic U23,10963,10941,1.0,0.0,FT,home_win
+1035624,2023-06-11T17:00:00+00:00,Friendlies,2023,Portugal U18,Norway U18,19073,21474,5.0,0.0,FT,home_win
+1035560,2023-06-11T22:00:00+00:00,Friendlies,2023,Trinidad and Tobago,Guatemala,5168,5161,1.0,0.0,FT,home_win
+1028631,2023-06-11T23:00:00+00:00,Friendlies,2023,Chile,Cuba,2383,2388,3.0,0.0,FT,home_win
+1034553,2023-06-12T00:00:00+00:00,Friendlies,2023,Kuwait,Zambia,1570,1507,3.0,0.0,FT,home_win
+1035561,2023-06-12T11:00:00+00:00,Friendlies,2023,Mongolia,Lebanon,5534,1551,0.0,0.0,FT,draw
+1035562,2023-06-12T14:00:00+00:00,Friendlies,2023,India,Vanuatu,1537,5170,1.0,0.0,FT,home_win
+1035563,2023-06-12T14:45:00+00:00,Friendlies,2023,Oman U23,Lebanon U23,10950,10943,1.0,0.0,FT,home_win
+1028635,2023-06-12T16:00:00+00:00,Friendlies,2023,Germany,Ukraine,25,772,3.0,3.0,FT,draw
+1035564,2023-06-12T16:45:00+00:00,Friendlies,2023,Palestine U23,Syria U23,10952,10958,1.0,0.0,FT,home_win
+1035565,2023-06-12T18:45:00+00:00,Friendlies,2023,Iraq U23,Jordan U23,10192,10938,2.0,2.0,FT,draw
+1028636,2023-06-12T19:00:00+00:00,Friendlies,2023,Morocco,Cape Verde Islands,31,1533,0.0,0.0,FT,draw
+1028664,2023-06-12T21:30:00+00:00,Friendlies,2023,Trinidad and Tobago,Guatemala,5168,5161,1.0,0.0,FT,home_win
+1035625,2023-06-13T10:00:00+00:00,Friendlies,2023,Australia U18,Norway U18,21458,21474,2.0,1.0,FT,home_win
+1035626,2023-06-13T14:30:00+00:00,Friendlies,2023,Slovenia U18,Poland U18,21480,21476,1.0,0.0,FT,home_win
+1035627,2023-06-13T15:00:00+00:00,Friendlies,2023,Poland U16,Norway U16,21475,21473,3.0,1.0,FT,home_win
+1035629,2023-06-13T16:00:00+00:00,Friendlies,2023,Portugal U18,England U18,19073,21466,0.0,0.0,FT,draw
+1035567,2023-06-13T20:00:00+00:00,Friendlies,2023,Curaçao,Puerto Rico,5530,5539,0.0,0.0,FT,draw
+1034555,2023-06-13T22:00:00+00:00,Friendlies,2023,Puerto Rico,Curaçao,5539,5530,0.0,0.0,FT,draw
+1034556,2023-06-14T08:00:00+00:00,Friendlies,2023,Mozambique,Malawi,1512,1495,1.0,1.0,FT,draw
+1035568,2023-06-14T08:00:00+00:00,Friendlies,2023,Romania U17,Austria U17,17973,17939,3.0,0.0,FT,home_win
+1035569,2023-06-14T10:00:00+00:00,Friendlies,2023,Latvia U19,Lithuania U19,10339,10370,3.0,0.0,FT,home_win
+1028637,2023-06-14T11:00:00+00:00,Friendlies,2023,Kenya,Pakistan,1511,5535,1.0,0.0,FT,home_win
+1035570,2023-06-14T11:00:00+00:00,Friendlies,2023,Pakistan,Kenya,5535,1511,0.0,1.0,FT,away_win
+1016623,2023-06-14T12:30:00+00:00,Friendlies,2023,Indonesia,Palestine,1571,1562,0.0,0.0,FT,draw
+1035630,2023-06-14T12:30:00+00:00,Friendlies,2023,Netherlands U21,Japan U22,8211,21468,0.0,0.0,FT,draw
+1028668,2023-06-14T13:00:00+00:00,Friendlies,2023,Malaysia,Solomon Islands,1538,5165,4.0,1.0,FT,home_win
+1034557,2023-06-14T14:00:00+00:00,Friendlies,2023,Togo,Lesotho,1534,1518,2.0,0.0,FT,home_win
+1035571,2023-06-14T14:30:00+00:00,Friendlies,2023,Mauritius,Djibouti,1497,1535,1.0,3.0,FT,away_win
+1028671,2023-06-14T14:30:00+00:00,Friendlies,2023,Djibouti,Mauritius,1535,1497,3.0,1.0,FT,home_win
+1035572,2023-06-14T14:45:00+00:00,Friendlies,2023,UAE U23,Jordan U23,10184,10938,1.0,2.0,FT,away_win
+1034558,2023-06-14T15:00:00+00:00,Friendlies,2023,Congo DR,Uganda,1508,1519,1.0,0.0,FT,home_win
+1035573,2023-06-14T15:00:00+00:00,Friendlies,2023,Finland U19,Estonia U19,10333,10361,2.0,1.0,FT,home_win
+1035574,2023-06-14T16:00:00+00:00,Friendlies,2023,Albania U19,Kosovo U19,10354,20785,1.0,0.0,FT,home_win
+1035575,2023-06-14T16:45:00+00:00,Friendlies,2023,Iran U23,Syria U23,10937,10958,3.0,1.0,FT,home_win
+1035576,2023-06-14T18:45:00+00:00,Friendlies,2023,Yemen U23,Oman U23,10965,10950,0.0,3.0,FT,away_win
+1028640,2023-06-14T23:30:00+00:00,Friendlies,2023,Uruguay,Nicaragua,7,5164,4.0,1.0,FT,home_win
+1035631,2023-06-15T09:00:00+00:00,Friendlies,2023,Poland U16,Norway U16,21475,21473,2.0,1.0,FT,home_win
+1035577,2023-06-15T10:00:00+00:00,Friendlies,2023,China PR U23,Korea Republic U23,10932,10177,1.0,3.0,FT,away_win
+1028641,2023-06-15T10:10:00+00:00,Friendlies,2023,Japan,El Salvador,12,5159,6.0,0.0,FT,home_win
+1029582,2023-06-15T11:00:00+00:00,Friendlies,2023,Philippines,Nepal,1555,1545,1.0,0.0,FT,home_win
+1035578,2023-06-15T11:00:00+00:00,Friendlies,2023,Vanuatu,Mongolia,5170,5534,1.0,0.0,FT,home_win
+1028642,2023-06-15T12:00:00+00:00,Friendlies,2023,Argentina,Australia,26,20,2.0,0.0,FT,home_win
+1028669,2023-06-15T12:00:00+00:00,Friendlies,2023,Cambodia,Bangladesh,1543,1560,0.0,1.0,FT,away_win
+1028670,2023-06-15T12:30:00+00:00,Friendlies,2023,Vietnam,Hong Kong,1542,4460,1.0,0.0,FT,home_win
+1035579,2023-06-15T12:30:00+00:00,Friendlies,2023,Tajikistan U23,Hong Kong U23,10959,10934,1.0,1.0,FT,draw
+1035580,2023-06-15T14:00:00+00:00,Friendlies,2023,India,Lebanon,1537,1551,0.0,0.0,FT,draw
+1035632,2023-06-15T14:00:00+00:00,Friendlies,2023,Belarus U21,Russia U20,8182,21478,5.0,1.0,FT,home_win
+1035633,2023-06-15T14:00:00+00:00,Friendlies,2023,Bulgaria U18,Austria U18,21463,21460,1.0,0.0,FT,home_win
+1035581,2023-06-15T15:00:00+00:00,Friendlies,2023,North Macedonia U21,Armenia U21,8212,8179,1.0,1.0,FT,draw
+1035582,2023-06-15T15:00:00+00:00,Friendlies,2023,Egypt U23,Ghana U23,10172,20546,1.0,1.0,FT,draw
+1035585,2023-06-15T15:30:00+00:00,Friendlies,2023,Bulgaria U21,Montenegro U21,8185,8210,1.0,0.0,FT,home_win
+1035584,2023-06-15T15:30:00+00:00,Friendlies,2023,Poland U21,Finland U21,8215,8193,1.0,1.0,FT,draw
+1035583,2023-06-15T15:30:00+00:00,Friendlies,2023,Slovakia U21,Hungary U21,8223,16500,0.0,1.0,FT,away_win
+1028639,2023-06-15T16:00:00+00:00,Friendlies,2023,Jamaica,Qatar,2385,1569,1.0,2.0,FT,away_win
+1035587,2023-06-15T16:00:00+00:00,Friendlies,2023,Georgia U21,Cyprus U21,8195,8187,2.0,0.0,FT,home_win
+1035586,2023-06-15T16:00:00+00:00,Friendlies,2023,Scotland U21,Norway U21,8221,8214,0.0,0.0,FT,draw
+1035588,2023-06-15T17:00:00+00:00,Friendlies,2023,Kuwait,Sudan,1570,1510,2.0,1.0,FT,home_win
+1035635,2023-06-15T17:00:00+00:00,Friendlies,2023,Wales U18,Norway U19,21481,10342,0.0,1.0,FT,away_win
+1035589,2023-06-15T17:30:00+00:00,Friendlies,2023,Israel U21,Belgium U21,8200,8183,0.0,2.0,FT,away_win
+1028638,2023-06-16T00:00:00+00:00,Friendlies,2023,Venezuela,Honduras,2379,4672,1.0,0.0,FT,home_win
+1028644,2023-06-16T03:00:00+00:00,Friendlies,2023,Costa Rica,Guatemala,29,5161,0.0,1.0,FT,away_win
+1035590,2023-06-16T08:00:00+00:00,Friendlies,2023,Romania U17,Austria U17,17973,17939,2.0,2.0,FT,draw
+1035636,2023-06-16T08:30:00+00:00,Friendlies,2023,Albania U19,Kosovo U19,10354,20785,0.0,0.0,FT,draw
+1035591,2023-06-16T10:00:00+00:00,Friendlies,2023,Estonia U19,Latvia U19,10361,10339,6.0,2.0,FT,home_win
+1028643,2023-06-16T10:30:00+00:00,Friendlies,2023,China,Myanmar,1566,1556,4.0,0.0,FT,home_win
+1035637,2023-06-16T10:30:00+00:00,Friendlies,2023,China U22,Uzbekistan U23,21464,10963,1.0,3.0,FT,away_win
+1028645,2023-06-16T11:00:00+00:00,Friendlies,2023,South Korea,Peru,17,30,0.0,1.0,FT,away_win
+1021904,2023-06-16T11:00:00+00:00,Friendlies,2023,Chinese Taipei,Thailand,1557,1564,2.0,2.0,FT,draw
+1029484,2023-06-16T11:30:00+00:00,Friendlies,2023,Singapore,Papua New Guinea,1546,8175,2.0,2.0,FT,draw
+1035592,2023-06-16T14:00:00+00:00,Friendlies,2023,Azerbaijan U19,Georgia U19,10357,10335,2.0,1.0,FT,home_win
+1035638,2023-06-16T14:00:00+00:00,Friendlies,2023,Bulgaria U16,Austria U16,21462,21459,0.0,3.0,FT,away_win
+1035639,2023-06-16T14:00:00+00:00,Friendlies,2023,Romania U18,North Macedonia U18,21477,21472,1.0,1.0,FT,draw
+1035593,2023-06-16T14:45:00+00:00,Friendlies,2023,Lebanon U23,Yemen U23,10943,10965,1.0,2.0,FT,away_win
+1035594,2023-06-16T15:00:00+00:00,Friendlies,2023,Finland U19,Lithuania U19,10333,10370,3.0,2.0,FT,home_win
+1035595,2023-06-16T15:30:00+00:00,Friendlies,2023,Austria U21,Iceland U21,8180,8199,3.0,1.0,FT,home_win
+1035596,2023-06-16T16:00:00+00:00,Friendlies,2023,Germany U21,Switzerland U21,8196,8226,3.0,1.0,FT,home_win
+1035597,2023-06-16T16:00:00+00:00,Friendlies,2023,Ukraine U21,Republic of Ireland U21,8228,8217,2.0,2.0,FT,draw
+1035598,2023-06-16T16:30:00+00:00,Friendlies,2023,France U21,Mexico U20,8194,10293,1.0,0.0,FT,home_win
+1035599,2023-06-16T16:45:00+00:00,Friendlies,2023,Palestine U23,Iran U23,10952,10937,1.0,1.0,FT,draw
+1012347,2023-06-16T17:00:00+00:00,Friendlies,2023,Sweden,New Zealand,5,4673,4.0,1.0,FT,home_win
+1028646,2023-06-16T18:30:00+00:00,Friendlies,2023,Serbia,Jordan,14,1548,3.0,2.0,FT,home_win
+1028647,2023-06-16T18:45:00+00:00,Friendlies,2023,Poland,Germany,24,25,1.0,0.0,FT,home_win
+1035600,2023-06-16T18:45:00+00:00,Friendlies,2023,Iraq U23,UAE U23,10192,10184,3.0,0.0,FT,home_win
+1028648,2023-06-16T19:00:00+00:00,Friendlies,2023,Colombia,Iraq,8,1567,1.0,0.0,FT,home_win
+1028649,2023-06-17T00:30:00+00:00,Friendlies,2023,Chile,Dominican Republic,2383,5532,5.0,0.0,FT,home_win
+1035602,2023-06-17T12:00:00+00:00,Friendlies,2023,Djibouti,Pakistan,1535,5535,3.0,1.0,FT,home_win
+1028672,2023-06-17T12:00:00+00:00,Friendlies,2023,Pakistan,Djibouti,5535,1535,1.0,3.0,FT,away_win
+1035603,2023-06-17T16:00:00+00:00,Friendlies,2023,Turkey U21,Azerbaijan U21,8227,8181,1.0,0.0,FT,home_win
+1028928,2023-06-17T19:30:00+00:00,Friendlies,2023,Brazil,Guinea,6,1509,4.0,1.0,FT,home_win
+1028651,2023-06-17T23:30:00+00:00,Friendlies,2023,Ecuador,Bolivia,2382,2381,1.0,0.0,FT,home_win
+1037604,2023-06-18T07:30:00+00:00,Friendlies,2023,Lithuania U18,Estonia U18,21504,21503,2.0,1.0,FT,home_win
+1035660,2023-06-18T08:00:00+00:00,Friendlies,2023,Bulgaria U18,Austria U18,21463,21460,0.0,1.0,FT,away_win
+1035605,2023-06-18T10:00:00+00:00,Friendlies,2023,Scotland U21,Norway U21,8221,8214,1.0,1.0,FT,draw
+1035640,2023-06-18T10:30:00+00:00,Friendlies,2023,Latvia U18,Finland U18,21471,21467,2.0,2.0,FT,draw
+1028652,2023-06-18T11:30:00+00:00,Friendlies,2023,Mauritius,Kenya,1497,1511,1.0,0.0,FT,home_win
+1029485,2023-06-18T11:30:00+00:00,Friendlies,2023,Singapore,Solomon Islands,1546,5165,1.0,1.0,FT,draw
+1035661,2023-06-18T14:00:00+00:00,Friendlies,2023,India,Lebanon,1537,1551,2.0,0.0,FT,home_win
+1035607,2023-06-18T14:00:00+00:00,Friendlies,2023,Belarus U19,Georgia U19,10358,10335,2.0,0.0,FT,home_win
+1035641,2023-06-18T14:00:00+00:00,Friendlies,2023,Romania U18,North Macedonia U18,21477,21472,3.0,0.0,FT,home_win
+1035642,2023-06-18T14:00:00+00:00,Friendlies,2023,Wales U18,Norway U19,21481,10342,2.0,2.0,FT,draw
+1028650,2023-06-18T14:30:00+00:00,Friendlies,2023,Paraguay,Nicaragua,2380,5164,2.0,0.0,FT,home_win
+1036535,2023-06-18T15:00:00+00:00,Friendlies,2023,Iran U23,Jordan U23,10937,10938,0.0,0.0,FT,draw
+1035608,2023-06-18T15:30:00+00:00,Friendlies,2023,Torpedo Zhodino,Russia U21,385,8219,1.0,0.0,FT,home_win
+1031231,2023-06-18T17:00:00+00:00,Friendlies,2023,Egypt,South Sudan,32,1496,3.0,0.0,FT,home_win
+1036536,2023-06-18T18:00:00+00:00,Friendlies,2023,Iraq U23,Oman U23,10192,10950,1.0,0.0,FT,home_win
+1028653,2023-06-18T20:30:00+00:00,Friendlies,2023,Venezuela,Guatemala,2379,5161,1.0,0.0,FT,home_win
+1028673,2023-06-19T09:00:00+00:00,Friendlies,2023,Mação,Myanmar,4767,1556,0.0,2.0,FT,away_win
+1035644,2023-06-19T10:30:00+00:00,Friendlies,2023,China U22,Uzbekistan U23,21464,10963,1.0,2.0,FT,away_win
+1029583,2023-06-19T11:00:00+00:00,Friendlies,2023,Philippines,Chinese Taipei,1555,1557,2.0,3.0,FT,away_win
+1035611,2023-06-19T11:35:00+00:00,Friendlies,2023,China PR U23,Korea Republic U23,10932,10177,1.0,0.0,FT,home_win
+1028665,2023-06-19T12:00:00+00:00,Friendlies,2023,Jamaica,Jordan,2385,1548,1.0,2.0,FT,away_win
+1021697,2023-06-19T12:00:00+00:00,Friendlies,2023,Hong Kong,Thailand,4460,1564,0.0,1.0,FT,away_win
+1028654,2023-06-19T12:30:00+00:00,Friendlies,2023,Indonesia,Argentina,1571,26,0.0,2.0,FT,away_win
+1035610,2023-06-19T12:30:00+00:00,Friendlies,2023,Tajikistan U23,Hong Kong U23,10959,10934,2.0,1.0,FT,home_win
+1035645,2023-06-19T15:00:00+00:00,Friendlies,2023,Republic of Ireland U21,Kuwait U22,8217,21469,3.0,0.0,FT,home_win
+1035612,2023-06-19T17:15:00+00:00,Friendlies,2023,Hungary U21,Iceland U21,16500,8199,0.0,1.0,FT,away_win
+1035613,2023-06-19T18:15:00+00:00,Friendlies,2023,Montenegro U21,Poland U21,8210,8215,1.0,2.0,FT,away_win
+1028656,2023-06-20T09:55:00+00:00,Friendlies,2023,Japan,Peru,12,30,4.0,1.0,FT,home_win
+1028657,2023-06-20T11:00:00+00:00,Friendlies,2023,South Korea,El Salvador,17,5159,1.0,1.0,FT,draw
+1019895,2023-06-20T11:35:00+00:00,Friendlies,2023,China,Palestine,1566,1562,2.0,0.0,FT,home_win
+1029584,2023-06-20T12:30:00+00:00,Friendlies,2023,Vietnam,Syria,1542,1565,1.0,0.0,FT,home_win
+1029903,2023-06-20T13:00:00+00:00,Friendlies,2023,Malaysia,Papua New Guinea,1538,8175,10.0,0.0,FT,home_win
+1035616,2023-06-20T15:00:00+00:00,Friendlies,2023,Slovenia U21,Finland U21,8231,8193,1.0,0.0,FT,home_win
+1036565,2023-06-20T15:30:00+00:00,Friendlies,2023,Azerbaijan U21,Kyrgyzstan U21,8181,21470,1.0,1.0,FT,draw
+1035617,2023-06-20T15:30:00+00:00,Friendlies,2023,Slovakia U21,Austria U21,8223,8180,1.0,1.0,FT,draw
+994031,2023-06-20T16:00:00+00:00,Friendlies,2023,Montenegro,Czechia,1109,770,1.0,4.0,FT,away_win
+1035615,2023-06-20T16:00:00+00:00,Friendlies,2023,Malta U21,North Macedonia U21,8208,8212,0.0,4.0,FT,away_win
+1035614,2023-06-20T16:30:00+00:00,Friendlies,2023,Bulgaria U21,Albania U21,8185,8177,1.0,3.0,FT,away_win
+1035618,2023-06-20T17:00:00+00:00,Friendlies,2023,Turkey U21,Bosnia-Herzegovina U21,8227,8184,4.0,1.0,FT,home_win
+1036566,2023-06-20T17:00:00+00:00,Friendlies,2023,Iraq U23,Iran U23,10192,10937,1.0,1.0,FT,draw
+1028658,2023-06-20T18:45:00+00:00,Friendlies,2023,Germany,Colombia,25,8,0.0,2.0,FT,away_win
+1028929,2023-06-20T19:00:00+00:00,Friendlies,2023,Brazil,Senegal,6,13,2.0,4.0,FT,away_win
+1031232,2023-06-20T19:00:00+00:00,Friendlies,2023,Algeria,Tunisia,1532,28,1.0,1.0,FT,draw
+1028659,2023-06-20T23:30:00+00:00,Friendlies,2023,Uruguay,Cuba,7,2388,2.0,0.0,FT,home_win
+1028661,2023-06-21T00:00:00+00:00,Friendlies,2023,Bolivia,Chile,2381,2383,0.0,0.0,FT,draw
+1035619,2023-06-21T00:15:00+00:00,Friendlies,2023,Costa Rica,Ecuador,29,2382,1.0,3.0,FT,away_win
+1028660,2023-06-21T00:15:00+00:00,Friendlies,2023,Ecuador,Costa Rica,2382,29,3.0,1.0,FT,home_win
+1037605,2023-06-28T13:00:00+00:00,Friendlies,2023,Finland U17,Latvia U17,17952,17960,4.0,1.0,FT,home_win
+1037606,2023-06-28T15:00:00+00:00,Friendlies,2023,Lithuania U17,Estonia U17,17962,17950,2.0,4.0,FT,away_win
+1037941,2023-06-30T13:00:00+00:00,Friendlies,2023,Latvia U17,Estonia U17,17960,17950,3.0,3.0,FT,draw
+1037942,2023-06-30T15:00:00+00:00,Friendlies,2023,Lithuania U17,Finland U17,17962,17952,1.0,3.0,FT,away_win
+1041985,2023-07-02T08:00:00+00:00,Friendlies,2023,Finland U17,Estonia U17,17952,17950,4.0,0.0,FT,home_win
+1041986,2023-07-02T08:00:00+00:00,Friendlies,2023,Latvia U17,Lithuania U17,17960,17962,0.0,2.0,FT,away_win
+1028666,2023-08-02T23:00:00+00:00,Friendlies,2023,Ethiopia,Guyana,1506,5162,2.0,0.0,FT,home_win
+1104374,2023-08-27T20:00:00+00:00,Friendlies,2023,Bolivia,Panama,2381,11,1.0,2.0,FT,away_win
+1125027,2023-08-29T00:00:00+00:00,Friendlies,2023,Tahiti,Cook Islands,5167,8174,9.0,1.0,FT,home_win
+1125028,2023-09-01T06:00:00+00:00,Friendlies,2023,Tahiti,Cook Islands,5167,8174,3.0,0.0,FT,home_win
+1121900,2023-09-03T11:00:00+00:00,Friendlies,2023,Bangladesh,Afghanistan,1560,1553,0.0,0.0,FT,draw
+1102881,2023-09-03T22:00:00+00:00,Friendlies,2023,Guatemala,Honduras,5161,4672,0.0,0.0,FT,draw
+1102884,2023-09-06T09:00:00+00:00,Friendlies,2023,Malaysia,Syria,1538,1565,2.0,2.0,FT,draw
+1116901,2023-09-06T11:30:00+00:00,Friendlies,2023,Mação,Bhutan,4767,1540,0.0,1.0,FT,away_win
+1102885,2023-09-06T14:45:00+00:00,Friendlies,2023,Oman,Palestine,1552,1562,2.0,1.0,FT,home_win
+1115902,2023-09-06T18:00:00+00:00,Friendlies,2023,Malta,Gibraltar,1112,1093,1.0,0.0,FT,home_win
+1102886,2023-09-07T11:00:00+00:00,Friendlies,2023,Bangladesh,Afghanistan,1560,1553,1.0,1.0,FT,draw
+1115485,2023-09-07T12:00:00+00:00,Friendlies,2023,Cambodia,Hong Kong,1543,4460,1.0,1.0,FT,draw
+1119710,2023-09-07T15:00:00+00:00,Friendlies,2023,Bahrain,Kuwait,1547,1570,1.0,3.0,FT,away_win
+1124141,2023-09-07T15:15:00+00:00,Friendlies,2023,Qatar,Kenya,1569,1511,1.0,2.0,FT,away_win
+1087029,2023-09-07T16:00:00+00:00,Friendlies,2023,Bulgaria,Iran,1103,22,0.0,1.0,FT,away_win
+1012348,2023-09-07T17:00:00+00:00,Friendlies,2023,Norway,Jordan,1090,1548,6.0,0.0,FT,home_win
+1068052,2023-09-07T18:30:00+00:00,Friendlies,2023,Austria,Moldova,775,1114,1.0,1.0,FT,draw
+1028949,2023-09-07T18:45:00+00:00,Friendlies,2023,Wales,South Korea,767,17,0.0,0.0,FT,draw
+1115486,2023-09-08T10:30:00+00:00,Friendlies,2023,Myanmar,Nepal,1556,1545,0.0,0.0,FT,draw
+1081947,2023-09-08T11:00:00+00:00,Friendlies,2023,Chinese Taipei,Philippines,1557,1555,1.0,1.0,FT,draw
+1068054,2023-09-08T11:30:00+00:00,Friendlies,2023,Singapore,Tajikistan,1546,1536,0.0,2.0,FT,away_win
+1131720,2023-09-08T12:30:00+00:00,Friendlies,2023,Indonesia,Turkmenistan,1571,1539,2.0,0.0,FT,home_win
+1119707,2023-09-08T19:00:00+00:00,Friendlies,2023,Saudi Arabia,Costa Rica,23,29,1.0,3.0,FT,away_win
+1102882,2023-09-09T11:35:00+00:00,Friendlies,2023,China,Malaysia,1566,1538,1.0,1.0,FT,draw
+1119525,2023-09-09T13:00:00+00:00,Friendlies,2023,South Africa,Namibia,1531,1493,0.0,0.0,FT,draw
+1029480,2023-09-09T18:45:00+00:00,Friendlies,2023,Germany,Japan,25,12,1.0,4.0,FT,away_win
+1045877,2023-09-09T21:30:00+00:00,Friendlies,2023,USA,Uzbekistan,2384,1568,3.0,0.0,FT,home_win
+1081943,2023-09-10T02:00:00+00:00,Friendlies,2023,Mexico,Australia,16,20,2.0,2.0,FT,draw
+995738,2023-09-10T16:00:00+00:00,Friendlies,2023,Hungary,Czechia,769,770,1.0,1.0,FT,draw
+1115487,2023-09-11T10:30:00+00:00,Friendlies,2023,Myanmar,Nepal,1556,1545,1.0,0.0,FT,home_win
+1115488,2023-09-11T12:00:00+00:00,Friendlies,2023,Cambodia,Mação,1543,4767,4.0,0.0,FT,home_win
+1100659,2023-09-11T12:00:00+00:00,Friendlies,2023,Hong Kong,Brunei,4460,5538,10.0,0.0,FT,home_win
+1102887,2023-09-11T12:30:00+00:00,Friendlies,2023,Vietnam,Palestine,1542,1562,2.0,0.0,FT,home_win
+1119711,2023-09-11T16:00:00+00:00,Friendlies,2023,Kyrgyzstan,Kuwait,1554,1570,3.0,1.0,FT,home_win
+1102888,2023-09-12T11:00:00+00:00,Friendlies,2023,Philippines,Afghanistan,1555,1553,2.0,1.0,FT,home_win
+1068055,2023-09-12T11:30:00+00:00,Friendlies,2023,Singapore,Chinese Taipei,1546,1557,3.0,1.0,FT,home_win
+1102883,2023-09-12T11:35:00+00:00,Friendlies,2023,China,Syria,1566,1565,0.0,1.0,FT,away_win
+1043743,2023-09-12T12:20:00+00:00,Friendlies,2023,Japan,Türkiye,12,777,4.0,2.0,FT,home_win
+1124142,2023-09-12T13:00:00+00:00,Friendlies,2023,Kenya,South Sudan,1511,1496,0.0,1.0,FT,away_win
+1125812,2023-09-12T15:00:00+00:00,Friendlies,2023,Costa Rica,United Arab Emirates,29,1563,1.0,4.0,FT,away_win
+1119526,2023-09-12T15:00:00+00:00,Friendlies,2023,South Africa,Congo DR,1531,1508,1.0,0.0,FT,home_win
+1119712,2023-09-12T15:00:00+00:00,Friendlies,2023,Bahrain,Turkmenistan,1547,1539,1.0,1.0,FT,draw
+1126537,2023-09-12T15:15:00+00:00,Friendlies,2023,Qatar,Russia,1569,4,1.0,1.0,FT,draw
+1132058,2023-09-12T15:30:00+00:00,Friendlies,2023,Iran,Angola,22,1529,4.0,0.0,FT,home_win
+1012365,2023-09-12T16:00:00+00:00,Friendlies,2023,Azerbaijan,Jordan,1096,1548,2.0,1.0,FT,home_win
+1126538,2023-09-12T16:00:00+00:00,Friendlies,2023,Ghana,Liberia,1504,1525,3.0,1.0,FT,home_win
+1119708,2023-09-12T16:30:00+00:00,Friendlies,2023,Saudi Arabia,South Korea,23,17,0.0,1.0,FT,away_win
+1042721,2023-09-12T17:00:00+00:00,Friendlies,2023,Egypt,Tunisia,32,28,1.0,3.0,FT,away_win
+1062452,2023-09-12T18:30:00+00:00,Friendlies,2023,Morocco,Burkina Faso,31,1502,1.0,0.0,FT,home_win
+984806,2023-09-12T18:45:00+00:00,Friendlies,2023,Scotland,England,1108,10,1.0,3.0,FT,away_win
+1061059,2023-09-12T19:00:00+00:00,Friendlies,2023,Senegal,Algeria,13,1532,0.0,1.0,FT,away_win
+1029481,2023-09-12T19:00:00+00:00,Friendlies,2023,Germany,France,25,2,2.0,1.0,FT,home_win
+1081944,2023-09-12T23:30:00+00:00,Friendlies,2023,Mexico,Uzbekistan,16,1568,3.0,3.0,FT,draw
+1045878,2023-09-13T00:30:00+00:00,Friendlies,2023,USA,Oman,2384,1552,4.0,0.0,FT,home_win
+1136020,2023-10-08T03:00:00+00:00,Friendlies,2023,Papua New Guinea,Solomon Islands,8175,5165,1.0,3.0,FT,away_win
+1136021,2023-10-08T06:00:00+00:00,Friendlies,2023,New Caledonia,Vanuatu,5163,5170,4.0,0.0,FT,home_win
+1136018,2023-10-10T11:35:00+00:00,Friendlies,2023,China,Vietnam,1566,1542,2.0,0.0,FT,home_win
+1136022,2023-10-11T02:00:00+00:00,Friendlies,2023,Solomon Islands,Vanuatu,5165,5170,1.0,0.0,FT,home_win
+1136023,2023-10-11T05:00:00+00:00,Friendlies,2023,Papua New Guinea,New Caledonia,8175,5163,1.0,3.0,FT,away_win
+1012349,2023-10-11T18:45:00+00:00,Friendlies,2023,Wales,Gibraltar,767,1093,4.0,0.0,FT,home_win
+1136685,2023-10-12T16:00:00+00:00,Friendlies,2023,Russia,Cameroon,4,1530,1.0,0.0,FT,home_win
+1135750,2023-10-12T16:00:00+00:00,Friendlies,2023,Egypt,Zambia,32,1507,1.0,0.0,FT,home_win
+1012350,2023-10-12T16:00:00+00:00,Friendlies,2023,Georgia,Thailand,1104,1564,8.0,0.0,FT,home_win
+1124144,2023-10-12T16:00:00+00:00,Friendlies,2023,Montenegro,Lebanon,1109,1551,3.0,2.0,FT,home_win
+1126769,2023-10-12T16:00:00+00:00,Friendlies,2023,Bahrain,Kyrgyzstan,1547,1554,2.0,0.0,FT,home_win
+1135484,2023-10-12T16:00:00+00:00,Friendlies,2023,United Arab Emirates,Kuwait,1563,1570,1.0,0.0,FT,home_win
+1015108,2023-10-12T17:00:00+00:00,Friendlies,2023,Sweden,Moldova,5,1114,3.0,1.0,FT,home_win
+1135018,2023-10-12T19:00:00+00:00,Friendlies,2023,Algeria,Cape Verde Islands,1532,1533,5.0,1.0,FT,home_win
+1114142,2023-10-13T10:35:00+00:00,Friendlies,2023,Japan,Canada,12,5529,4.0,1.0,FT,home_win
+1119709,2023-10-13T11:00:00+00:00,Friendlies,2023,South Korea,Tunisia,17,28,4.0,0.0,FT,home_win
+1123356,2023-10-13T11:35:00+00:00,Friendlies,2023,Vietnam,Uzbekistan,1542,1568,0.0,2.0,FT,away_win
+1122369,2023-10-13T13:00:00+00:00,Friendlies,2023,Malaysia,India,1538,1537,4.0,2.0,FT,home_win
+1136357,2023-10-13T14:00:00+00:00,Friendlies,2023,Equatorial Guinea,Burkina Faso,1521,1502,0.0,0.0,FT,draw
+1137560,2023-10-13T14:00:00+00:00,Friendlies,2023,Angola,Mozambique,1529,1512,1.0,1.0,FT,draw
+1132669,2023-10-13T16:00:00+00:00,Friendlies,2023,Saudi Arabia,Nigeria,23,19,2.0,2.0,FT,draw
+1137687,2023-10-13T16:00:00+00:00,Friendlies,2023,Guinea,Guinea-Bissau,1509,1513,1.0,0.0,FT,home_win
+1119527,2023-10-13T16:00:00+00:00,Friendlies,2023,South Africa,Eswatini,1531,2995,0.0,0.0,FT,draw
+1133449,2023-10-13T16:00:00+00:00,Friendlies,2023,New Zealand,Congo DR,4673,1508,1.0,1.0,FT,draw
+1125814,2023-10-13T18:00:00+00:00,Friendlies,2023,Jordan,Iran,1548,22,1.0,3.0,FT,away_win
+1012351,2023-10-13T18:45:00+00:00,Friendlies,2023,England,Australia,10,20,1.0,0.0,FT,home_win
+1136358,2023-10-13T19:00:00+00:00,Friendlies,2023,Mali,Uganda,1500,1519,1.0,0.0,FT,home_win
+1136025,2023-10-14T03:00:00+00:00,Friendlies,2023,Papua New Guinea,Vanuatu,8175,5170,0.0,1.0,FT,away_win
+1136026,2023-10-14T06:00:00+00:00,Friendlies,2023,Solomon Islands,New Caledonia,5165,5163,1.0,0.0,FT,home_win
+1137561,2023-10-14T12:00:00+00:00,Friendlies,2023,Liberia,Libya,1525,1526,2.0,3.0,FT,away_win
+1137784,2023-10-14T15:30:00+00:00,Friendlies,2023,Sierra Leone,Benin,1499,1516,1.0,1.0,FT,draw
+1137783,2023-10-14T15:30:00+00:00,Friendlies,2023,Niger,Somalia,1505,8050,3.0,0.0,FT,home_win
+1135751,2023-10-14T17:00:00+00:00,Friendlies,2023,Ivory Coast,Morocco,1501,31,1.0,1.0,FT,draw
+1137562,2023-10-14T18:30:00+00:00,Friendlies,2023,Mauritania,Madagascar,1491,1490,2.0,1.0,FT,home_win
+1029482,2023-10-14T19:00:00+00:00,Friendlies,2023,USA,Germany,2384,25,1.0,3.0,FT,away_win
+1138749,2023-10-15T00:00:00+00:00,Friendlies,2023,Sudan,Tanzania,1510,1489,1.0,1.0,FT,draw
+1081945,2023-10-15T00:30:00+00:00,Friendlies,2023,Mexico,Ghana,16,1504,2.0,0.0,FT,home_win
+1136686,2023-10-15T07:00:00+00:00,Friendlies,2023,Kyrgyzstan,Philippines,1554,1555,0.0,1.0,FT,away_win
+1123355,2023-10-16T11:35:00+00:00,Friendlies,2023,China,Uzbekistan,1566,1568,1.0,2.0,FT,away_win
+1138346,2023-10-16T14:00:00+00:00,Friendlies,2023,Botswana,Eswatini,1520,2995,2.0,1.0,FT,home_win
+1136019,2023-10-16T15:00:00+00:00,Friendlies,2023,Mozambique,Nigeria,1512,19,2.0,3.0,FT,away_win
+1135019,2023-10-16T16:00:00+00:00,Friendlies,2023,Egypt,Algeria,32,1532,1.0,1.0,FT,draw
+1136474,2023-10-16T16:00:00+00:00,Friendlies,2023,Kenya,Russia,1511,4,2.0,2.0,FT,draw
+1134242,2023-10-16T18:30:00+00:00,Friendlies,2023,Senegal,Cameroon,13,1530,1.0,0.0,FT,home_win
+1138803,2023-10-17T00:00:00+00:00,Friendlies,2023,Chad,Sudan,1523,1510,0.0,1.0,FT,away_win
+1114143,2023-10-17T10:10:00+00:00,Friendlies,2023,Japan,Tunisia,12,28,2.0,0.0,FT,home_win
+1132670,2023-10-17T11:00:00+00:00,Friendlies,2023,South Korea,Vietnam,17,1542,6.0,0.0,FT,home_win
+1115484,2023-10-17T13:00:00+00:00,Friendlies,2023,FYR Macedonia,Armenia,1105,1094,3.0,1.0,FT,home_win
+1137563,2023-10-17T13:00:00+00:00,Friendlies,2023,Cape Verde Islands,Comoros,1533,1524,1.0,2.0,FT,away_win
+1138412,2023-10-17T13:00:00+00:00,Friendlies,2023,Malaysia,Tajikistan,1538,1536,0.0,2.0,FT,away_win
+1136359,2023-10-17T14:30:00+00:00,Friendlies,2023,Angola,Congo DR,1529,1508,0.0,0.0,FT,draw
+1126768,2023-10-17T15:00:00+00:00,Friendlies,2023,Saudi Arabia,Mali,23,1500,1.0,3.0,FT,away_win
+1137558,2023-10-17T15:00:00+00:00,Friendlies,2023,Zambia,Uganda,1507,1519,3.0,0.0,FT,home_win
+1138413,2023-10-17T15:30:00+00:00,Friendlies,2023,Madagascar,Benin,1490,1516,2.0,1.0,FT,home_win
+1137786,2023-10-17T15:30:00+00:00,Friendlies,2023,Libya,Niger,1526,1505,1.0,1.0,FT,draw
+1137787,2023-10-17T15:30:00+00:00,Friendlies,2023,Somalia,Sierra Leone,8050,1499,0.0,2.0,FT,away_win
+1087030,2023-10-17T16:00:00+00:00,Friendlies,2023,Albania,Bulgaria,778,1103,2.0,0.0,FT,home_win
+1012352,2023-10-17T16:00:00+00:00,Friendlies,2023,Estonia,Thailand,1101,1564,1.0,1.0,FT,draw
+1119714,2023-10-17T16:00:00+00:00,Friendlies,2023,Bahrain,Kyrgyzstan,1547,1554,1.0,0.0,FT,home_win
+1135485,2023-10-17T16:00:00+00:00,Friendlies,2023,United Arab Emirates,Lebanon,1563,1551,2.0,1.0,FT,home_win
+1137785,2023-10-17T16:00:00+00:00,Friendlies,2023,Syria,Kuwait,1565,1570,1.0,2.0,FT,away_win
+1136601,2023-10-17T18:00:00+00:00,Friendlies,2023,Guinea,Guinea-Bissau,1509,1513,1.0,1.0,FT,draw
+1138455,2023-10-17T18:00:00+00:00,Friendlies,2023,Qatar,Iran,1569,22,0.0,4.0,FT,away_win
+1136855,2023-10-17T18:30:00+00:00,Friendlies,2023,Mauritania,Burkina Faso,1491,1502,1.0,2.0,FT,away_win
+1068053,2023-10-17T18:45:00+00:00,Friendlies,2023,Australia,New Zealand,20,4673,2.0,0.0,FT,home_win
+1028662,2023-10-17T19:00:00+00:00,Friendlies,2023,France,Scotland,2,1108,4.0,1.0,FT,home_win
+1119528,2023-10-17T19:00:00+00:00,Friendlies,2023,Ivory Coast,South Africa,1501,1531,1.0,1.0,FT,draw
+1081946,2023-10-18T00:00:00+00:00,Friendlies,2023,Mexico,Germany,16,25,2.0,2.0,FT,draw
+1029483,2023-10-18T00:30:00+00:00,Friendlies,2023,USA,Ghana,2384,1504,4.0,0.0,FT,home_win
+1138802,2023-11-12T00:00:00+00:00,Friendlies,2023,Guatemala,Jamaica,5161,2385,0.0,0.0,FT,draw
+1028663,2023-11-15T19:45:00+00:00,Friendlies,2023,Belgium,Serbia,1,14,1.0,0.0,FT,home_win
+1012353,2023-11-16T17:00:00+00:00,Friendlies,2023,Norway,Faroe Islands,1090,1098,2.0,0.0,FT,home_win
+1142259,2023-11-17T00:00:00+00:00,Friendlies,2023,Curaçao,El Salvador,5530,5159,1.0,1.0,FT,draw
+1133448,2023-11-17T17:00:00+00:00,Friendlies,2023,Greece,New Zealand,1117,4673,2.0,0.0,FT,home_win
+1137559,2023-11-18T19:45:00+00:00,Friendlies,2023,Germany,Türkiye,25,777,2.0,3.0,FT,away_win
+994032,2023-11-19T16:00:00+00:00,Friendlies,2023,Cyprus,Lithuania,1106,1097,1.0,0.0,FT,home_win
+1141287,2023-11-20T16:30:00+00:00,Friendlies,2023,Russia,Cuba,4,2388,8.0,0.0,FT,home_win
+1142260,2023-11-21T00:00:00+00:00,Friendlies,2023,Curaçao,El Salvador,5530,5159,1.0,1.0,FT,draw
+1043108,2023-11-21T19:45:00+00:00,Friendlies,2023,Poland,Latvia,24,1092,2.0,0.0,FT,home_win
+1117888,2023-11-21T19:45:00+00:00,Friendlies,2023,Austria,Germany,775,25,2.0,0.0,FT,home_win
+1124143,2023-11-21T19:45:00+00:00,Friendlies,2023,Rep. Of Ireland,New Zealand,776,4673,1.0,1.0,FT,draw
+1143449,2023-12-10T23:00:00+00:00,Friendlies,2023,Colombia,Venezuela,8,2379,1.0,0.0,FT,home_win
+1135752,2023-12-17T00:00:00+00:00,Friendlies,2023,Mexico,Colombia,16,8,2.0,3.0,FT,away_win
+1149501,2023-12-25T15:30:00+00:00,Friendlies,2023,Uzbekistan,Kyrgyzstan,1568,1554,4.0,1.0,FT,home_win
+1149579,2023-12-28T12:00:00+00:00,Friendlies,2023,Lebanon,Jordan,1551,1548,2.0,1.0,FT,home_win
+1150209,2023-12-29T15:15:00+00:00,Friendlies,2023,China,Oman,1566,1552,0.0,2.0,FT,away_win
+1147344,2023-12-30T15:15:00+00:00,Friendlies,2023,United Arab Emirates,Kyrgyzstan,1563,1554,1.0,0.0,FT,home_win
+1140878,2023-12-31T15:00:00+00:00,Friendlies,2023,Qatar,Cambodia,1569,1543,3.0,0.0,FT,home_win
+1135020,2024-01-06T14:00:00+00:00,Friendlies,2023,Bahrain,Australia,1547,20,0.0,2.0,FT,away_win
+1155234,2024-01-01T00:00:00+00:00,Friendlies,2024,Japan,Thailand,12,1564,5.0,0.0,FT,home_win
+1155235,2024-01-01T00:00:00+00:00,Friendlies,2024,China,Hong Kong,1566,4460,1.0,2.0,FT,away_win
+1155236,2024-01-02T00:00:00+00:00,Friendlies,2024,Indonesia,Libya,1571,1526,0.0,4.0,FT,away_win
+1155288,2024-01-04T12:00:00+00:00,Friendlies,2024,Hong Kong,Tajikistan,4460,1536,1.0,2.0,FT,away_win
+1155237,2024-01-04T13:30:00+00:00,Friendlies,2024,Saudi Arabia,Lebanon,23,1551,1.0,0.0,FT,home_win
+1155239,2024-01-05T13:00:00+00:00,Friendlies,2024,Indonesia,Libya,1571,1526,1.0,2.0,FT,away_win
+1155240,2024-01-05T14:30:00+00:00,Friendlies,2024,Iran,Burkina Faso,22,1502,2.0,1.0,FT,home_win
+1155289,2024-01-05T15:30:00+00:00,Friendlies,2024,Syria,Kyrgyzstan,1565,1554,1.0,1.0,FT,draw
+1155238,2024-01-05T16:00:00+00:00,Friendlies,2024,Qatar,Jordan,1569,1548,1.0,2.0,FT,away_win
+1155291,2024-01-06T11:00:00+00:00,Friendlies,2024,Congo DR,Angola,1508,1529,0.0,0.0,FT,draw
+1155241,2024-01-06T13:00:00+00:00,Friendlies,2024,Iraq,South Korea,1567,17,0.0,1.0,FT,away_win
+1155290,2024-01-06T14:00:00+00:00,Friendlies,2024,Mozambique,Lesotho,1512,1518,2.0,0.0,FT,home_win
+1155242,2024-01-06T14:00:00+00:00,Friendlies,2024,Bahrain,Australia,1547,20,0.0,2.0,FT,away_win
+1155283,2024-01-06T15:15:00+00:00,Friendlies,2024,United Arab Emirates,Oman,1563,1552,0.0,1.0,FT,away_win
+1155243,2024-01-06T17:00:00+00:00,Friendlies,2024,Ivory Coast,Sierra Leone,1501,1499,5.0,1.0,FT,home_win
+1155244,2024-01-06T17:30:00+00:00,Friendlies,2024,Tunisia,Mauritania,28,1491,0.0,0.0,FT,draw
+1155292,2024-01-06T19:00:00+00:00,Friendlies,2024,Mali,Guinea-Bissau,1500,1513,6.0,2.0,FT,home_win
+1155293,2024-01-07T00:00:00+00:00,Friendlies,2024,Palestine,Uzbekistan,1562,1568,0.0,1.0,FT,away_win
+1155245,2024-01-07T16:00:00+00:00,Friendlies,2024,Egypt,Tanzania,32,1489,2.0,0.0,FT,home_win
+1155316,2024-01-08T12:00:00+00:00,Friendlies,2024,Guinea,Nigeria,1509,19,2.0,0.0,FT,home_win
+1155294,2024-01-08T12:00:00+00:00,Friendlies,2024,Syria,Malaysia,1565,1538,2.0,2.0,FT,draw
+1155284,2024-01-08T14:00:00+00:00,Friendlies,2024,Botswana,Mozambique,1520,1512,1.0,1.0,FT,draw
+1155249,2024-01-08T18:00:00+00:00,Friendlies,2024,Senegal,Niger,13,1505,1.0,0.0,FT,home_win
+1155250,2024-01-08T20:00:00+00:00,Friendlies,2024,Ghana,Namibia,1504,1493,0.0,0.0,FT,draw
+1155251,2024-01-09T11:30:00+00:00,Friendlies,2024,Japan,Jordan,12,1548,6.0,1.0,FT,home_win
+1155253,2024-01-09T13:00:00+00:00,Friendlies,2024,Zambia,Cameroon,1507,1530,1.0,1.0,FT,draw
+1155295,2024-01-09T13:00:00+00:00,Friendlies,2024,Kyrgyzstan,Vietnam,1554,1542,2.0,1.0,FT,home_win
+1155296,2024-01-09T14:00:00+00:00,Friendlies,2024,Equatorial Guinea,Djibouti,1521,1535,1.0,1.0,FT,draw
+1155254,2024-01-09T15:00:00+00:00,Friendlies,2024,Burundi,Algeria,1528,1532,0.0,4.0,FT,away_win
+1155255,2024-01-09T15:30:00+00:00,Friendlies,2024,Saudi Arabia,Palestine,23,1562,0.0,0.0,FT,draw
+1155252,2024-01-09T17:30:00+00:00,Friendlies,2024,Indonesia,Iran,1571,22,0.0,5.0,FT,away_win
+1155258,2024-01-10T13:00:00+00:00,Friendlies,2024,South Africa,Lesotho,1531,1518,0.0,0.0,FT,draw
+1155297,2024-01-10T14:00:00+00:00,Friendlies,2024,Congo DR,Burkina Faso,1508,1502,1.0,2.0,FT,away_win
+1155257,2024-01-10T15:30:00+00:00,Friendlies,2024,Saudi Arabia,Hong Kong,23,4460,2.0,0.0,FT,home_win
+1155256,2024-01-10T17:30:00+00:00,Friendlies,2024,Tunisia,Cape Verde Islands,28,1533,2.0,0.0,FT,home_win
+1155678,2024-01-11T15:00:00+00:00,Friendlies,2024,Morocco,Sierra Leone,31,1499,3.0,1.0,FT,home_win
+1155298,2024-01-12T15:00:00+00:00,Friendlies,2024,Kuwait,Libya,1570,1526,1.0,3.0,FT,away_win
+1155259,2024-01-12T18:00:00+00:00,Friendlies,2024,Sweden,Estonia,5,1101,2.0,1.0,FT,home_win
+1155260,2024-01-13T23:30:00+00:00,Friendlies,2024,Guatemala,Iceland,5161,18,0.0,1.0,FT,away_win
+1155261,2024-01-18T01:00:00+00:00,Friendlies,2024,Honduras,Iceland,4672,18,0.0,2.0,FT,away_win
+1155299,2024-01-19T16:00:00+00:00,Friendlies,2024,Kuwait,Uganda,1570,1519,0.0,2.0,FT,away_win
+1155262,2024-01-20T20:00:00+00:00,Friendlies,2024,USA,Slovenia,2384,1091,0.0,1.0,FT,away_win
+1155263,2024-02-03T02:00:00+00:00,Friendlies,2024,Costa Rica,El Salvador,29,5159,2.0,0.0,FT,home_win
+1179655,2024-03-01T19:00:00+00:00,Friendlies,2024,Trinidad and Tobago,Jamaica,5168,2385,0.0,1.0,FT,away_win
+1179656,2024-03-03T20:00:00+00:00,Friendlies,2024,Trinidad and Tobago,Jamaica,5168,2385,0.0,0.0,FT,draw
+1169679,2024-03-14T00:00:00+00:00,Friendlies,2024,Kazakhstan,Turkmenistan,1095,1539,2.0,0.0,FT,home_win
+1184429,2024-03-15T14:00:00+00:00,Friendlies,2024,Malaysia,Nepal,1538,1545,5.0,1.0,FT,home_win
+1184430,2024-03-18T04:00:00+00:00,Friendlies,2024,Solomon Islands,Fiji,5165,5160,2.0,1.0,FT,home_win
+1189518,2024-03-19T20:00:00+00:00,Friendlies,2024,Jordan U20,Syria U20,19627,21059,4.0,1.0,FT,home_win
+1189519,2024-03-20T12:00:00+00:00,Friendlies,2024,Czech Republic U18,England U18,21465,21466,1.0,2.0,FT,away_win
+1189520,2024-03-20T13:00:00+00:00,Friendlies,2024,Malawi U20,Zimbabwe U20,11037,16198,3.0,2.0,FT,home_win
+1189521,2024-03-20T14:30:00+00:00,Friendlies,2024,Hungary U20,Iceland U20,23259,23260,2.0,0.0,FT,home_win
+1189523,2024-03-20T15:00:00+00:00,Friendlies,2024,Tajikistan U23,Vietnam U23,10959,10964,0.0,1.0,FT,away_win
+1189522,2024-03-20T15:00:00+00:00,Friendlies,2024,Norway U18,Norway U19,21474,10342,3.0,2.0,FT,home_win
+1189524,2024-03-20T17:00:00+00:00,Friendlies,2024,Netherlands U18,Germany U18,22435,23258,0.0,1.0,FT,away_win
+1189525,2024-03-20T18:30:00+00:00,Friendlies,2024,Malta U19,Albania U19,10372,10354,0.0,1.0,FT,away_win
+1155285,2024-03-20T19:45:00+00:00,Friendlies,2024,San Marino,St. Kitts and Nevis,1115,5536,1.0,3.0,FT,away_win
+1189526,2024-03-20T21:00:00+00:00,Friendlies,2024,Algeria U20,Egypt U20,11017,11027,2.0,1.0,FT,home_win
+1179657,2024-03-20T23:00:00+00:00,Friendlies,2024,El Salvador,Bonaire,5159,10982,1.0,1.0,FT,draw
+1184431,2024-03-21T02:00:00+00:00,Friendlies,2024,Solomon Islands,Fiji,5165,5160,0.0,2.0,FT,away_win
+1184787,2024-03-21T12:00:00+00:00,Friendlies,2024,Ethiopia,Lesotho,1506,1518,1.0,2.0,FT,away_win
+1189529,2024-03-21T13:00:00+00:00,Friendlies,2024,Hull City,Curaçao,64,5530,0.0,1.0,FT,away_win
+1189528,2024-03-21T13:00:00+00:00,Friendlies,2024,Cyprus U18,Poland U18,23256,21476,0.0,1.0,FT,away_win
+1189530,2024-03-21T14:00:00+00:00,Friendlies,2024,Italy U18,Austria U18,19071,21460,2.0,1.0,FT,home_win
+1189531,2024-03-21T16:30:00+00:00,Friendlies,2024,Czech Republic U21,Northern Ireland U21,8188,8213,3.0,0.0,FT,home_win
+1155264,2024-03-21T17:00:00+00:00,Friendlies,2024,Russia,Serbia,4,14,4.0,0.0,FT,home_win
+1169680,2024-03-21T17:00:00+00:00,Friendlies,2024,Belarus,Montenegro,1100,1109,0.0,2.0,FT,away_win
+1155286,2024-03-21T17:00:00+00:00,Friendlies,2024,Cyprus,Latvia,1106,1092,1.0,1.0,FT,draw
+1189532,2024-03-21T17:00:00+00:00,Friendlies,2024,Hungary U21,Moldova U21,16500,8209,2.0,0.0,FT,home_win
+1165953,2024-03-21T18:00:00+00:00,Friendlies,2024,Malta,Slovenia,1112,1091,2.0,2.0,FT,draw
+1189534,2024-03-21T18:00:00+00:00,Friendlies,2024,Spain U21,Slovakia U21,8224,8223,0.0,2.0,FT,away_win
+1175759,2024-03-21T19:00:00+00:00,Friendlies,2024,Guinea,Vanuatu,1509,5170,6.0,0.0,FT,home_win
+1178425,2024-03-21T19:00:00+00:00,Friendlies,2024,Cape Verde Islands,Guyana,1533,5162,1.0,0.0,FT,home_win
+1189535,2024-03-21T19:00:00+00:00,Friendlies,2024,Netherlands U21,Norway U21,8211,8214,1.0,2.0,FT,away_win
+1155265,2024-03-21T19:45:00+00:00,Friendlies,2024,Portugal,Sweden,27,5,5.0,2.0,FT,home_win
+1171087,2024-03-21T21:00:00+00:00,Friendlies,2024,Italy,Venezuela,768,2379,2.0,1.0,FT,home_win
+1189536,2024-03-21T21:00:00+00:00,Friendlies,2024,Andorra,South Africa,1110,1531,1.0,1.0,FT,draw
+1189537,2024-03-21T21:00:00+00:00,Friendlies,2024,Tunisia U20,Mauritania U20,11049,11038,3.0,1.0,FT,home_win
+1171088,2024-03-22T00:30:00+00:00,Friendlies,2024,Ecuador,Guatemala,2382,5161,2.0,0.0,FT,home_win
+1160562,2024-03-22T01:30:00+00:00,Friendlies,2024,Belize,Puerto Rico,5528,5539,1.0,1.0,FT,draw
+1172563,2024-03-22T09:30:00+00:00,Friendlies,2024,Central African Republic,Bhutan,1527,1540,6.0,0.0,FT,home_win
+1183794,2024-03-22T10:00:00+00:00,Friendlies,2024,Madagascar,Burundi,1490,1528,1.0,0.0,FT,home_win
+1189539,2024-03-22T10:20:00+00:00,Friendlies,2024,Japan U23,Mali U23,10176,20551,1.0,3.0,FT,away_win
+1189540,2024-03-22T12:00:00+00:00,Friendlies,2024,England U18,Germany U18,21466,23258,0.0,0.0,FT,draw
+1165954,2024-03-22T13:00:00+00:00,Friendlies,2024,Tanzania,Bulgaria,1489,1103,0.0,1.0,FT,away_win
+1182788,2024-03-22T13:00:00+00:00,Friendlies,2024,Botswana,Rwanda,1520,1514,0.0,0.0,FT,draw
+1189542,2024-03-22T13:00:00+00:00,Friendlies,2024,Zimbabwe U20,Kenya U20,16198,11034,1.0,3.0,FT,away_win
+1189543,2024-03-22T13:30:00+00:00,Friendlies,2024,Cyprus U21,Sweden U21,8187,8225,1.0,6.0,FT,away_win
+1189544,2024-03-22T13:30:00+00:00,Friendlies,2024,Indonesia U20,China PR U20,21057,17262,1.0,1.0,FT,draw
+1189545,2024-03-22T14:00:00+00:00,Friendlies,2024,Germany U20,France U20,10310,10287,3.0,1.0,FT,home_win
+1189546,2024-03-22T14:00:00+00:00,Friendlies,2024,Malaysia U23,India U23,10945,10935,2.0,1.0,FT,home_win
+1189547,2024-03-22T14:00:00+00:00,Friendlies,2024,Tunisia U17,Morocco U17,22930,21302,0.0,1.0,FT,away_win
+1174092,2024-03-22T14:30:00+00:00,Friendlies,2024,FYR Macedonia,Moldova,1105,1114,1.0,1.0,FT,draw
+1189548,2024-03-22T14:30:00+00:00,Friendlies,2024,Finland U18,Switzerland U18,21467,22341,3.0,0.0,FT,home_win
+1189549,2024-03-22T14:30:00+00:00,Friendlies,2024,Hungary U20,Iceland U20,23259,23260,4.0,0.0,FT,home_win
+1189551,2024-03-22T15:00:00+00:00,Friendlies,2024,Norway U19,Romania U18,10342,21477,1.0,0.0,FT,home_win
+1189552,2024-03-22T15:00:00+00:00,Friendlies,2024,United States U23,Guinea U23,17883,20547,3.0,0.0,FT,home_win
+1189550,2024-03-22T15:00:00+00:00,Friendlies,2024,Belgium U18,Wales U18,22425,21481,1.0,0.0,FT,home_win
+1172564,2024-03-22T15:15:00+00:00,Friendlies,2024,Sri Lanka,Papua New Guinea,5166,8175,0.0,0.0,FT,draw
+1183792,2024-03-22T16:00:00+00:00,Friendlies,2024,Nigeria,Ghana,19,1504,2.0,1.0,FT,home_win
+1171753,2024-03-22T16:00:00+00:00,Friendlies,2024,Armenia,Kosovo,1094,1111,0.0,1.0,FT,away_win
+1175757,2024-03-22T16:00:00+00:00,Friendlies,2024,Azerbaijan,Mongolia,1096,5534,1.0,0.0,FT,home_win
+1156210,2024-03-22T17:00:00+00:00,Friendlies,2024,Norway,Czechia,1090,770,1.0,2.0,FT,away_win
+1169387,2024-03-22T17:00:00+00:00,Friendlies,2024,Liechtenstein,Faroe Islands,1107,1098,0.0,4.0,FT,away_win
+1189554,2024-03-22T17:00:00+00:00,Friendlies,2024,Germany U16,Italy U16,22430,22255,3.0,0.0,FT,home_win
+1189558,2024-03-22T17:30:00+00:00,Friendlies,2024,Turkey U21,Georgia U21,8227,8195,2.0,1.0,FT,home_win
+1189556,2024-03-22T17:30:00+00:00,Friendlies,2024,France U23,Côte d'Ivoire U23,16621,16620,3.0,2.0,FT,home_win
+1189557,2024-03-22T17:30:00+00:00,Friendlies,2024,Portugal U18,Georgia U18,19073,23257,4.0,0.0,FT,home_win
+1189555,2024-03-22T17:30:00+00:00,Friendlies,2024,Czech Republic U18,Netherlands U18,21465,22435,3.0,4.0,FT,away_win
+1189559,2024-03-22T18:00:00+00:00,Friendlies,2024,Ukraine U21,Morocco U23,8228,10179,1.0,0.0,FT,home_win
+1189560,2024-03-22T18:30:00+00:00,Friendlies,2024,Malta U19,Albania U19,10372,10354,2.0,2.0,FT,draw
+1178428,2024-03-22T19:00:00+00:00,Friendlies,2024,Equatorial Guinea,Cambodia,1521,1543,2.0,0.0,FT,home_win
+1175760,2024-03-22T19:00:00+00:00,Friendlies,2024,Bermuda,Brunei,5158,5538,2.0,0.0,FT,home_win
+1182073,2024-03-22T19:30:00+00:00,Friendlies,2024,Senegal,Gabon,13,1503,3.0,0.0,FT,home_win
+1189562,2024-03-22T19:30:00+00:00,Friendlies,2024,Austria U21,Denmark U21,8180,8189,1.0,1.0,FT,draw
+1172361,2024-03-22T19:45:00+00:00,Friendlies,2024,Hungary,Türkiye,769,777,1.0,0.0,FT,home_win
+1155266,2024-03-22T19:45:00+00:00,Friendlies,2024,Romania,Northern Ireland,774,771,1.0,1.0,FT,draw
+1174680,2024-03-22T19:45:00+00:00,Friendlies,2024,Albania,Chile,778,2383,0.0,3.0,FT,away_win
+1155267,2024-03-22T19:45:00+00:00,Friendlies,2024,Netherlands,Scotland,1118,1108,4.0,0.0,FT,home_win
+1174754,2024-03-22T20:00:00+00:00,Friendlies,2024,Egypt,New Zealand,32,4673,1.0,0.0,FT,home_win
+1168769,2024-03-22T20:30:00+00:00,Friendlies,2024,Spain,Colombia,9,8,0.0,1.0,FT,away_win
+1170216,2024-03-22T21:00:00+00:00,Friendlies,2024,Algeria,Bolivia,1532,2381,3.0,2.0,FT,home_win
+1189563,2024-03-22T21:00:00+00:00,Friendlies,2024,Morocco U18,Denmark U18,19072,22428,0.0,2.0,FT,away_win
+1182789,2024-03-22T21:30:00+00:00,Friendlies,2024,Comoros,Uganda,1524,1519,4.0,0.0,FT,home_win
+1175042,2024-03-22T22:00:00+00:00,Friendlies,2024,Morocco,Angola,31,1529,1.0,0.0,FT,home_win
+1176915,2024-03-22T22:00:00+00:00,Friendlies,2024,Mali,Mauritania,1500,1491,2.0,0.0,FT,home_win
+1182553,2024-03-22T22:00:00+00:00,Friendlies,2024,Burkina Faso,Libya,1502,1526,1.0,2.0,FT,away_win
+1183407,2024-03-22T22:00:00+00:00,Friendlies,2024,Niger,Togo,1505,1534,1.0,2.0,FT,away_win
+1189565,2024-03-22T22:00:00+00:00,Friendlies,2024,Sudan,Guinea-Bissau,1510,1513,1.0,0.0,FT,home_win
+1176913,2024-03-23T00:00:00+00:00,Friendlies,2024,Argentina,El Salvador,26,5159,3.0,0.0,FT,home_win
+1162613,2024-03-23T01:30:00+00:00,Friendlies,2024,Peru,Nicaragua,30,5164,2.0,0.0,FT,home_win
+1189566,2024-03-23T02:00:00+00:00,Friendlies,2024,Mexico U23,Argentina U23,10178,10187,2.0,4.0,FT,away_win
+1185100,2024-03-23T15:00:00+00:00,Friendlies,2024,Malawi,Kenya,1495,1511,0.0,4.0,FT,away_win
+1189567,2024-03-23T15:00:00+00:00,Friendlies,2024,Tajikistan U23,Vietnam U23,10959,10964,0.0,0.0,FT,draw
+1182074,2024-03-23T16:00:00+00:00,Friendlies,2024,Ivory Coast,Benin,1501,1516,2.0,2.0,FT,draw
+1155269,2024-03-23T17:00:00+00:00,Friendlies,2024,Slovakia,Austria,773,775,0.0,2.0,FT,away_win
+1155268,2024-03-23T17:00:00+00:00,Friendlies,2024,Rep. Of Ireland,Belgium,776,1,0.0,0.0,FT,draw
+1189568,2024-03-23T18:30:00+00:00,Friendlies,2024,Qatar U23,Uzbekistan U23,10954,10963,1.0,1.0,FT,draw
+1189569,2024-03-23T18:30:00+00:00,Friendlies,2024,Saudi Arabia U23,China PR U23,10955,10932,1.0,0.0,FT,home_win
+1189570,2024-03-23T19:00:00+00:00,Friendlies,2024,Uruguay,Basque Country,7,23263,1.0,1.0,FT,draw
+1155270,2024-03-23T19:00:00+00:00,Friendlies,2024,England,Brazil,10,6,0.0,1.0,FT,away_win
+1155271,2024-03-23T19:00:00+00:00,Friendlies,2024,Denmark,Switzerland,21,15,0.0,0.0,FT,draw
+1155272,2024-03-23T20:00:00+00:00,Friendlies,2024,France,Germany,2,25,0.0,2.0,FT,away_win
+1189572,2024-03-23T20:00:00+00:00,Friendlies,2024,French Guyana,Haiti,8118,2386,1.0,1.0,FT,draw
+1189573,2024-03-23T21:00:00+00:00,Friendlies,2024,Algeria U20,Tunisia U20,11017,11049,2.0,3.0,FT,away_win
+1189574,2024-03-23T21:00:00+00:00,Friendlies,2024,Mauritania U20,Egypt U20,11038,11027,1.0,2.0,FT,away_win
+1174093,2024-03-23T22:00:00+00:00,Friendlies,2024,Dominican Republic,Aruba,5532,8167,2.0,0.0,FT,home_win
+1189575,2024-03-23T22:30:00+00:00,Friendlies,2024,Paraguay U23,Dominican Republic U23,22925,17871,2.0,0.0,FT,home_win
+1189577,2024-03-24T10:00:00+00:00,Friendlies,2024,Italy U18,Austria U18,19071,21460,2.0,0.0,FT,home_win
+1189578,2024-03-24T11:45:00+00:00,Friendlies,2024,Croatia U18,Finland U18,22340,21467,2.0,2.0,FT,draw
+1184788,2024-03-24T12:00:00+00:00,Friendlies,2024,Ethiopia,Lesotho,1506,1518,2.0,1.0,FT,home_win
+1189579,2024-03-24T12:30:00+00:00,Friendlies,2024,Alanyaspor,Curaçao,996,5530,2.0,2.0,FT,draw
+1189581,2024-03-24T13:00:00+00:00,Friendlies,2024,Malawi U20,Kenya U20,11037,11034,3.0,1.0,FT,home_win
+1189580,2024-03-24T13:00:00+00:00,Friendlies,2024,Cyprus U18,Poland U18,23256,21476,0.0,0.0,FT,draw
+1189583,2024-03-24T15:00:00+00:00,Friendlies,2024,Norway U18,Romania U18,21474,21477,2.0,2.0,FT,draw
+1189582,2024-03-24T15:00:00+00:00,Friendlies,2024,Georgia U18,Denmark U18,23257,22428,1.0,1.0,FT,draw
+1175758,2024-03-24T18:00:00+00:00,Friendlies,2024,Suriname,Martinique,8171,8117,1.0,1.0,FT,draw
+1155287,2024-03-24T19:45:00+00:00,Friendlies,2024,San Marino,St. Kitts and Nevis,1115,5536,0.0,0.0,FT,draw
+1171089,2024-03-24T20:00:00+00:00,Friendlies,2024,Ecuador,Italy,2382,768,0.0,2.0,FT,away_win
+1189585,2024-03-24T21:00:00+00:00,Friendlies,2024,Portugal U18,Morocco U18,19073,19072,2.0,1.0,FT,home_win
+1171090,2024-03-24T22:00:00+00:00,Friendlies,2024,Guatemala,Venezuela,5161,2379,0.0,0.0,FT,draw
+1160563,2024-03-25T00:00:00+00:00,Friendlies,2024,Belize,Puerto Rico,5528,5539,3.0,0.0,FT,home_win
+1172565,2024-03-25T09:30:00+00:00,Friendlies,2024,Central African Republic,Papua New Guinea,1527,8175,4.0,0.0,FT,home_win
+1189587,2024-03-25T09:45:00+00:00,Friendlies,2024,Germany U18,Czech Republic U18,23258,21465,1.0,4.0,FT,away_win
+1182790,2024-03-25T10:00:00+00:00,Friendlies,2024,Burundi,Botswana,1528,1520,0.0,0.0,FT,draw
+1189588,2024-03-25T11:00:00+00:00,Friendlies,2024,Belgium U18,Wales U18,22425,21481,0.0,1.0,FT,away_win
+1189589,2024-03-25T11:00:00+00:00,Friendlies,2024,Germany U16,Italy U16,22430,22255,5.0,0.0,FT,home_win
+1189590,2024-03-25T12:00:00+00:00,Friendlies,2024,Netherlands U18,England U18,22435,21466,1.0,2.0,FT,away_win
+1175043,2024-03-25T13:00:00+00:00,Friendlies,2024,Tanzania,Mongolia,1489,5534,3.0,0.0,FT,home_win
+1189591,2024-03-25T13:00:00+00:00,Friendlies,2024,Rwanda,Madagascar,1514,1490,2.0,0.0,FT,home_win
+1189592,2024-03-25T13:00:00+00:00,Friendlies,2024,Tunisia U17,Morocco U17,22930,21302,1.0,2.0,FT,away_win
+1189593,2024-03-25T13:30:00+00:00,Friendlies,2024,Indonesia U20,China PR U20,21057,17262,1.0,1.0,FT,draw
+1189594,2024-03-25T14:00:00+00:00,Friendlies,2024,France U20,Germany U20,10287,10310,4.0,4.0,FT,draw
+1189595,2024-03-25T14:00:00+00:00,Friendlies,2024,Malaysia U23,India U23,10945,10935,1.0,1.0,FT,draw
+1172566,2024-03-25T15:15:00+00:00,Friendlies,2024,Sri Lanka,Bhutan,5166,1540,2.0,0.0,FT,home_win
+1165955,2024-03-25T16:00:00+00:00,Friendlies,2024,Azerbaijan,Bulgaria,1096,1103,1.0,1.0,FT,draw
+1155273,2024-03-25T17:00:00+00:00,Friendlies,2024,Cyprus,Serbia,1106,14,0.0,1.0,FT,away_win
+1169681,2024-03-25T17:00:00+00:00,Friendlies,2024,Montenegro,FYR Macedonia,1109,1105,1.0,0.0,FT,home_win
+1168770,2024-03-25T18:00:00+00:00,Friendlies,2024,Sweden,Albania,5,778,1.0,0.0,FT,home_win
+1189597,2024-03-25T18:00:00+00:00,Friendlies,2024,Malta U21,Slovakia U21,8208,8223,1.0,4.0,FT,away_win
+1175761,2024-03-25T19:00:00+00:00,Friendlies,2024,Guinea,Bermuda,1509,5158,5.0,1.0,FT,home_win
+1178429,2024-03-25T19:00:00+00:00,Friendlies,2024,Cape Verde Islands,Equatorial Guinea,1533,1521,1.0,0.0,FT,home_win
+1184789,2024-03-25T19:30:00+00:00,Friendlies,2024,Gabon,Congo,1503,1517,1.0,1.0,FT,draw
+1189598,2024-03-25T20:05:00+00:00,Friendlies,2024,France U23,United States U23,16621,17883,2.0,2.0,FT,draw
+1182791,2024-03-25T21:00:00+00:00,Friendlies,2024,Comoros,Angola,1524,1529,0.0,0.0,FT,draw
+1170217,2024-03-25T21:00:00+00:00,Friendlies,2024,Bolivia,Andorra,2381,1110,1.0,0.0,FT,home_win
+1189599,2024-03-25T21:00:00+00:00,Friendlies,2024,Tunisia U20,Egypt U20,11049,11027,1.0,1.0,FT,draw
+1189600,2024-03-25T22:00:00+00:00,Friendlies,2024,Guinea-Bissau,Sudan,1513,1510,2.0,1.0,FT,home_win
+1189991,2024-03-26T00:00:00+00:00,Friendlies,2024,Zambia,Malawi,1507,1495,2.0,1.0,FT,home_win
+1189992,2024-03-26T00:00:00+00:00,Friendlies,2024,Kenya,Zimbabwe,1511,1522,3.0,1.0,FT,home_win
+1189601,2024-03-26T02:00:00+00:00,Friendlies,2024,Mexico U23,Argentina U23,10178,10187,3.0,0.0,FT,home_win
+1189603,2024-03-26T11:00:00+00:00,Friendlies,2024,Croatia U18,Switzerland U18,22340,22341,1.0,2.0,FT,away_win
+1189610,2024-03-26T13:00:00+00:00,Friendlies,2024,Portugal U20,Denmark U20,10299,22429,1.0,4.0,FT,away_win
+1189607,2024-03-26T13:00:00+00:00,Friendlies,2024,Moldova U19,Estonia U19,10373,10361,2.0,1.0,FT,home_win
+1187442,2024-03-26T14:00:00+00:00,Friendlies,2024,Cayman Islands,Moldova,8169,1114,0.0,4.0,FT,away_win
+1189609,2024-03-26T15:00:00+00:00,Friendlies,2024,Portugal U18,Denmark U18,19073,22428,0.0,1.0,FT,away_win
+1183406,2024-03-26T16:00:00+00:00,Friendlies,2024,Uganda,Ghana,1519,1504,2.0,2.0,FT,draw
+1172561,2024-03-26T17:00:00+00:00,Friendlies,2024,Latvia,Liechtenstein,1092,1107,1.0,1.0,FT,draw
+1187511,2024-03-26T17:00:00+00:00,Friendlies,2024,Finland,Estonia,1099,1101,2.0,1.0,FT,home_win
+1171751,2024-03-26T18:00:00+00:00,Friendlies,2024,Hungary,Kosovo,769,1111,2.0,0.0,FT,home_win
+1156212,2024-03-26T18:00:00+00:00,Friendlies,2024,Norway,Slovakia,1090,773,1.0,1.0,FT,draw
+1165958,2024-03-26T18:00:00+00:00,Friendlies,2024,Malta,Belarus,1112,1100,0.0,0.0,FT,draw
+1189615,2024-03-26T18:00:00+00:00,Friendlies,2024,Morocco U23,Wales U21,10179,8229,2.0,0.0,FT,home_win
+1189611,2024-03-26T18:30:00+00:00,Friendlies,2024,Qatar U23,Uzbekistan U23,10954,10963,1.0,2.0,FT,away_win
+1189616,2024-03-26T18:30:00+00:00,Friendlies,2024,Saudi Arabia U23,China PR U23,10955,10932,2.0,0.0,FT,home_win
+1156211,2024-03-26T19:00:00+00:00,Friendlies,2024,Czechia,Armenia,770,1094,2.0,1.0,FT,home_win
+1178426,2024-03-26T19:00:00+00:00,Friendlies,2024,Guyana,Cambodia,5162,1543,4.0,1.0,FT,home_win
+1175762,2024-03-26T19:00:00+00:00,Friendlies,2024,Vanuatu,Brunei,5170,5538,2.0,3.0,FT,away_win
+1155275,2024-03-26T19:15:00+00:00,Friendlies,2024,Denmark,Faroe Islands,21,1098,2.0,0.0,FT,home_win
+1155274,2024-03-26T19:30:00+00:00,Friendlies,2024,Colombia,Romania,8,774,3.0,2.0,FT,home_win
+1182075,2024-03-26T19:30:00+00:00,Friendlies,2024,Senegal,Benin,13,1516,1.0,0.0,FT,home_win
+1180735,2024-03-26T19:30:00+00:00,Friendlies,2024,Ivory Coast,Uruguay,1501,7,2.0,1.0,FT,home_win
+1155276,2024-03-26T19:45:00+00:00,Friendlies,2024,England,Belgium,10,1,2.0,2.0,FT,draw
+1155277,2024-03-26T19:45:00+00:00,Friendlies,2024,Germany,Netherlands,25,1118,2.0,1.0,FT,home_win
+1172362,2024-03-26T19:45:00+00:00,Friendlies,2024,Austria,Türkiye,775,777,6.0,1.0,FT,home_win
+1155279,2024-03-26T19:45:00+00:00,Friendlies,2024,Rep. Of Ireland,Switzerland,776,15,0.0,1.0,FT,away_win
+1162059,2024-03-26T19:45:00+00:00,Friendlies,2024,Slovenia,Portugal,1091,27,2.0,0.0,FT,home_win
+1187512,2024-03-26T19:45:00+00:00,Friendlies,2024,Luxembourg,Kazakhstan,1102,1095,2.0,1.0,FT,home_win
+1155278,2024-03-26T19:45:00+00:00,Friendlies,2024,Scotland,Northern Ireland,1108,771,0.0,1.0,FT,away_win
+1167795,2024-03-26T20:00:00+00:00,Friendlies,2024,France,Chile,2,2383,3.0,2.0,FT,home_win
+1188621,2024-03-26T20:00:00+00:00,Friendlies,2024,Egypt,Croatia,32,3,2.0,4.0,FT,away_win
+1183793,2024-03-26T20:00:00+00:00,Friendlies,2024,Mali,Nigeria,1500,19,2.0,0.0,FT,home_win
+1160561,2024-03-26T20:30:00+00:00,Friendlies,2024,Spain,Brazil,9,6,3.0,3.0,FT,draw
+1170218,2024-03-26T21:00:00+00:00,Friendlies,2024,Algeria,South Africa,1532,1531,3.0,3.0,FT,draw
+1189619,2024-03-26T21:00:00+00:00,Friendlies,2024,Algeria U20,Mauritania U20,11017,11038,3.0,1.0,FT,home_win
+1189605,2024-03-26T21:00:00+00:00,Friendlies,2024,Morocco U18,Georgia U18,19072,23257,2.0,2.0,FT,draw
+1175044,2024-03-26T22:00:00+00:00,Friendlies,2024,Morocco,Mauritania,31,1491,0.0,0.0,FT,draw
+1182554,2024-03-26T22:00:00+00:00,Friendlies,2024,Burkina Faso,Niger,1502,1505,1.0,1.0,FT,draw
+1183408,2024-03-26T22:00:00+00:00,Friendlies,2024,Togo,Libya,1534,1526,1.0,1.0,FT,draw
+1189620,2024-03-26T23:30:00+00:00,Friendlies,2024,Paraguay U23,Dominican Republic U23,22925,17871,1.0,2.0,FT,away_win
+1178427,2024-03-27T01:00:00+00:00,Friendlies,2024,Nicaragua,Cuba,5164,2388,0.0,1.0,FT,away_win
+1162614,2024-03-27T01:30:00+00:00,Friendlies,2024,Peru,Dominican Republic,30,5532,4.0,1.0,FT,home_win
+1172559,2024-03-27T02:00:00+00:00,Friendlies,2024,El Salvador,Honduras,5159,4672,1.0,1.0,FT,draw
+1176914,2024-03-27T02:50:00+00:00,Friendlies,2024,Argentina,Costa Rica,26,29,3.0,1.0,FT,home_win
+1189622,2024-03-30T17:00:00+00:00,Friendlies,2024,Japan U16,Czech Republic U16,22724,22580,2.0,0.0,FT,home_win
+1199296,2024-05-03T00:00:00+00:00,Friendlies,2024,St. Vincent / Grenadines,Dominica,5541,5531,1.0,3.0,FT,away_win
+1199297,2024-05-05T00:00:00+00:00,Friendlies,2024,St. Vincent / Grenadines,Dominica,5541,5531,2.0,0.0,FT,home_win
+1199884,2024-05-13T23:00:00+00:00,Friendlies,2024,Trinidad and Tobago,Guyana,5168,5162,2.0,1.0,FT,home_win
+1200579,2024-05-15T00:00:00+00:00,Friendlies,2024,Sudan,Tanzania,1510,1489,2.0,1.0,FT,home_win
+1199885,2024-05-15T23:00:00+00:00,Friendlies,2024,Trinidad and Tobago,Guyana,5168,5162,2.0,0.0,FT,home_win
+1200583,2024-05-19T14:00:00+00:00,Friendlies,2024,Sudan,Tanzania,1510,1489,0.0,1.0,FT,away_win
+1200253,2024-05-26T20:00:00+00:00,Friendlies,2024,Grenada,St. Vincent / Grenadines,5533,5541,0.0,3.0,FT,away_win
+1192210,2024-05-27T00:00:00+00:00,Friendlies,2024,Guatemala,Nicaragua,5161,5164,1.0,1.0,FT,draw
+1202461,2024-06-01T00:00:00+00:00,Friendlies,2024,Lesotho,Namibia,1518,1493,1.0,1.0,FT,draw
+1184583,2024-06-01T01:30:00+00:00,Friendlies,2024,Mexico,Bolivia,16,2381,1.0,0.0,FT,home_win
+1199025,2024-06-01T02:00:00+00:00,Friendlies,2024,Costa Rica,Uruguay,29,7,0.0,0.0,FT,draw
+1200691,2024-06-02T09:00:00+00:00,Friendlies,2024,Indonesia,Tanzania,1571,1489,0.0,0.0,FT,draw
+1165956,2024-06-03T16:00:00+00:00,Friendlies,2024,Gibraltar,Scotland,1093,1108,0.0,2.0,FT,away_win
+1155280,2024-06-03T17:00:00+00:00,Friendlies,2024,Croatia,FYR Macedonia,3,1105,3.0,0.0,FT,home_win
+1172562,2024-06-03T18:00:00+00:00,Friendlies,2024,Albania,Liechtenstein,778,1107,3.0,0.0,FT,home_win
+1170219,2024-06-03T18:45:00+00:00,Friendlies,2024,England,Bosnia & Herzegovina,10,1113,3.0,0.0,FT,home_win
+1186282,2024-06-03T18:45:00+00:00,Friendlies,2024,Germany,Ukraine,25,772,0.0,0.0,FT,draw
+1170220,2024-06-04T16:00:00+00:00,Friendlies,2024,Slovenia,Armenia,1091,1094,2.0,1.0,FT,home_win
+1174682,2024-06-04T18:15:00+00:00,Friendlies,2024,Switzerland,Estonia,15,1101,4.0,0.0,FT,home_win
+1157594,2024-06-04T18:30:00+00:00,Friendlies,2024,Romania,Bulgaria,774,1103,0.0,0.0,FT,draw
+1172363,2024-06-04T18:45:00+00:00,Friendlies,2024,Portugal,Finland,27,1099,4.0,2.0,FT,home_win
+1173868,2024-06-04T18:45:00+00:00,Friendlies,2024,Austria,Serbia,775,14,2.0,1.0,FT,home_win
+1172364,2024-06-04T18:45:00+00:00,Friendlies,2024,Rep. Of Ireland,Hungary,776,769,2.0,1.0,FT,home_win
+1172560,2024-06-04T19:00:00+00:00,Friendlies,2024,Italy,Türkiye,768,777,0.0,0.0,FT,draw
+1175755,2024-06-05T16:00:00+00:00,Friendlies,2024,Slovakia,San Marino,773,1115,4.0,0.0,FT,home_win
+1171720,2024-06-05T17:00:00+00:00,Friendlies,2024,Denmark,Sweden,21,5,2.0,1.0,FT,home_win
+1171752,2024-06-05T17:00:00+00:00,Friendlies,2024,Norway,Kosovo,1090,1111,3.0,0.0,FT,home_win
+1169677,2024-06-05T18:30:00+00:00,Friendlies,2024,Belgium,Montenegro,1,1109,2.0,0.0,FT,home_win
+1196834,2024-06-05T19:00:00+00:00,Friendlies,2024,France,Luxembourg,2,1102,3.0,0.0,FT,home_win
+1182372,2024-06-05T19:30:00+00:00,Friendlies,2024,Spain,Andorra,9,1110,5.0,0.0,FT,home_win
+1155281,2024-06-06T01:00:00+00:00,Friendlies,2024,Mexico,Uruguay,16,7,0.0,4.0,FT,away_win
+1197684,2024-06-06T16:00:00+00:00,Friendlies,2024,Gibraltar,Wales,1093,767,0.0,0.0,FT,draw
+1182784,2024-06-06T18:45:00+00:00,Friendlies,2024,Netherlands,Canada,1118,5529,4.0,0.0,FT,home_win
+1194765,2024-06-07T11:00:00+00:00,Friendlies,2024,Cambodia,Mongolia,1543,5534,2.0,0.0,FT,home_win
+1192065,2024-06-07T15:30:00+00:00,Friendlies,2024,Czechia,Malta,770,1112,7.0,1.0,FT,home_win
+1171754,2024-06-07T16:00:00+00:00,Friendlies,2024,Armenia,Kazakhstan,1094,1095,2.0,1.0,FT,home_win
+1182373,2024-06-07T17:00:00+00:00,Friendlies,2024,Albania,Azerbaijan,778,1096,3.0,1.0,FT,home_win
+1198576,2024-06-07T17:00:00+00:00,Friendlies,2024,Belarus,Russia,1100,4,0.0,4.0,FT,away_win
+1157595,2024-06-07T18:00:00+00:00,Friendlies,2024,Romania,Liechtenstein,774,1107,0.0,0.0,FT,draw
+1171721,2024-06-07T18:45:00+00:00,Friendlies,2024,England,Iceland,10,18,0.0,1.0,FT,away_win
+1184786,2024-06-07T18:45:00+00:00,Friendlies,2024,Poland,Ukraine,24,772,3.0,1.0,FT,home_win
+1186283,2024-06-07T18:45:00+00:00,Friendlies,2024,Germany,Greece,25,1117,2.0,1.0,FT,home_win
+1165957,2024-06-07T18:45:00+00:00,Friendlies,2024,Scotland,Finland,1108,1099,2.0,2.0,FT,draw
+1193960,2024-06-08T00:30:00+00:00,Friendlies,2024,Peru,Paraguay,30,2380,0.0,0.0,FT,draw
+1202462,2024-06-08T12:15:00+00:00,Friendlies,2024,Brunei,Sri Lanka,5538,5166,1.0,0.0,FT,home_win
+1170221,2024-06-08T13:00:00+00:00,Friendlies,2024,Slovenia,Bulgaria,1091,1103,1.0,1.0,FT,draw
+1174683,2024-06-08T16:00:00+00:00,Friendlies,2024,Sweden,Serbia,5,14,0.0,3.0,FT,away_win
+1173869,2024-06-08T16:00:00+00:00,Friendlies,2024,Switzerland,Austria,15,775,1.0,1.0,FT,draw
+1175128,2024-06-08T16:00:00+00:00,Friendlies,2024,Hungary,Israel,769,1116,3.0,0.0,FT,home_win
+1175045,2024-06-08T16:00:00+00:00,Friendlies,2024,Moldova,Cyprus,1114,1106,3.0,2.0,FT,home_win
+1168422,2024-06-08T16:45:00+00:00,Friendlies,2024,Portugal,Croatia,27,3,1.0,2.0,FT,away_win
+1171722,2024-06-08T17:30:00+00:00,Friendlies,2024,Denmark,Norway,21,1090,3.0,1.0,FT,home_win
+1168423,2024-06-08T18:00:00+00:00,Friendlies,2024,Belgium,Luxembourg,1,1102,3.0,0.0,FT,home_win
+1194540,2024-06-08T19:30:00+00:00,Friendlies,2024,Spain,Northern Ireland,9,771,5.0,1.0,FT,home_win
+1174091,2024-06-08T21:30:00+00:00,Friendlies,2024,USA,Colombia,2384,8,1.0,5.0,FT,away_win
+1155282,2024-06-09T01:00:00+00:00,Friendlies,2024,Mexico,Brazil,16,6,2.0,3.0,FT,away_win
+1173870,2024-06-09T18:45:00+00:00,Friendlies,2024,Italy,Bosnia & Herzegovina,768,1113,1.0,0.0,FT,home_win
+1175756,2024-06-09T18:45:00+00:00,Friendlies,2024,Slovakia,Wales,773,767,4.0,0.0,FT,home_win
+1169682,2024-06-09T18:45:00+00:00,Friendlies,2024,Montenegro,Georgia,1109,1104,1.0,3.0,FT,away_win
+1196553,2024-06-09T19:15:00+00:00,Friendlies,2024,France,Canada,2,5529,0.0,0.0,FT,draw
+1193462,2024-06-09T23:00:00+00:00,Friendlies,2024,Argentina,Ecuador,26,2382,1.0,0.0,FT,home_win
+1169678,2024-06-10T16:00:00+00:00,Friendlies,2024,Czechia,FYR Macedonia,770,1105,2.0,1.0,FT,home_win
+1184584,2024-06-10T18:45:00+00:00,Friendlies,2024,Poland,Türkiye,24,777,2.0,1.0,FT,home_win
+1182785,2024-06-10T18:45:00+00:00,Friendlies,2024,Netherlands,Iceland,1118,18,4.0,0.0,FT,home_win
+1196554,2024-06-11T09:00:00+00:00,Friendlies,2024,Mongolia,Cambodia,5534,1543,2.0,1.0,FT,home_win
+1202463,2024-06-11T12:15:00+00:00,Friendlies,2024,Brunei,Sri Lanka,5538,5166,1.0,0.0,FT,home_win
+1199026,2024-06-11T14:00:00+00:00,Friendlies,2024,Azerbaijan,Kazakhstan,1096,1095,3.0,2.0,FT,home_win
+1198578,2024-06-11T16:00:00+00:00,Friendlies,2024,Belarus,Israel,1100,1116,0.0,4.0,FT,away_win
+1200436,2024-06-11T16:00:00+00:00,Friendlies,2024,Malta,Greece,1112,1117,0.0,2.0,FT,away_win
+1182786,2024-06-11T16:00:00+00:00,Friendlies,2024,Moldova,Ukraine,1114,772,0.0,4.0,FT,away_win
+1175046,2024-06-11T16:00:00+00:00,Friendlies,2024,San Marino,Cyprus,1115,1106,1.0,4.0,FT,away_win
+1172365,2024-06-11T18:45:00+00:00,Friendlies,2024,Portugal,Rep. Of Ireland,27,776,3.0,0.0,FT,home_win
+1198485,2024-06-11T18:45:00+00:00,Friendlies,2024,Northern Ireland,Andorra,771,1110,2.0,0.0,FT,home_win
+1193961,2024-06-12T00:00:00+00:00,Friendlies,2024,Chile,Paraguay,2383,2380,3.0,0.0,FT,home_win
+1178423,2024-06-12T23:00:00+00:00,Friendlies,2024,USA,Brazil,2384,6,1.0,1.0,FT,draw
+1198577,2024-06-13T00:30:00+00:00,Friendlies,2024,Ecuador,Bolivia,2382,2381,3.0,1.0,FT,home_win
+1178424,2024-06-15T00:00:00+00:00,Friendlies,2024,Argentina,Guatemala,26,5161,4.0,1.0,FT,home_win
+1197592,2024-06-15T00:30:00+00:00,Friendlies,2024,El Salvador,Peru,5159,30,0.0,1.0,FT,away_win
+1198059,2024-06-15T21:00:00+00:00,Friendlies,2024,Colombia,Bolivia,8,2381,3.0,0.0,FT,home_win
+1198060,2024-06-16T19:30:00+00:00,Friendlies,2024,Ecuador,Honduras,2382,4672,2.0,1.0,FT,home_win
+1193372,2024-06-16T22:30:00+00:00,Friendlies,2024,Panama,Paraguay,11,2380,0.0,1.0,FT,away_win
+1198299,2024-07-28T02:30:00+00:00,Friendlies,2024,Guatemala,El Salvador,5161,5159,0.0,1.0,FT,away_win
+1286335,2024-08-27T16:00:00+00:00,Friendlies,2024,Jordan,North Korea,1548,1561,0.0,0.0,FT,draw
+1286336,2024-08-29T16:00:00+00:00,Friendlies,2024,Jordan,North Korea,1548,1561,2.0,1.0,FT,home_win
+1261912,2024-09-01T23:00:00+00:00,Friendlies,2024,Uruguay,Guatemala,7,5161,1.0,1.0,FT,draw
+1234548,2024-09-02T07:00:00+00:00,Friendlies,2024,Fiji,Solomon Islands,5160,5165,1.0,0.0,FT,home_win
+1282776,2024-09-04T08:30:00+00:00,Friendlies,2024,Lebanon,Tajikistan,1551,1536,1.0,0.0,FT,home_win
+1282777,2024-09-04T13:00:00+00:00,Friendlies,2024,Malaysia,Philippines,1538,1555,2.0,1.0,FT,home_win
+1286333,2024-09-04T16:00:00+00:00,Friendlies,2024,Gibraltar,Andorra,1093,1110,1.0,0.0,FT,home_win
+1234549,2024-09-05T07:00:00+00:00,Friendlies,2024,Solomon Islands,Hong Kong,5165,4460,0.0,3.0,FT,away_win
+1298895,2024-09-05T12:00:00+00:00,Friendlies,2024,Bhutan,Bangladesh,1540,1560,0.0,1.0,FT,away_win
+1293945,2024-09-05T13:00:00+00:00,Friendlies,2024,Vietnam,Russia,1542,4,0.0,3.0,FT,away_win
+1282778,2024-09-06T14:00:00+00:00,Friendlies,2024,Mauritius,Syria,1497,1565,0.0,2.0,FT,away_win
+1215627,2024-09-07T20:00:00+00:00,Friendlies,2024,USA,Canada,2384,5529,1.0,2.0,FT,away_win
+1184585,2024-09-08T01:00:00+00:00,Friendlies,2024,Mexico,New Zealand,16,4673,3.0,0.0,FT,home_win
+1234550,2024-09-08T03:00:00+00:00,Friendlies,2024,Hong Kong,Fiji,4460,5160,1.0,1.0,FT,draw
+1298896,2024-09-08T12:00:00+00:00,Friendlies,2024,Bhutan,Bangladesh,1540,1560,1.0,0.0,FT,home_win
+1301188,2024-09-08T13:00:00+00:00,Friendlies,2024,Malaysia,Lebanon,1538,1551,1.0,0.0,FT,home_win
+1282775,2024-09-09T14:00:00+00:00,Friendlies,2024,India,Syria,1537,1565,0.0,3.0,FT,away_win
+1182787,2024-09-10T11:00:00+00:00,Friendlies,2024,Moldova,San Marino,1114,1115,1.0,0.0,FT,home_win
+1293947,2024-09-10T13:00:00+00:00,Friendlies,2024,Vietnam,Thailand,1542,1564,1.0,2.0,FT,away_win
+1215628,2024-09-10T23:00:00+00:00,Friendlies,2024,USA,New Zealand,2384,4673,1.0,1.0,FT,draw
+1184586,2024-09-11T01:00:00+00:00,Friendlies,2024,Mexico,Canada,16,5529,0.0,0.0,FT,draw
+1308572,2024-10-10T09:30:00+00:00,Friendlies,2024,Myanmar,Sri Lanka,1556,5166,2.0,0.0,FT,home_win
+1200437,2024-10-10T17:30:00+00:00,Friendlies,2024,Liechtenstein,Hong Kong,1107,4460,1.0,0.0,FT,home_win
+1268558,2024-10-11T12:00:00+00:00,Friendlies,2024,Cambodia,Chinese Taipei,1543,1557,3.0,2.0,FT,home_win
+1310837,2024-10-12T11:00:00+00:00,Friendlies,2024,Vietnam,India,1542,1537,1.0,1.0,FT,draw
+1215629,2024-10-13T01:00:00+00:00,Friendlies,2024,USA,Panama,2384,11,2.0,0.0,FT,home_win
+1308573,2024-10-13T09:30:00+00:00,Friendlies,2024,Myanmar,Sri Lanka,1556,5166,0.0,0.0,FT,draw
+1296774,2024-10-13T16:00:00+00:00,Friendlies,2024,Andorra,San Marino,1110,1115,2.0,0.0,FT,home_win
+1298894,2024-10-14T06:00:00+00:00,Friendlies,2024,New Zealand,Malaysia,4673,1538,4.0,0.0,FT,home_win
+1268559,2024-10-15T12:00:00+00:00,Friendlies,2024,Hong Kong,Cambodia,4460,1543,3.0,0.0,FT,home_win
+1294672,2024-10-15T23:30:00+00:00,Friendlies,2024,Canada,Panama,5529,11,2.0,1.0,FT,home_win
+1293948,2024-10-16T02:30:00+00:00,Friendlies,2024,Mexico,USA,16,2384,2.0,0.0,FT,home_win
+1315180,2024-11-13T12:00:00+00:00,Friendlies,2024,Bangladesh,Maldives,1560,1549,0.0,1.0,FT,away_win
+1313047,2024-11-13T13:00:00+00:00,Friendlies,2024,Tajikistan,Nepal,1536,1545,4.0,0.0,FT,home_win
+1311131,2024-11-14T12:00:00+00:00,Friendlies,2024,Singapore,Myanmar,1546,1556,3.0,2.0,FT,home_win
+1298698,2024-11-14T12:00:00+00:00,Friendlies,2024,Hong Kong,Philippines,4460,1555,3.0,1.0,FT,home_win
+1313508,2024-11-14T12:30:00+00:00,Friendlies,2024,Laos,Malaysia,1558,1538,1.0,3.0,FT,away_win
+1312231,2024-11-14T12:30:00+00:00,Friendlies,2024,Thailand,Lebanon,1564,1551,0.0,0.0,FT,draw
+1200438,2024-11-14T18:00:00+00:00,Friendlies,2024,Malta,Liechtenstein,1112,1107,2.0,0.0,FT,home_win
+1313046,2024-11-15T16:00:00+00:00,Friendlies,2024,Russia,Brunei,4,5538,11.0,0.0,FT,home_win
+1315181,2024-11-16T12:00:00+00:00,Friendlies,2024,Bangladesh,Maldives,1560,1549,2.0,1.0,FT,home_win
+1313048,2024-11-16T13:00:00+00:00,Friendlies,2024,Nepal,Afghanistan,1545,1553,2.0,0.0,FT,home_win
+1312849,2024-11-17T12:30:00+00:00,Friendlies,2024,Thailand,Laos,1564,1558,1.0,1.0,FT,draw
+1311132,2024-11-18T12:00:00+00:00,Friendlies,2024,Singapore,Chinese Taipei,1546,1557,2.0,3.0,FT,away_win
+1308804,2024-11-18T14:00:00+00:00,Friendlies,2024,India,Malaysia,1537,1538,1.0,1.0,FT,draw
+1315182,2024-11-19T10:30:00+00:00,Friendlies,2024,Myanmar,Lebanon,1556,1551,2.0,3.0,FT,away_win
+1298699,2024-11-19T12:00:00+00:00,Friendlies,2024,Hong Kong,Mauritius,4460,1497,1.0,0.0,FT,home_win
+1314212,2024-11-19T13:00:00+00:00,Friendlies,2024,Tajikistan,Afghanistan,1536,1553,3.0,1.0,FT,home_win
+1316641,2024-11-19T16:15:00+00:00,Friendlies,2024,Sri Lanka,Yemen,5166,1550,0.0,2.0,FT,away_win
+1313507,2024-11-19T16:30:00+00:00,Friendlies,2024,Russia,Syria,4,1565,4.0,0.0,FT,home_win
+1286334,2024-11-19T17:00:00+00:00,Friendlies,2024,Gibraltar,Moldova,1093,1114,1.0,1.0,FT,draw
+1321853,2024-12-09T00:00:00+00:00,Friendlies,2024,Kuwait,Yemen,1570,1550,1.0,1.0,FT,draw
+1321854,2024-12-12T15:00:00+00:00,Friendlies,2024,Kuwait,Lebanon,1570,1551,1.0,2.0,FT,away_win
+1321855,2024-12-15T15:00:00+00:00,Friendlies,2024,Kuwait,Lebanon,1570,1551,0.0,2.0,FT,away_win
+1325295,2024-12-16T00:00:00+00:00,Friendlies,2024,Oman,Yemen,1552,1550,1.0,0.0,FT,home_win
+1325294,2024-12-17T16:45:00+00:00,Friendlies,2024,Saudi Arabia,Trinidad and Tobago,23,5168,3.0,1.0,FT,home_win
+1327874,2024-12-21T00:00:00+00:00,Friendlies,2024,Solomon Islands,Fiji,5165,5160,1.0,3.0,FT,away_win
+1327873,2024-12-21T00:00:00+00:00,Friendlies,2024,Vanuatu,Papua New Guinea,5170,8175,1.0,2.0,FT,away_win
