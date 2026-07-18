@@ -14,7 +14,7 @@ The catch: the World Cup itself only has 64 matches every four years — nowhere
 
 ## How it works
 
-**Data:** Pulled ~1,700 real matches via the [API-Football](https://www.api-football.com/) API — not just World Cup matches, but qualifiers, continental championships (Euros, AFCON, Copa América), UEFA Nations League, and friendlies. All national-team fixtures, kept consistent in context.
+**Data:** Pulled ~1,700 real matches via the [API-Football](https://www.api-football.com/) API — not just World Cup matches, but qualifiers, continental championships (Euros, AFCON, Copa América), UEFA Nations League, and friendlies. All national-team fixtures are kept consistent in context.
 
 **Features, calculated with zero data leakage:**
 - **Recent form** — points from each team's last 5 matches, using only results *before* the match being predicted
@@ -29,7 +29,7 @@ The catch: the World Cup itself only has 64 matches every four years — nowhere
 
 - **~60% accuracy** on held-out matches, vs. a **46% baseline** (always guessing the home team wins)
 - Strong at distinguishing wins and losses; **draws remain the hardest outcome to call** — consistent with how difficult draws are to predict in football generally, even for human pundits
-- Every feature addition was tested against a real baseline before being kept — a couple of promising-looking features (goal difference specifically) were tested and **dropped** after being shown to add noise rather than signal, rather than kept just because they sounded useful
+- Every feature addition was tested against a real baseline before being kept — a couple of promising-looking features (goal difference specifically) were tested, and **dropped** after being shown to add noise rather than signal, rather than kept just because they sounded useful
 
 ## Tech stack
 
@@ -52,7 +52,7 @@ world-cup-predictor/
 ## Running it locally
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Andrew-mwangi/world-cup-predictor-
 cd world-cup-predictor
 python3 -m venv .venv
 source .venv/bin/activate
@@ -67,8 +67,8 @@ API_FOOTBALL_KEY=your_key_here
 
 ## What's next
 
-- Squad and player-level data (injuries, key absences) — deliberately scoped out of v1 since official lineups aren't confirmed until ~1 hour before kickoff, which needs careful handling rather than a quick bolt-on
-- Improving draw prediction specifically, once richer features are in place
+Squad and player-level data (injuries, key absences) — deliberately scoped out of v1 since official lineups aren't confirmed until ~1 hour before kickoff, which needs careful handling rather than a quick bolt-on
+Improving draw prediction, specifically, once richer features are in place
 
 ## About
 
