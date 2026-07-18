@@ -88,4 +88,25 @@ if st.button("Predict", type="primary"):
         outcome_labels = {"home_win": home_name, "draw": "Draw", "away_win": away_name}
         predicted = max(prob_dict, key=prob_dict.get)
         st.info(f"Most likely outcome: **{outcome_labels[predicted]}** ({prob_dict[predicted]:.0%})")
+        st.subheader("What's driving this prediction")
+        d1, d2 = st.columns(2)
+        with d1:
+            st.write(f"**{home_name}**")
+            st.caption(f"Elo rating: {X['home_elo'].values[0]:.0f}")
+            st.caption(f"Recent form: {X['home_form'].values[0]:.0f} pts (last 5)")
+        with d2:
+            st.write(f"**{away_name}**")
+            st.caption(f"Elo rating: {X['away_elo'].values[0]:.0f}")
+            st.caption(f"Recent form: {X['away_form'].values[0]:.0f} pts (last 5)")
+
+        if X["h2h_matches_played"].values[0] > 0:
+            st.caption(
+                f"Head-to-head: {home_name} has won {X['h2h_home_win_rate'].values[0]:.0%} "
+                f"of {int(X['h2h_matches_played'].values[0])} meetings"
+            )
+        else:
+            st.caption("These teams haven't met in the dataset")
+
+        st.divider()
+        st.caption("Model accuracy: ~60% on held-out matches. Strongest at predicting win/loss; weaker on draws.")
         # to run it use streamlit run src/app.py
